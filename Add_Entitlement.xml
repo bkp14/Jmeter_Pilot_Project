@@ -1,0 +1,144 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1785167936548,241,/_version_/version.json-2,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: No such host is known (inputsuggestions.msdxcdn.microsoft.com),,text,false,,2147,0,0,0,https://inputsuggestions.msdxcdn.microsoft.com/_version_/version.json,0,0,230
+1785167936548,241,/_version_/config.json-1,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: inputsuggestions.msdxcdn.microsoft.com,,text,false,,1944,0,0,0,https://inputsuggestions.msdxcdn.microsoft.com/_version_/config.json,0,0,230
+1785167938106,4107,/OneCollector/1.0/-3,400,Exception while decoding the payload,,text,false,,551,5478,0,0,https://mobile.events.data.microsoft.com/OneCollector/1.0/,4106,0,1430
+0,0,mtalk.google.com:443,,Only ASCII supported in headers (perhaps SSL was used?),,,false,,251,0,0,0,null,0,0,0
+1785167952058,1352,/c2dm/register3-5,Non HTTP response code: java.lang.IllegalArgumentException,Non HTTP response message: Missing location header in redirect for POST https://android.clients.google.com/c2dm/register3 HTTP/1.1,,text,false,,486,0,0,0,https://android.clients.google.com/c2dm/register3,1347,0,1027
+1785167945673,11396,/web/index.php/auth/login-4,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: No such host is known (opensource-demo.orangehrmlive.com),,text,false,,2142,0,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,0,0,11393
+1785167957217,2,/favicon.ico-6,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: opensource-demo.orangehrmlive.com,,text,false,,1856,0,0,0,https://opensource-demo.orangehrmlive.com/favicon.ico,0,0,0
+1785169182822,110,/_version_/config.json-7,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: No such host is known (inputsuggestions.msdxcdn.microsoft.com),,text,false,,2147,0,0,0,https://inputsuggestions.msdxcdn.microsoft.com/_version_/config.json,0,0,106
+1785169183590,692,/service/update2/json?cup2key=16:gPKcYlCjibIOwzKibZ6HQhGeHXjPw2rWQ1TshAAa10c&cup2hreq=d0a3429fa4b08a5187402281b24c1b257976fc58cbfc353ceab974183767de10-8,200,OK,,text,true,,1397,1553,0,0,https://update.googleapis.com/service/update2/json?cup2key=16:gPKcYlCjibIOwzKibZ6HQhGeHXjPw2rWQ1TshAAa10c&cup2hreq=d0a3429fa4b08a5187402281b24c1b257976fc58cbfc353ceab974183767de10,690,0,381
+1785169184417,2,/_version_/config.json-9,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: inputsuggestions.msdxcdn.microsoft.com,,text,false,,1861,0,0,0,https://inputsuggestions.msdxcdn.microsoft.com/_version_/config.json,0,0,1
+1785169189433,2,/_version_/config.json-12,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: inputsuggestions.msdxcdn.microsoft.com,,text,false,,1861,0,0,0,https://inputsuggestions.msdxcdn.microsoft.com/_version_/config.json,0,0,1
+1785169189434,1,/_version_/version.json-13,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: inputsuggestions.msdxcdn.microsoft.com,,text,false,,1861,0,0,0,https://inputsuggestions.msdxcdn.microsoft.com/_version_/version.json,0,0,0
+0,0,mtalk.google.com:443,,Only ASCII supported in headers (perhaps SSL was used?),,,false,,251,0,0,0,null,0,0,0
+1785169190008,1321,/web/index.php/auth/login-14,200,OK,,text,true,,2275,701,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1318,0,917
+1785169191428,1692,/web/dist/css/app.css-18,200,OK,,text,true,,168286,672,0,0,https://opensource-demo.orangehrmlive.com/web/dist/css/app.css?v=1783336755185,1140,0,621
+1785169191426,1848,/web/dist/css/chunk-vendors.css-15,200,OK,,text,true,,250938,682,0,0,https://opensource-demo.orangehrmlive.com/web/dist/css/chunk-vendors.css?v=1783336755185,1129,0,623
+1785169191428,3306,/web/dist/js/chunk-vendors.js-17,200,OK,,text,true,,1711494,666,0,0,https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1783336755185,1129,0,624
+1785169191428,3323,/web/dist/js/app.js-16,200,OK,,text,true,,1544772,656,0,0,https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?v=1783336755185,1150,0,621
+1785169195230,870,/web/dist/favicon.ico-20,200,OK,,bin,true,,1544,718,0,0,https://opensource-demo.orangehrmlive.com/web/dist/favicon.ico?v=1783336755185,869,0,556
+1785169195220,1681,/web/index.php/core/i18n/messages-19,200,OK,,text,true,,102769,694,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,1202,0,567
+1785169197154,545,/web/dist/img/blob.svg-23,200,OK,,text,true,,1258,715,0,0,https://opensource-demo.orangehrmlive.com/web/dist/img/blob.svg,544,0,359
+1785169197471,305,/v1/pages/ChVDaHJvbWUvMTUwLjAuNzg3MS4xODQSQQlx0MhB461LMBIPDeeNQA4qCBABGAEgBDgEEg8NzkFMeioIEAIYAiAEOAQh9KXClZfOzHUpncE_NIzhIE4yAiAC-25,200,OK,,text,true,,548,588,0,0,https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTUwLjAuNzg3MS4xODQSQQlx0MhB461LMBIPDeeNQA4qCBABGAEgBDgEEg8NzkFMeioIEAIYAiAEOAQh9KXClZfOzHUpncE_NIzhIE4yAiAC?alt=proto,304,0,171
+1785169197148,740,/web/images/ohrm_branding.png-21,200,OK,,bin,true,,31379,726,0,0,https://opensource-demo.orangehrmlive.com/web/images/ohrm_branding.png?v=1783336755185,731,0,363
+1785169197861,274,/c2dm/register3-26,Non HTTP response code: java.lang.IllegalArgumentException,Non HTTP response message: Missing location header in redirect for POST https://android.clients.google.com/c2dm/register3 HTTP/1.1,,text,false,,486,0,0,0,https://android.clients.google.com/c2dm/register3,273,0,178
+1785169187754,10699,/ws/chat-11,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: null,,text,false,,1873,0,0,0,https://web.whatsapp.com/ws/chat,0,0,407
+1785169197150,1303,/web/images/ohrm_logo.png-22,200,OK,,bin,true,,325411,706,0,0,https://opensource-demo.orangehrmlive.com/web/images/ohrm_logo.png,744,0,379
+1785169197270,1154,/web/dist/fonts/bootstrap-icons.woff2-24,200,OK,,text,true,,122267,726,0,0,https://opensource-demo.orangehrmlive.com/web/dist/fonts/bootstrap-icons.woff2,790,0,398
+1785169197917,739,/web/dist/fonts/nunito-sans-v6-latin-ext_latin-800.woff2-27,200,OK,,text,true,,26749,745,0,0,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-800.woff2,730,0,357
+1785169197919,741,/web/dist/fonts/nunito-sans-v6-latin-ext_latin-regular.woff2-28,200,OK,,text,true,,26853,749,0,0,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-regular.woff2,738,0,375
+1785169187754,11062,/ws/chat-10,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: null,,text,false,,1873,0,0,0,https://web.whatsapp.com:5222/ws/chat,0,0,407
+1785169198493,810,/web/dist/fonts/nunito-sans-v6-latin-ext_latin-600.woff2-29,200,OK,,text,true,,26789,745,0,0,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-600.woff2,805,0,338
+1785169199978,12032,/connecttest.txt-31,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: ipv6.msftconnecttest.com,,text,false,,1930,0,0,0,http://ipv6.msftconnecttest.com/connecttest.txt,0,0,12030
+1785169199974,12036,/connecttest.txt-30,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: No such host is known (ipv6.msftconnecttest.com),,text,false,,2133,0,0,0,http://ipv6.msftconnecttest.com/connecttest.txt,0,0,12034
+1785169201827,10802,/ws/chat-32,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: null,,text,false,,1873,0,0,0,https://web.whatsapp.com/ws/chat,0,0,464
+1785169202762,10685,/ws/chat-33,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: null,,text,false,,1873,0,0,0,https://web.whatsapp.com:5222/ws/chat,0,0,348
+1785169212969,1196,/web/index.php/auth/validate-34,302,Found,,text,true,,1647,1138,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,1194,0,480
+1785169214210,887,/web/index.php/dashboard/index-35,200,OK,,text,true,,2797,862,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,885,0,469
+1785169215234,976,/web/index.php/core/i18n/messages-36,304,Not Modified,,,true,,856,788,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,0,0,570
+1785169216437,797,/web/index.php/api/v2/dashboard/shortcuts-40,200,OK,,text,true,,1112,755,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/shortcuts,796,0,391
+1785169216435,905,/web/index.php/api/v2/dashboard/employees/action-summary-39,200,OK,,text,true,,1152,770,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/action-summary,903,0,499
+1785169216368,971,/web/images/orange.png-37,200,OK,,bin,true,,17527,724,0,0,https://opensource-demo.orangehrmlive.com/web/images/orange.png?v=1783336755185,970,0,460
+1785169216443,943,/web/index.php/api/v2/buzz/feed-41,200,OK,,text,true,,3225,744,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/buzz/feed?limit=5&offset=0&sortOrder=DESC&sortField=share.createdAtUtc,942,0,492
+1785169216431,996,/web/index.php/api/v2/dashboard/employees/time-at-work-38,200,OK,,text,true,,2097,830,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/time-at-work?timezoneOffset=5.5&currentDate=2026-07-27&currentTime=21%3A50,995,0,505
+1785169216449,1007,/web/index.php/api/v2/dashboard/employees/leaves-42,200,OK,,text,true,,995,778,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/leaves?date=2026-07-27,1006,0,490
+1785169217259,794,/web/index.php/api/v2/dashboard/employees/subunit-45,200,OK,,text,true,,1255,763,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/subunit,793,0,389
+1785169217412,745,/web/images/orangehrm-logo.png-49,200,OK,,bin,true,,3646,732,0,0,https://opensource-demo.orangehrmlive.com/web/images/orangehrm-logo.png?v=1783336755185,744,0,454
+1785169217371,888,/web/index.php/api/v2/dashboard/employees/locations-47,200,OK,,text,true,,1211,765,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/locations,887,0,482
+1785169217386,874,/web/index.php/events/push-48,200,OK,,text,true,,981,773,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/events/push,874,0,467
+1785169217458,1005,/web/index.php/pim/viewPhoto/empNumber/7-50,200,OK,,bin,true,,17283,726,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,1004,0,394
+1785169217486,1284,/web/images/dashboard_empty_widget_watermark.png-51,200,OK,,bin,true,,42881,734,0,0,https://opensource-demo.orangehrmlive.com/web/images/dashboard_empty_widget_watermark.png,976,0,467
+1785169218288,1100,/web/index.php/pim/viewPhoto/empNumber/22-52,200,OK,,bin,true,,33922,727,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/22,1098,0,485
+1785169218288,1164,/web/index.php/pim/viewPhoto/empNumber/11-53,200,OK,,bin,true,,22842,727,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/11,1163,0,487
+1785169218493,1100,/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2-56,200,OK,,text,true,,27281,745,0,0,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2,1098,0,596
+1785169218492,1199,/web/index.php/pim/viewPhoto/empNumber/9-55,200,OK,,bin,true,,19566,726,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/9,1198,0,597
+1785169218788,1011,/web/dist/fonts/nunito-sans-v6-latin-ext_latin-300.woff2-57,200,OK,,text,true,,26561,745,0,0,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-300.woff2,1009,0,603
+1785169218492,1822,/web/index.php/buzz/photo/9-54,200,OK,,bin,true,,124621,713,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/9,1301,0,598
+1785169219416,899,/web/dist/fonts/nunito-sans-v6-latin-ext_latin-italic.woff2-58,200,OK,,text,true,,27769,748,0,0,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-italic.woff2,897,0,387
+1785169223344,555,/uma/v2-59,400,Bad Request,,text,false,,1844,4888,0,0,https://clientservices.googleapis.com/uma/v2,554,0,363
+1785169223353,1155,/service/update2/json?cup2key=16:ImBmrFqu9DEvKdbHS7rIW1OSaGLp08AYXaei5xTgNsg&cup2hreq=701c04f01e7915c0185a143de7906d9dd577de4964efdc221fdabb2b3d3b2f96-60,200,OK,,text,true,,2185,9710,0,0,https://update.googleapis.com/service/update2/json?cup2key=16:ImBmrFqu9DEvKdbHS7rIW1OSaGLp08AYXaei5xTgNsg&cup2hreq=701c04f01e7915c0185a143de7906d9dd577de4964efdc221fdabb2b3d3b2f96,1154,0,355
+1785169226934,438,/uma/v2-61,400,Bad Request,,text,false,,1844,5201,0,0,https://clientservices.googleapis.com/uma/v2,437,0,147
+1785169217034,10339,/ws/chat-44,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: null,,text,false,,1873,0,0,0,https://web.whatsapp.com/ws/chat,0,0,147
+1785169217272,10420,/ws/chat-46,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: null,,text,false,,1873,0,0,0,https://web.whatsapp.com:5222/ws/chat,0,0,163
+1785169227455,429,/v1/pages/ChVDaHJvbWUvMTUwLjAuNzg3MS4xODQSLAmvTyx_rP-tUxINDZFhlU4qBhgBIAU4BSGPPQEGvDq-kSnoTxumKRXRbjIA-63,200,OK,,text,true,,502,560,0,0,https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTUwLjAuNzg3MS4xODQSLAmvTyx_rP-tUxINDZFhlU4qBhgBIAU4BSGPPQEGvDq-kSnoTxumKRXRbjIA?alt=proto,428,0,244
+1785169226993,1079,/web/index.php/leave/viewLeaveModule-62,302,Found,,text,true,,1574,847,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,1078,0,590
+1785169228101,911,/web/index.php/leave/viewLeaveList-64,200,OK,,text,true,,3344,845,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,909,0,505
+1785169229123,1165,/web/index.php/core/i18n/messages-65,304,Not Modified,,,true,,856,792,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,0,0,521
+1785169230570,698,/v1/pages/ChVDaHJvbWUvMTUwLjAuNzg3MS4xODQSTAkX2iawkUyp1hINDZFhlU4qBhgBIAI4AhINDZFhlU4qBhgBIAI4AhINDZFhlU4qBhgBIAA4ACFaloONqWWEBClaloONqWWEBDICIAUSLAmvTyx_rP-tUxINDZFhlU4qBhgBIAU4BSGeoT7xB2GQhinoTxumKRXRbjIA-75,200,OK,,text,true,,519,664,0,0,https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTUwLjAuNzg3MS4xODQSTAkX2iawkUyp1hINDZFhlU4qBhgBIAI4AhINDZFhlU4qBhgBIAI4AhINDZFhlU4qBhgBIAA4ACFaloONqWWEBClaloONqWWEBDICIAUSLAmvTyx_rP-tUxINDZFhlU4qBhgBIAU4BSGeoT7xB2GQhinoTxumKRXRbjIA?alt=proto,696,0,172
+1785169230408,1266,/web/index.php/pim/viewPhoto/empNumber/7-68,304,Not Modified,,,true,,856,793,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,0,0,449
+1785169230492,1182,/web/index.php/api/v2/leave/leave-periods-72,200,OK,,text,true,,1456,697,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-periods,1182,0,368
+1785169230492,1308,/web/index.php/api/v2/leave/workweek-71,200,OK,,text,true,,1001,706,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,1307,0,380
+1785169230484,1320,/web/index.php/api/v2/leave/employees/leave-requests-70,200,OK,,text,true,,969,817,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests?limit=50&offset=0&includeEmployees=onlyCurrent,1319,0,411
+1785169230498,1665,/web/index.php/api/v2/leave/leave-types-73,200,OK,,text,true,,1658,765,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-types?limit=0,1664,0,771
+1785169230502,1709,/web/index.php/api/v2/leave/holidays-74,200,OK,,text,true,,2780,730,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2026-01-01&toDate=2026-12-31,1708,0,787
+1785169230446,2315,/uma/v2-69,400,Bad Request,,text,false,,1844,81717,0,0,https://clientservices.googleapis.com/uma/v2,2314,0,235
+1785169231968,1343,/web/index.php/api/v2/leave/workweek-76,200,OK,,text,true,,1001,706,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,1342,0,936
+1785169232227,1096,/web/index.php/api/v2/leave/holidays-77,200,OK,,text,true,,2780,730,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2026-01-01&toDate=2026-12-31,1095,0,681
+1785169234017,1140,/web/index.php/leave/addLeaveEntitlement-78,200,OK,,text,true,,3403,855,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/leave/addLeaveEntitlement,1138,0,630
+1785169235219,959,/web/index.php/core/i18n/messages-79,304,Not Modified,,,true,,856,798,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,0,0,551
+1785169235799,789,/uma/v2-80,400,Bad Request,,text,false,,1844,23580,0,0,https://clientservices.googleapis.com/uma/v2,788,0,179
+1785169236382,411,/v1/pages/ChVDaHJvbWUvMTUwLjAuNzg3MS4xODQSOwlAB7VL3tXyJBINDZFhlU4qBhgBIAA4ABILDZFhlU4qBBgBIAQhvt5dGQcdkQIpLQJdnt9eeaEyAiAHEiwJr08sf6z_rVMSDQ2RYZVOKgYYASAFOAUhZzVELT9gl3op6E8bpikV0W4yAA==-85,200,OK,,text,true,,519,644,0,0,https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTUwLjAuNzg3MS4xODQSOwlAB7VL3tXyJBINDZFhlU4qBhgBIAA4ABILDZFhlU4qBBgBIAQhvt5dGQcdkQIpLQJdnt9eeaEyAiAHEiwJr08sf6z_rVMSDQ2RYZVOKgYYASAFOAUhZzVELT9gl3op6E8bpikV0W4yAA==?alt=proto,410,0,209
+1785169236250,849,/web/index.php/pim/viewPhoto/empNumber/7-81,304,Not Modified,,,true,,856,799,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,0,0,448
+1785169236306,794,/web/index.php/api/v2/leave/leave-periods-84,200,OK,,text,true,,1456,765,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-periods,793,0,397
+1785169236296,906,/web/index.php/api/v2/pim/employees/count-82,200,OK,,text,true,,1113,703,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/count,905,0,499
+1785169236302,908,/web/index.php/api/v2/leave/leave-types-83,200,OK,,text,true,,1658,771,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-types?limit=0,907,0,492
+1785169229533,10742,/ws/chat-66,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: null,,text,false,,1873,0,0,0,https://web.whatsapp.com:5222/ws/chat,0,0,202
+1785169230272,10617,/ws/chat-67,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: null,,text,false,,1873,0,0,0,https://web.whatsapp.com/ws/chat,0,0,235
+1785169239629,1465,/uma/v2-86,400,Bad Request,,text,false,,1844,59722,0,0,https://clientservices.googleapis.com/uma/v2,1464,0,240
+1785169240947,1069,/web/index.php/api/v2/pim/employees-87,200,OK,,text,true,,5137,802,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees?nameOrId=j&includeEmployees=currentAndPast,1068,0,558
+0,0,mtalk.google.com:5228,,Only ASCII supported in headers (perhaps SSL was used?),,,false,,251,0,0,0,null,0,0,0
+1785169243705,372,/c2dm/register3-89,Non HTTP response code: java.lang.IllegalArgumentException,Non HTTP response message: Missing location header in redirect for POST https://android.clients.google.com/c2dm/register3 HTTP/1.1,,text,false,,486,0,0,0,https://android.clients.google.com/c2dm/register3,370,0,259
+1785169244129,1778,/uma/v2-91,400,Bad Request,,text,false,,1844,59749,0,0,https://clientservices.googleapis.com/uma/v2,1777,0,176
+1785169248953,845,/uma/v2-92,400,Bad Request,,text,false,,1844,28996,0,0,https://clientservices.googleapis.com/uma/v2,844,0,239
+1785169242114,10556,/ws/chat-88,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: null,,text,false,,1873,0,0,0,https://web.whatsapp.com/ws/chat,0,0,212
+1785169251958,1117,/web/index.php/api/v2/leave/employees/160/leave-entitlements-93,200,OK,,text,true,,1115,790,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/160/leave-entitlements?leaveTypeId=8&fromDate=2026-01-01&toDate=2026-12-31&entitlement=100,1116,0,711
+1785169252848,1251,/uma/v2-94,400,Bad Request,,text,false,,1844,119153,0,0,https://clientservices.googleapis.com/uma/v2,1251,0,233
+1785169243794,10510,/ws/chat-90,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: null,,text,false,,1873,0,0,0,https://web.whatsapp.com:5222/ws/chat,0,0,274
+1785169254887,1045,/web/index.php/api/v2/leave/leave-entitlements-95,200,OK,,text,true,,1339,894,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-entitlements,1044,0,646
+1785169257452,1358,/personal/aa21d87447f0a668/_api/SPFileSync/sync/8bf22454667e46dd9c1bb98a0bc26fc3/policy/-97,200,OK,,text,true,,26516,2362,0,0,https://my.microsoftpersonalcontent.com/personal/aa21d87447f0a668/_api/SPFileSync/sync/8bf22454667e46dd9c1bb98a0bc26fc3/policy/,1227,0,339
+1785169258466,856,/web/index.php/leave/viewLeaveEntitlements-99,200,OK,,text,true,,3245,931,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveEntitlements?empNumber=160&leaveTypeId=8&startDate=2026-01-01&endDate=2026-12-31,855,0,448
+1785169258903,1201,/personal/aa21d87447f0a668/_api/SPFileSync/sync/81173a58499a4667b3b1f0e5a57c5e46/policy/-100,200,OK,,text,true,,26568,2521,0,0,https://my.microsoftpersonalcontent.com/personal/aa21d87447f0a668/_api/SPFileSync/sync/81173a58499a4667b3b1f0e5a57c5e46/policy/,1134,0,186
+1785169259391,982,/web/index.php/core/i18n/messages-101,304,Not Modified,,,true,,856,868,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,0,0,648
+1785169260432,971,/web/index.php/pim/viewPhoto/empNumber/7-102,304,Not Modified,,,true,,856,869,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,0,0,530
+1785169260463,941,/web/index.php/api/v2/leave/leave-types-104,200,OK,,text,true,,1658,841,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-types?limit=0,940,0,499
+1785169260461,947,/web/index.php/api/v2/leave/leave-entitlements-103,200,OK,,text,true,,1422,924,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-entitlements?limit=50&offset=0&empNumber=160&leaveTypeId=8&fromDate=2026-01-01&toDate=2026-12-31,946,0,504
+1785169260465,1110,/web/index.php/api/v2/leave/leave-periods-105,200,OK,,text,true,,1456,835,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-periods,1109,0,501
+1785169261457,527,/v4/threatListUpdates:fetch-106,200,OK,,text,true,,5432,1120,0,0,https://safebrowsing.googleapis.com/v4/threatListUpdates:fetch?%24req=Ch4KDGdvb2dsZWNocm9tZRIOMTUwLjAuNzg3MS4xODQaKQgFEAEaGwoNCAUQBhgBIgMwMDEwARCezSAaAhgIR8x5cyIEIAEgAigBGigIEBABGhoKDQgQEAYYASIDMDAxMAEQ7EQaAhgIMGlARiIEIAEgAigBGikIARABGhsKDQgBEAYYASIDMDAxMAEQ3u0VGgIYCMcJTlkiBCABIAIoARopCAMQARobCg0IAxAGGAEiAzAwMTABEMroFRoCGAgqjk4EIgQgASACKAEaKQgOEAEaGwoNCA4QBhgBIgMwMDEwARD_iggaAhgIFSdhLSIEIAEgAigBGikIBxABGhsKDQgHEAYYASIDMDAxMAEQ17sVGgIYCGD_DTkiBCABIAIoARooCAEQCBoaCg0IARAIGAEiAzAwMTAEEIhCGgIYCNCrj0siBCABIAIoBBopCA8QARobCg0IDxAGGAEiAzAwMTABEMGgChoCGAi2uSPcIgQgASACKAEaJwgJEAEaGQoNCAkQBhgBIgMwMDEwARAkGgIYCOQPEMIiBCABIAIoARooCAgQARoaCg0ICBAGGAEiAzAwMTABEN0cGgIYCN4t7yAiBCABIAIoARopCA0QARobCg0IDRAGGAEiAzAwMTABEK_5AhoCGAhoY_zwIgQgASACKAEiAggB&%24ct=application%2Fx-protobuf&key=AIzaSyA2KlwBX3mkFo30om9LUFYQhpqLoa_BNhE,526,0,323
+0,0,191472-ipv4mte.gr.global.aa-rt.sharepoint.com:443,,"Socket is closed
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,198,0,0,0,null,0,0,0
+0,0,191472-ipv4mte.gr.global.aa-rt.sharepoint.com:443,,"Socket is closed
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,198,0,0,0,null,0,0,0
+0,0,191472-ipv4mte.gr.global.aa-rt.sharepoint.com:443,,"Socket is closed
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,198,0,0,0,null,0,0,0
+0,0,191472-ipv4mte.gr.global.aa-rt.sharepoint.com:443,,"Socket is closed
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,198,0,0,0,null,0,0,0
+0,0,191472-ipv4mte.gr.global.aa-rt.sharepoint.com:443,,"Socket is closed
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,198,0,0,0,null,0,0,0
+1785169255913,10473,/ws/chat-96,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: null,,text,false,,1873,0,0,0,https://web.whatsapp.com/ws/chat,0,0,238
+0,0,191472-ipv4mte.gr.global.aa-rt.sharepoint.com:443,,"Socket is closed
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,198,0,0,0,null,0,0,0
+0,0,191472-ipv4mte.gr.global.aa-rt.sharepoint.com:443,,"Socket is closed
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,198,0,0,0,null,0,0,0
+0,0,191472-ipv4mte.gr.global.aa-rt.sharepoint.com:443,,"Socket is closed
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,198,0,0,0,null,0,0,0
+0,0,191472-ipv4mte.gr.global.aa-rt.sharepoint.com:443,,"Socket is closed
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,198,0,0,0,null,0,0,0
+0,0,191472-ipv4mte.gr.global.aa-rt.sharepoint.com:443,,"Socket is closed
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,198,0,0,0,null,0,0,0
+0,0,191472-ipv4mte.gr.global.aa-rt.sharepoint.com:443,,"Socket is closed
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,198,0,0,0,null,0,0,0
+1785169258430,10523,/ws/chat-98,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: null,,text,false,,1873,0,0,0,https://web.whatsapp.com:5222/ws/chat,0,0,82
+1785169268148,1009,/v1/assets/$batch-107,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,,text,false,,2705,0,0,0,https://assets.activity.windows.com/v1/assets/$batch,0,0,601
+0,0,191472-ipv4mte.gr.global.aa-rt.sharepoint.com:443,,"Socket is closed
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,198,0,0,0,null,0,0,0
+0,0,191472-ipv4mte.gr.global.aa-rt.sharepoint.com:443,,"Socket is closed
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,198,0,0,0,null,0,0,0
+0,0,191472-ipv4mte.gr.global.aa-rt.sharepoint.com:443,,"Socket is closed
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,198,0,0,0,null,0,0,0
+0,0,191472-ipv4mte.gr.global.aa-rt.sharepoint.com:443,,"Socket is closed
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,198,0,0,0,null,0,0,0
+0,0,191472-ipv4mte.gr.global.aa-rt.sharepoint.com:443,,"Socket is closed
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,198,0,0,0,null,0,0,0
+0,0,191472-ipv4mte.gr.global.aa-rt.sharepoint.com:443,,"Socket is closed
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,198,0,0,0,null,0,0,0
