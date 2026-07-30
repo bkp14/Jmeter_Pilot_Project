@@ -1,0 +1,397 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1785411625788,3933,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-1,text,true,,2336,706,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,3932,0,1390
+1785411621535,3933,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-1,,true,,2336,706,1,1,null,3932,4268,1390
+1785411631125,14727,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-1,text,true,,4463,2121,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,8073,0,0
+1785411631125,8073,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-1,text,true,,1652,1154,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,8073,0,0
+1785411639199,6653,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-1,text,true,,2811,967,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,6653,0,0
+1785411637963,9596,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-2,text,true,,2345,706,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,9596,0,317
+1785411634972,9596,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-2,,true,,2345,706,2,2,null,9596,2992,317
+1785411646526,7024,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-1,text,true,,2811,867,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,7024,0,0
+1785411629736,21751,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-1,,true,,7274,2988,2,2,null,15097,2064,0
+1785411648911,14095,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-2,text,true,,4464,2128,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,10336,0,0
+1785411648911,10336,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-2,text,true,,1652,1161,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,10336,0,0
+1785411659249,3757,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-2,text,true,,2812,967,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,3757,0,0
+1785411657057,10422,/web/index.php/leave/viewLeaveModule-180,200,OK,Assign_Leave(Scenario1) 1-1,text,true,,4937,1702,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,5299,0,0
+1785411657057,5299,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-1,text,true,,1579,852,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,5299,0,0
+1785411662356,5123,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Assign_Leave(Scenario1) 1-1,text,true,,3358,850,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,5123,0,0
+1785411663663,4818,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-3,text,true,,2348,706,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,4818,0,324
+1785411658519,4818,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-3,,true,,2348,706,4,4,null,4818,5146,324
+1785411666111,5936,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-2,text,true,,2812,867,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,5936,0,0
+1785411647560,20031,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-2,,true,,7276,2995,5,5,null,16272,4457,0
+1785411667692,4545,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-4,text,true,,2328,706,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,4545,0,299
+1785411663906,4545,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-4,,true,,2328,706,5,5,null,4545,3788,299
+1785411670919,6644,/web/index.php/leave/viewLeaveList-181,200,OK,Assign_Leave(Scenario1) 1-1,text,true,,3358,850,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,6644,0,0
+1785411653552,17066,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-1,,true,,8295,2552,6,6,null,11943,6946,0
+1785411672531,5616,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-5,text,true,,2345,706,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,5616,0,287
+1785411675456,2691,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-6,text,true,,2352,706,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,2691,0,297
+1785411670150,5616,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-5,,true,,2345,706,6,6,null,5616,2382,287
+1785411672362,2691,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-6,,true,,2352,706,6,6,null,2691,3096,297
+1785411669637,9624,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-3,text,true,,4466,2140,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,5540,0,0
+1785411669637,5541,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-3,text,true,,1652,1173,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,5540,0,0
+1785411675179,4082,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-3,text,true,,2814,967,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,4082,0,0
+1785411679430,2735,/web/index.php/leave/assignLeave-192,200,OK,Assign_Leave(Scenario1) 1-1,text,true,,3033,852,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,2734,0,0
+1785411680413,3341,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-3,text,true,,2814,867,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,3341,0,0
+1785411668482,12965,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-3,,true,,7280,3007,6,6,null,8881,2309,0
+1785411675054,9417,/web/index.php/leave/viewLeaveModule-180,200,OK,Assign_Leave(Scenario1) 1-2,text,true,,4939,1702,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,5114,0,0
+1785411675054,5114,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-2,text,true,,1579,852,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,5114,0,0
+1785411680168,4303,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Assign_Leave(Scenario1) 1-2,text,true,,3360,850,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,4303,0,0
+1785411673376,17385,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-4,text,true,,4464,2111,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,9572,0,0
+1785411673376,9572,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-4,text,true,,1652,1144,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,9572,0,0
+1785411682949,7812,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-4,text,true,,2812,967,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,7812,0,0
+1785411687122,3749,/web/index.php/leave/viewLeaveList-181,200,OK,Assign_Leave(Scenario1) 1-2,text,true,,3360,850,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,3749,0,0
+1785411672048,13166,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-2,,true,,8299,2552,8,8,null,8863,5657,0
+1785411679629,11332,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-6,text,true,,4464,2138,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,6262,0,0
+1785411679629,6262,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-6,text,true,,1652,1171,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,6262,0,0
+1785411685893,5068,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-6,text,true,,2812,967,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,5067,0,0
+1785411679501,11878,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-5,text,true,,4462,2135,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,8769,0,0
+1785411679501,8770,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-5,text,true,,1652,1168,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,8769,0,0
+1785411688274,3105,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-5,text,true,,2810,967,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,3105,0,0
+1785411686401,5458,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,Assign_Leave(Scenario1) 1-1,text,true,,1079,1000,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,5458,0,295
+1785411677563,8193,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",Assign_Leave(Scenario1) 1-1,,true,,4112,1852,8,8,null,8192,6195,295
+1785411691960,3,Debug Sampler,200,OK,Assign_Leave(Scenario1) 1-1,text,true,,819,0,8,8,null,0,0,0
+1785411689153,5395,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-7,text,true,,2329,706,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,5395,0,289
+1785411685134,5395,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-7,,true,,2329,706,9,9,null,5395,4019,289
+1785411685632,9028,/web/index.php/leave/viewLeaveModule-180,200,OK,Assign_Leave(Scenario1) 1-3,text,true,,4939,1702,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,5049,0,0
+1785411685632,5049,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-3,text,true,,1579,852,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,5049,0,0
+1785411690682,3978,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Assign_Leave(Scenario1) 1-3,text,true,,3360,850,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,3978,0,0
+1785411691547,3324,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-4,text,true,,2812,867,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,3323,0,0
+1785411672239,20709,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-4,,true,,7276,2978,9,9,null,12895,1922,0
+1785411693205,2966,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-8,text,true,,2344,706,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,2966,0,289
+1785411688291,2966,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-8,,true,,2344,706,9,9,null,2966,4916,289
+1785411695452,4118,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-9,text,true,,2337,706,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,4118,0,286
+1785411692226,4118,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-9,,true,,2337,706,10,10,null,4118,3227,286
+1785411693761,6630,/web/index.php/leave/assignLeave-192,200,OK,Assign_Leave(Scenario1) 1-2,text,true,,3035,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,6630,0,0
+1785411696754,4625,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-10,text,true,,2335,706,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,4625,0,294
+1785411693355,4625,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-10,,true,,2335,706,10,10,null,4625,3400,294
+1785411697265,4683,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-6,text,true,,2812,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,4683,0,0
+1785411678148,16015,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-6,,true,,7276,3005,10,10,null,10945,7785,0
+1785411697255,4708,/web/index.php/leave/viewLeaveList-181,200,OK,Assign_Leave(Scenario1) 1-3,text,true,,3360,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,4708,0,0
+1785411683756,13736,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-3,,true,,8299,2552,10,10,null,9757,4472,0
+1785411698966,4192,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-5,text,true,,2810,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,4192,0,0
+1785411678147,16070,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-5,,true,,7272,3002,10,10,null,12961,8941,0
+1785411700440,6925,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-11,text,true,,2350,706,12,12,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,6925,0,303
+1785411698690,6925,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-11,,true,,2350,706,12,12,null,6925,1751,303
+1785411703260,5213,/web/index.php/leave/assignLeave-192,200,OK,Assign_Leave(Scenario1) 1-3,text,true,,3036,852,12,12,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,5213,0,0
+1785411698952,9586,/web/index.php/leave/viewLeaveModule-180,200,OK,Assign_Leave(Scenario1) 1-4,text,true,,4938,1702,12,12,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1731,0,0
+1785411698952,1731,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-4,text,true,,1579,852,12,12,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,1731,0,0
+1785411700684,7854,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Assign_Leave(Scenario1) 1-4,text,true,,3359,850,12,12,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,7853,0,0
+1785411697189,11373,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-8,text,true,,4464,2128,12,12,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,5447,0,0
+1785411697189,5447,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-8,text,true,,1652,1161,12,12,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,5447,0,0
+1785411702637,5925,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-8,text,true,,2812,967,12,12,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,5925,0,0
+1785411695966,14465,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-7,text,true,,4464,2112,12,12,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,11328,0,0
+1785411695966,11328,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-7,text,true,,1652,1145,12,12,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,11328,0,0
+1785411707295,3136,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-7,text,true,,2812,967,12,12,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,3136,0,0
+1785411703807,7856,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,Assign_Leave(Scenario1) 1-2,text,true,,1079,1000,12,12,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,7855,0,279
+1785411690872,14486,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",Assign_Leave(Scenario1) 1-2,,true,,4114,1852,12,12,null,14485,6308,279
+1785411711666,0,Debug Sampler,200,OK,Assign_Leave(Scenario1) 1-2,text,true,,840,0,12,12,null,0,0,0
+1785411702578,10782,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-10,text,true,,4461,2125,11,11,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,8199,0,0
+1785411702578,8200,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-10,text,true,,1652,1158,11,11,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,8199,0,0
+1785411710779,2581,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-10,text,true,,2809,967,11,11,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2581,0,0
+1785411700596,13064,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-9,text,true,,4465,2120,11,11,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,9835,0,0
+1785411700596,9835,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-9,text,true,,1652,1153,11,11,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,9835,0,0
+1785411710432,3228,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-9,text,true,,2813,967,11,11,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,3228,0,0
+1785411711611,3160,/web/index.php/api/v2/leave/employees/leave-requests-208,400,Bad Request,Assign_Leave(Scenario1) 1-3,text,false,,361,1000,11,11,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,3159,0,0
+1785411710857,4483,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-13,text,true,,2350,706,11,11,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,4482,0,333
+1785411706464,4483,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-13,,true,,2350,706,11,11,null,4482,4394,333
+1785411706333,9426,/web/index.php/leave/viewLeaveModule-180,200,OK,Assign_Leave(Scenario1) 1-5,text,true,,4939,1702,11,11,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,2753,0,0
+1785411706333,2753,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-5,text,true,,1579,852,11,11,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,2753,0,0
+1785411709087,6672,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Assign_Leave(Scenario1) 1-5,text,true,,3360,850,11,11,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,6672,0,0
+1785411711225,4725,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-12,text,true,,2331,706,11,11,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,4725,0,310
+1785411706273,4725,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-12,,true,,2331,706,11,11,null,4725,4953,310
+1785411703838,12327,/web/index.php/leave/viewLeaveModule-180,200,OK,Assign_Leave(Scenario1) 1-6,text,true,,4936,1702,11,11,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,5585,0,0
+1785411703838,5585,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-6,text,true,,1579,852,11,11,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,5585,0,0
+1785411709423,6742,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Assign_Leave(Scenario1) 1-6,text,true,,3357,850,11,11,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,6742,0,0
+1785411711777,6287,/web/index.php/leave/viewLeaveList-181,200,OK,Assign_Leave(Scenario1) 1-4,text,true,,3359,850,12,12,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,6287,0,0
+1785411694870,15873,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-4,,true,,8297,2552,12,12,null,8018,7321,0
+1785411715412,4024,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-8,text,true,,2812,867,12,12,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,4024,0,0
+1785411696172,15397,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-8,,true,,7276,2995,12,12,null,9471,7867,0
+1785411708421,12230,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-11,text,true,,4463,2135,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,7371,0,0
+1785411708421,7371,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-11,text,true,,1652,1168,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,7371,0,0
+1785411715794,4857,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-11,text,true,,2811,967,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,4857,0,0
+1785411714914,5864,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-7,text,true,,2812,867,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,5864,0,0
+1785411694548,20329,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-7,,true,,7276,2979,13,13,null,17192,5901,0
+1785411718599,3850,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-9,text,true,,2813,867,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,3850,0,0
+1785411699571,16914,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-9,,true,,7278,2987,14,14,null,13685,5965,0
+1785411718464,4103,/web/index.php/leave/viewLeaveList-181,200,OK,Assign_Leave(Scenario1) 1-6,text,true,,3357,850,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,4103,0,0
+1785411701949,16430,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-6,,true,,8293,2552,14,14,null,9688,4188,0
+1785411719160,5197,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-10,text,true,,2809,867,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,5197,0,0
+1785411701380,15979,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-10,,true,,7270,2992,14,14,null,13396,6999,0
+1785411718765,6093,/web/index.php/leave/viewLeaveList-181,200,OK,Assign_Leave(Scenario1) 1-5,text,true,,3360,850,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,6092,0,0
+1785411703159,15519,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-5,,true,,8299,2552,14,14,null,8845,6180,0
+1785411717996,6972,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,Assign_Leave(Scenario1) 1-3,text,true,,1079,1000,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,6972,0,0
+1785411701964,15345,Assign_Leave,,"Number of samples in transaction : 4, number of failing samples : 1",Assign_Leave(Scenario1) 1-3,,false,,4476,2852,14,14,null,15344,7661,0
+1785411724970,0,Debug Sampler,200,OK,Assign_Leave(Scenario1) 1-3,text,true,,876,0,14,14,null,0,0,0
+1785411719814,5164,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-14,text,true,,2337,706,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,5164,0,274
+1785411716282,5164,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-14,,true,,2337,706,13,13,null,5164,3534,274
+1785411719756,6002,/web/index.php/leave/assignLeave-192,200,OK,Assign_Leave(Scenario1) 1-4,text,true,,3034,852,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,6002,0,0
+1785411723793,2668,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-15,text,true,,2338,706,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,2668,0,299
+1785411720355,2668,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-15,,true,,2338,706,13,13,null,2668,3440,299
+1785411716758,11325,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-13,text,true,,4464,2136,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,9200,0,0
+1785411716758,9200,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-13,text,true,,1652,1169,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,9200,0,0
+1785411725959,2124,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-13,text,true,,2812,967,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2124,0,0
+1785411724219,4506,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-16,text,true,,2335,706,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,4506,0,279
+1785411721819,4506,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-16,,true,,2335,706,13,13,null,4506,2401,279
+1785411725182,3925,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-11,text,true,,2811,867,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,3925,0,0
+1785411707366,16155,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-11,,true,,7274,3002,13,13,null,11296,5586,0
+1785411724535,5616,/web/index.php/leave/assignLeave-192,200,OK,Assign_Leave(Scenario1) 1-6,text,true,,3034,852,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,5616,0,0
+1785411723761,8589,/web/index.php/leave/viewLeaveModule-180,200,OK,Assign_Leave(Scenario1) 1-8,text,true,,4939,1702,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,2990,0,0
+1785411723761,2990,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-8,text,true,,1579,852,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,2990,0,0
+1785411726751,5599,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Assign_Leave(Scenario1) 1-8,text,true,,3360,850,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,5599,0,0
+1785411726608,6152,/web/index.php/leave/assignLeave-192,200,OK,Assign_Leave(Scenario1) 1-5,text,true,,3035,852,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,6152,0,0
+1785411717392,17990,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-12,text,true,,4466,2111,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,11333,0,0
+1785411717392,11333,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-12,text,true,,1652,1144,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,11333,0,0
+1785411728726,6656,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-12,text,true,,2814,967,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,6656,0,0
+1785411729062,6881,/web/index.php/api/v2/leave/employees/leave-requests-208,400,Bad Request,Assign_Leave(Scenario1) 1-4,text,false,,361,1000,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,6881,0,294
+1785411724655,12325,/web/index.php/leave/viewLeaveModule-180,200,OK,Assign_Leave(Scenario1) 1-7,text,true,,4939,1702,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,5017,0,0
+1785411724655,5017,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-7,text,true,,1579,852,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,5017,0,0
+1785411729673,7307,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Assign_Leave(Scenario1) 1-7,text,true,,3360,850,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,7307,0,0
+1785411725649,13521,/web/index.php/leave/viewLeaveModule-180,200,OK,Assign_Leave(Scenario1) 1-9,text,true,,4939,1702,16,16,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,6594,0,0
+1785411725649,6594,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-9,text,true,,1579,852,16,16,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,6594,0,0
+1785411732245,6925,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Assign_Leave(Scenario1) 1-9,text,true,,3360,850,16,16,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,6925,0,0
+1785411729894,9442,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-16,text,true,,4464,2114,16,16,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2458,0,0
+1785411729894,2458,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-16,text,true,,1652,1147,16,16,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,2458,0,0
+1785411732352,6984,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-16,text,true,,2812,967,16,16,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,6984,0,0
+1785411736046,3597,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-18,text,true,,2346,706,16,16,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,3597,0,286
+1785411733333,3597,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-18,,true,,2346,706,16,16,null,3597,2714,286
+1785411733177,6693,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,Assign_Leave(Scenario1) 1-6,text,true,,1079,1000,16,16,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,6693,0,0
+1785411722568,12309,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",Assign_Leave(Scenario1) 1-6,,true,,4113,1852,16,16,null,12309,4994,0
+1785411739872,0,Debug Sampler,200,OK,Assign_Leave(Scenario1) 1-6,text,true,,870,0,16,16,null,0,0,0
+1785411727930,12944,/web/index.php/leave/viewLeaveModule-180,200,OK,Assign_Leave(Scenario1) 1-10,text,true,,4937,1702,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,6268,0,0
+1785411727930,6268,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-10,text,true,,1579,852,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,6268,0,0
+1785411734199,6675,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Assign_Leave(Scenario1) 1-10,text,true,,3358,850,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,6675,0,0
+1785411736405,4856,/web/index.php/leave/viewLeaveList-181,200,OK,Assign_Leave(Scenario1) 1-8,text,true,,3360,850,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,4856,0,0
+1785411719436,13445,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-8,,true,,8299,2552,15,15,null,7846,8381,0
+1785411732282,9595,/web/index.php/leave/viewLeaveModule-180,200,OK,Assign_Leave(Scenario1) 1-11,text,true,,4937,1702,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,4286,0,0
+1785411732282,4286,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-11,text,true,,1579,852,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,4286,0,0
+1785411736569,5308,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Assign_Leave(Scenario1) 1-11,text,true,,3358,850,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,5308,0,0
+1785411736791,5650,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-17,text,true,,2330,706,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,5650,0,275
+1785411731870,5650,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-17,,true,,2330,706,15,15,null,5650,4923,275
+1785411727776,15082,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-15,text,true,,4462,2119,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,12099,0,0
+1785411727776,12099,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-15,text,true,,1652,1152,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,12099,0,0
+1785411739875,2983,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-15,text,true,,2810,967,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2983,0,0
+1785411735825,7218,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-13,text,true,,2812,867,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,7218,0,0
+1785411715342,18543,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-13,,true,,7276,3003,15,15,null,16418,9160,0
+1785411736235,7522,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,Assign_Leave(Scenario1) 1-5,text,true,,1079,1000,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,7522,0,286
+1785411724859,13674,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",Assign_Leave(Scenario1) 1-5,,true,,4114,1852,15,15,null,13674,5225,286
+1785411743760,0,Debug Sampler,200,OK,Assign_Leave(Scenario1) 1-5,text,true,,861,0,15,15,null,0,0,0
+1785411726422,17337,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-14,text,true,,4464,2119,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,11146,0,0
+1785411726422,11146,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-14,text,true,,1652,1152,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,11146,0,0
+1785411737569,6190,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-14,text,true,,2812,967,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,6190,0,0
+1785411736926,7242,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-12,text,true,,2814,867,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,7242,0,0
+1785411715952,25232,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-12,,true,,7280,2978,15,15,null,18575,2986,0
+1785411740321,4529,/web/index.php/leave/viewLeaveList-181,200,OK,Assign_Leave(Scenario1) 1-7,text,true,,3360,850,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,4529,0,0
+1785411720778,16854,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-7,,true,,8299,2552,15,15,null,9546,7218,0
+1785411739403,6235,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,Assign_Leave(Scenario1) 1-4,text,true,,1079,1000,15,15,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,6235,0,0
+1785411718064,19118,Assign_Leave,,"Number of samples in transaction : 4, number of failing samples : 1",Assign_Leave(Scenario1) 1-4,,false,,4474,2852,15,15,null,19118,8461,294
+1785411745644,0,Debug Sampler,200,OK,Assign_Leave(Scenario1) 1-4,text,true,,789,0,15,15,null,0,0,0
+1785411743003,3979,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-16,text,true,,2812,867,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,3979,0,0
+1785411728726,13421,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-16,,true,,7276,2981,14,14,null,6437,4835,0
+1785411742727,4915,/web/index.php/leave/viewLeaveList-181,200,OK,Assign_Leave(Scenario1) 1-9,text,true,,3360,850,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,4915,0,0
+1785411722451,18436,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-9,,true,,8299,2552,14,14,null,11509,6755,0
+1785411741709,5964,/web/index.php/leave/viewLeaveList-181,200,OK,Assign_Leave(Scenario1) 1-10,text,true,,3358,850,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,5964,0,0
+1785411724358,18908,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-10,,true,,8295,2552,14,14,null,12232,4407,0
+1785411743353,4933,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-19,text,true,,2349,706,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,4933,0,319
+1785411738949,4933,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-19,,true,,2349,706,14,14,null,4933,4404,319
+1785411743658,5065,/web/index.php/leave/assignLeave-192,200,OK,Assign_Leave(Scenario1) 1-8,text,true,,3036,852,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,5065,0,0
+1785411744812,4873,/web/index.php/leave/viewLeaveList-181,200,OK,Assign_Leave(Scenario1) 1-11,text,true,,3358,850,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,4873,0,0
+1785411729107,14468,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-11,,true,,8295,2552,14,14,null,9159,6109,0
+1785411745727,5929,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-20,text,true,,2337,706,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,5929,0,306
+1785411744116,5929,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-20,,true,,2337,706,14,14,null,5929,1615,306
+1785411748415,4568,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-15,text,true,,2810,867,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,4568,0,0
+1785411726464,19650,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-15,,true,,7272,2986,14,14,null,16667,6870,0
+1785411745360,7653,/web/index.php/leave/assignLeave-192,200,OK,Assign_Leave(Scenario1) 1-7,text,true,,3035,852,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,7653,0,0
+1785411746102,8159,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-14,text,true,,2812,867,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,8159,0,0
+1785411724979,25496,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-14,,true,,7276,2986,14,14,null,19305,3786,0
+1785411750896,3852,/web/index.php/leave/assignLeave-192,200,OK,Assign_Leave(Scenario1) 1-10,text,true,,3033,852,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,3852,0,0
+1785411744116,10643,/web/index.php/leave/viewLeaveModule-180,200,OK,Assign_Leave(Scenario1) 1-13,text,true,,4939,1702,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,3008,0,0
+1785411744116,3008,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-13,text,true,,1579,852,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,3008,0,0
+1785411747123,7636,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Assign_Leave(Scenario1) 1-13,text,true,,3360,850,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,7636,0,0
+1785411740951,14326,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-18,text,true,,4464,2128,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,10344,0,0
+1785411740951,10344,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-18,text,true,,1652,1161,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,10344,0,0
+1785411751295,3982,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-18,text,true,,2812,967,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,3982,0,0
+1785411748362,8397,/web/index.php/leave/assignLeave-192,200,OK,Assign_Leave(Scenario1) 1-9,text,true,,3036,852,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,8396,0,0
+1785411746975,9897,/web/index.php/leave/viewLeaveModule-180,200,OK,Assign_Leave(Scenario1) 1-12,text,true,,4939,1702,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,3605,0,0
+1785411746975,3605,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-12,text,true,,1579,852,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,3605,0,0
+1785411750581,6291,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Assign_Leave(Scenario1) 1-12,text,true,,3360,850,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,6290,0,0
+1785411751779,5767,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,Assign_Leave(Scenario1) 1-8,text,true,,1079,1000,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,5767,0,0
+1785411741262,10832,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",Assign_Leave(Scenario1) 1-8,,true,,4115,1852,14,14,null,10832,5454,0
+1785411757548,0,Debug Sampler,200,OK,Assign_Leave(Scenario1) 1-8,text,true,,839,0,14,14,null,0,0,0
+1785411751437,7164,/web/index.php/leave/assignLeave-192,200,OK,Assign_Leave(Scenario1) 1-11,text,true,,3033,852,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,7164,0,0
+1785411749400,10490,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-19,text,true,,4465,2141,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,3963,0,0
+1785411749400,3963,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-19,text,true,,1652,1174,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,3963,0,0
+1785411753364,6526,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-19,text,true,,2813,967,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,6526,0,0
+1785411758378,2189,/web/index.php/leave/viewLeaveList-181,200,OK,Assign_Leave(Scenario1) 1-13,text,true,,3360,850,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,2189,0,0
+1785411743045,12832,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-13,,true,,8299,2552,13,13,null,5197,4692,0
+1785411752724,9868,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-20,text,true,,4461,2124,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,5243,0,0
+1785411752724,5243,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-20,text,true,,1652,1157,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,5243,0,0
+1785411757968,4624,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-20,text,true,,2809,967,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,4624,0,0
+1785411758097,4693,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-18,text,true,,2812,867,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,4693,0,0
+1785411739644,19019,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-18,,true,,7276,2995,13,13,null,15037,4127,0
+1785411743864,19075,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-17,text,true,,4464,2112,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,14104,0,0
+1785411743864,14104,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-17,text,true,,1652,1145,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,14104,0,0
+1785411757968,4971,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-17,text,true,,2812,967,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,4971,0,0
+1785411750497,13772,/web/index.php/leave/viewLeaveModule-180,200,OK,Assign_Leave(Scenario1) 1-16,text,true,,4936,1702,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,7488,0,0
+1785411750497,7488,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-16,text,true,,1579,852,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,7488,0,0
+1785411757985,6284,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Assign_Leave(Scenario1) 1-16,text,true,,3357,850,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,6284,0,0
+1785411757960,6522,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,Assign_Leave(Scenario1) 1-10,text,true,,1079,1000,14,14,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,6522,0,309
+1785411747673,10374,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",Assign_Leave(Scenario1) 1-10,,true,,4112,1852,14,14,null,10374,6436,309
+1785411764484,0,Debug Sampler,200,OK,Assign_Leave(Scenario1) 1-10,text,true,,832,0,14,14,null,0,0,0
+1785411756331,8321,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,Assign_Leave(Scenario1) 1-7,text,true,,1079,1000,13,13,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,8321,0,312
+1785411744851,15974,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",Assign_Leave(Scenario1) 1-7,,true,,4114,1852,13,13,null,15974,3830,312
+1785411764655,0,Debug Sampler,200,OK,Assign_Leave(Scenario1) 1-7,text,true,,792,0,13,13,null,0,0,0
+1785411761392,3760,/web/index.php/leave/assignLeave-192,200,OK,Assign_Leave(Scenario1) 1-13,text,true,,3035,852,12,12,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,3760,0,0
+1785411759431,6134,/web/index.php/leave/viewLeaveList-181,200,OK,Assign_Leave(Scenario1) 1-12,text,true,,3360,850,12,12,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,6134,0,0
+1785411744170,16031,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-12,,true,,8299,2552,12,12,null,9739,5366,0
+1785411757199,8787,/web/index.php/leave/viewLeaveModule-180,200,OK,Assign_Leave(Scenario1) 1-14,text,true,,4938,1702,12,12,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,4070,0,0
+1785411757199,4070,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-14,text,true,,1579,852,12,12,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,4070,0,0
+1785411761270,4716,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Assign_Leave(Scenario1) 1-14,text,true,,3359,850,12,12,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,4716,0,0
+1785411754748,11333,/web/index.php/leave/viewLeaveModule-180,200,OK,Assign_Leave(Scenario1) 1-15,text,true,,4939,1702,12,12,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,3036,0,0
+1785411754748,3036,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-15,text,true,,1579,852,12,12,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,3036,0,0
+1785411757785,8296,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Assign_Leave(Scenario1) 1-15,text,true,,3360,850,12,12,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,8296,0,0
+1785411759847,7919,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,Assign_Leave(Scenario1) 1-9,text,true,,1079,1000,12,12,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,7919,0,313
+1785411747642,16316,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",Assign_Leave(Scenario1) 1-9,,true,,4115,1852,12,12,null,16315,3809,313
+1785411767767,0,Debug Sampler,200,OK,Assign_Leave(Scenario1) 1-9,text,true,,816,0,12,12,null,0,0,0
+1785411765303,2762,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-20,text,true,,2809,867,11,11,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2762,0,0
+1785411751659,12630,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-20,,true,,7270,2991,11,11,null,8005,3776,0
+1785411761994,6467,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,Assign_Leave(Scenario1) 1-11,text,true,,1079,1000,11,11,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,6467,0,599
+1785411749684,13631,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",Assign_Leave(Scenario1) 1-11,,true,,4112,1852,11,11,null,13631,5146,599
+1785411768461,0,Debug Sampler,200,OK,Assign_Leave(Scenario1) 1-11,text,true,,862,0,11,11,null,0,0,0
+1785411765632,4830,/web/index.php/leave/viewLeaveList-181,200,OK,Assign_Leave(Scenario1) 1-16,text,true,,3357,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,4830,0,0
+1785411746982,18602,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-16,,true,,8293,2552,10,10,null,12318,4878,0
+1785411766279,4395,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-17,text,true,,2812,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,4394,0,0
+1785411742444,23470,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-17,,true,,7276,2979,10,10,null,18498,4760,0
+1785411766870,3981,/web/index.php/leave/assignLeave-192,200,OK,Assign_Leave(Scenario1) 1-12,text,true,,3036,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,3981,0,0
+1785411766423,4846,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-19,text,true,,2813,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,4846,0,0
+1785411748286,15336,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-19,,true,,7278,3008,10,10,null,8809,7646,0
+1785411768141,4809,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-21,text,true,,2341,706,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,4809,0,309
+1785411764281,4809,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-21,,true,,2341,706,10,10,null,4809,3862,309
+1785411766410,7828,/web/index.php/leave/viewLeaveModule-180,200,OK,Assign_Leave(Scenario1) 1-18,text,true,,4939,1702,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,3560,0,0
+1785411766410,3560,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-18,text,true,,1579,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,3560,0,0
+1785411769969,4269,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Assign_Leave(Scenario1) 1-18,text,true,,3360,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,4269,0,0
+1785411769030,5725,/web/index.php/leave/viewLeaveList-181,200,OK,Assign_Leave(Scenario1) 1-15,text,true,,3360,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,5725,0,0
+1785411752984,17058,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-15,,true,,8299,2552,10,10,null,8761,4713,0
+1785411770140,5109,/web/index.php/leave/viewLeaveList-181,200,OK,Assign_Leave(Scenario1) 1-14,text,true,,3359,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,5109,0,0
+1785411754261,13896,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-14,,true,,8297,2552,10,10,null,9179,7093,0
+1785411768478,7296,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,Assign_Leave(Scenario1) 1-13,text,true,,1079,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,7295,0,0
+1785411760568,11056,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",Assign_Leave(Scenario1) 1-13,,true,,4114,1852,10,10,null,11055,4150,0
+1785411775775,0,Debug Sampler,200,OK,Assign_Leave(Scenario1) 1-13,text,true,,865,0,10,10,null,0,0,0
+1785411773891,2348,/web/index.php/api/v2/leave/employees/leave-requests-208,400,Bad Request,Assign_Leave(Scenario1) 1-12,text,false,,361,1000,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,2348,0,282
+1785411775608,3742,/web/index.php/leave/assignLeave-192,200,OK,Assign_Leave(Scenario1) 1-14,text,true,,3034,852,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,3742,0,0
+1785411771517,9048,/web/index.php/leave/viewLeaveModule-180,200,OK,Assign_Leave(Scenario1) 1-20,text,true,,4937,1702,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,4843,0,0
+1785411771517,4843,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-20,text,true,,1579,852,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,4843,0,0
+1785411776360,4205,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Assign_Leave(Scenario1) 1-20,text,true,,3358,850,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,4205,0,0
+1785411775885,4801,/web/index.php/leave/assignLeave-192,200,OK,Assign_Leave(Scenario1) 1-15,text,true,,3035,852,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,4801,0,0
+1785411774089,6966,/web/index.php/leave/viewLeaveModule-180,200,OK,Assign_Leave(Scenario1) 1-17,text,true,,4939,1702,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,2276,0,0
+1785411774089,2276,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-17,text,true,,1579,852,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,2276,0,0
+1785411776366,4689,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Assign_Leave(Scenario1) 1-17,text,true,,3360,850,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,4689,0,0
+1785411772592,8484,/web/index.php/leave/assignLeave-192,200,OK,Assign_Leave(Scenario1) 1-16,text,true,,3034,852,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,8484,0,0
+1785411777734,4103,/web/index.php/leave/viewLeaveList-181,200,OK,Assign_Leave(Scenario1) 1-18,text,true,,3360,850,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,4102,0,0
+1785411762791,11931,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-18,,true,,8299,2552,9,9,null,7662,7116,0
+1785411775020,6941,/web/index.php/leave/viewLeaveModule-180,200,OK,Assign_Leave(Scenario1) 1-19,text,true,,4939,1702,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,3040,0,0
+1785411775020,3040,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-19,text,true,,1579,852,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,3040,0,0
+1785411778061,3900,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Assign_Leave(Scenario1) 1-19,text,true,,3360,850,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,3900,0,0
+1785411779568,3390,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,Assign_Leave(Scenario1) 1-12,text,true,,1079,1000,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,3390,0,0
+1785411765567,9719,Assign_Leave,,"Number of samples in transaction : 4, number of failing samples : 1",Assign_Leave(Scenario1) 1-12,,false,,4476,2852,9,9,null,9719,7674,282
+1785411782960,0,Debug Sampler,200,OK,Assign_Leave(Scenario1) 1-12,text,true,,790,0,9,9,null,0,0,0
+1785411783131,3310,/web/index.php/leave/viewLeaveList-181,200,OK,Assign_Leave(Scenario1) 1-17,text,true,,3360,850,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,3310,0,0
+1785411770674,10276,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-17,,true,,8299,2552,8,8,null,5586,5491,0
+1785411782675,4269,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,Assign_Leave(Scenario1) 1-14,text,true,,1079,1000,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,4269,0,296
+1785411775250,8011,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",Assign_Leave(Scenario1) 1-14,,true,,4113,1852,8,8,null,8011,3684,296
+1785411786946,0,Debug Sampler,200,OK,Assign_Leave(Scenario1) 1-14,text,true,,814,0,8,8,null,0,0,0
+1785411781607,5387,/web/index.php/leave/viewLeaveList-181,200,OK,Assign_Leave(Scenario1) 1-20,text,true,,3358,850,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,5387,0,0
+1785411768065,14435,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-20,,true,,8295,2552,7,7,null,10230,4495,0
+1785411784054,4497,/web/index.php/leave/viewLeaveList-181,200,OK,Assign_Leave(Scenario1) 1-19,text,true,,3360,850,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,4497,0,0
+1785411771268,11438,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-19,,true,,8299,2552,7,7,null,7537,5845,0
+1785411784417,4942,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,Assign_Leave(Scenario1) 1-16,text,true,,1079,1000,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,4942,0,289
+1785411770462,13426,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",Assign_Leave(Scenario1) 1-16,,true,,4113,1852,7,7,null,13426,5472,289
+1785411789361,0,Debug Sampler,200,OK,Assign_Leave(Scenario1) 1-16,text,true,,799,0,7,7,null,0,0,0
+1785411783412,6544,/web/index.php/leave/assignLeave-192,200,OK,Assign_Leave(Scenario1) 1-18,text,true,,3035,852,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,6544,0,0
+1785411783782,6565,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,Assign_Leave(Scenario1) 1-15,text,true,,1079,1000,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,6565,0,0
+1785411774755,11366,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",Assign_Leave(Scenario1) 1-15,,true,,4114,1852,6,6,null,11366,4227,0
+1785411790349,1,Debug Sampler,200,OK,Assign_Leave(Scenario1) 1-15,text,true,,814,0,6,6,null,0,0,0
+1785411774291,16284,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-21,text,true,,4463,2123,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,9767,0,0
+1785411774291,9767,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-21,text,true,,1652,1156,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,9767,0,0
+1785411784058,6517,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-21,text,true,,2811,967,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,6517,0,0
+1785411787485,3792,/web/index.php/leave/assignLeave-192,200,OK,Assign_Leave(Scenario1) 1-17,text,true,,3036,852,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,3792,0,0
+1785411788524,2844,/web/index.php/leave/assignLeave-192,200,OK,Assign_Leave(Scenario1) 1-20,text,true,,3033,852,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,2844,0,0
+1785411790853,4907,/web/index.php/leave/assignLeave-192,200,OK,Assign_Leave(Scenario1) 1-19,text,true,,3036,852,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,4907,0,0
+1785411795273,2798,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-21,text,true,,2811,867,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2798,0,0
+1785411772951,19082,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-21,,true,,7274,2990,5,5,null,12565,6039,0
+1785411793223,5929,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,Assign_Leave(Scenario1) 1-18,text,true,,1079,1000,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,5929,0,0
+1785411781837,12473,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",Assign_Leave(Scenario1) 1-18,,true,,4114,1852,5,5,null,12473,4843,0
+1785411799153,0,Debug Sampler,200,OK,Assign_Leave(Scenario1) 1-18,text,true,,841,0,5,5,null,0,0,0
+1785411794764,6197,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,Assign_Leave(Scenario1) 1-20,text,true,,1079,1000,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,6197,0,0
+1785411786996,9041,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",Assign_Leave(Scenario1) 1-20,,true,,4112,1852,4,4,null,9041,4926,0
+1785411800962,0,Debug Sampler,200,OK,Assign_Leave(Scenario1) 1-20,text,true,,829,0,4,4,null,0,0,0
+1785411794415,7245,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,Assign_Leave(Scenario1) 1-17,text,true,,1079,1000,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,7244,0,0
+1785411786441,11037,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",Assign_Leave(Scenario1) 1-17,,true,,4115,1852,3,3,null,11036,4182,0
+1785411801660,1,Debug Sampler,200,OK,Assign_Leave(Scenario1) 1-17,text,true,,793,0,3,3,null,0,0,0
+1785411799223,5758,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,Assign_Leave(Scenario1) 1-19,text,true,,1079,1000,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,5758,0,0
+1785411788552,10665,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",Assign_Leave(Scenario1) 1-19,,true,,4115,1852,3,3,null,10665,5767,0
+1785411804983,0,Debug Sampler,200,OK,Assign_Leave(Scenario1) 1-19,text,true,,880,0,3,3,null,0,0,0
+1785411800937,5018,/web/index.php/leave/viewLeaveModule-180,200,OK,Assign_Leave(Scenario1) 1-21,text,true,,4937,1702,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1913,0,0
+1785411800937,1913,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-21,text,true,,1579,852,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,1913,0,0
+1785411802850,3105,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Assign_Leave(Scenario1) 1-21,text,true,,3358,850,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,3104,0,0
+1785411805628,3252,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-22,text,true,,2339,706,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,3252,0,281
+1785411802433,3252,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-22,,true,,2339,706,2,2,null,3252,3196,281
+1785411809705,3953,/web/index.php/leave/viewLeaveList-181,200,OK,Assign_Leave(Scenario1) 1-21,text,true,,3358,850,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,3953,0,0
+1785411798072,8971,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-21,,true,,8295,2552,2,2,null,5866,6618,0
+1785411810018,8941,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-22,text,true,,4464,2126,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,6237,0,0
+1785411810018,6237,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-22,text,true,,1652,1159,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,6237,0,0
+1785411816256,2703,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-22,text,true,,2812,967,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2703,0,0
+1785411817531,2059,/web/index.php/leave/assignLeave-192,200,OK,Assign_Leave(Scenario1) 1-21,text,true,,3033,852,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,2059,0,0
+1785411822335,3332,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-23,text,true,,2351,706,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,3331,0,289
+1785411819122,3332,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-23,,true,,2351,706,3,3,null,3331,3213,289
+1785411822830,3532,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,Assign_Leave(Scenario1) 1-21,text,true,,1079,1000,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,3532,0,0
+1785411813662,5591,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",Assign_Leave(Scenario1) 1-21,,true,,4112,1852,3,3,null,5591,7111,0
+1785411826365,0,Debug Sampler,200,OK,Assign_Leave(Scenario1) 1-21,text,true,,826,0,3,3,null,0,0,0
+1785411823293,5670,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-22,text,true,,2812,867,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,5670,0,0
+1785411808881,14611,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-22,,true,,7276,2993,2,2,null,11907,5472,0
+1785411833113,9367,/web/index.php/leave/viewLeaveModule-180,200,OK,Assign_Leave(Scenario1) 1-22,text,true,,4939,1702,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,2954,0,0
+1785411833113,2954,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-22,text,true,,1579,852,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,2954,0,0
+1785411836067,6413,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Assign_Leave(Scenario1) 1-22,text,true,,3360,850,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,6413,0,0
+1785411826876,17598,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-23,text,true,,4466,2138,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,10782,0,0
+1785411826876,10783,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-23,text,true,,1652,1171,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,10782,0,0
+1785411837659,6815,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-23,text,true,,2814,967,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,6815,0,0
+1785411844919,6970,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-23,text,true,,2814,867,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,6970,0,0
+1785411825667,24568,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-23,,true,,7280,3005,3,3,null,17752,1654,0
+1785411847978,4187,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-24,text,true,,2342,706,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,4186,0,287
+1785411845149,4187,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-24,,true,,2342,706,3,3,null,4186,2831,287
+1785411847507,6743,/web/index.php/leave/viewLeaveList-181,200,OK,Assign_Leave(Scenario1) 1-22,text,true,,3360,850,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,6742,0,0
+1785411828964,16110,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-22,,true,,8299,2552,3,3,null,9696,9176,0
+1785411855111,4664,/web/index.php/leave/assignLeave-192,200,OK,Assign_Leave(Scenario1) 1-22,text,true,,3035,852,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,4664,0,0
+1785411853465,10293,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-24,text,true,,4464,2125,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,8601,0,0
+1785411853465,8601,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-24,text,true,,1652,1158,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,8601,0,0
+1785411862065,1693,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-24,text,true,,2812,967,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1693,0,0
+1785411853934,10430,/web/index.php/leave/viewLeaveModule-180,200,OK,Assign_Leave(Scenario1) 1-23,text,true,,4939,1702,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,3326,0,0
+1785411853934,3326,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-23,text,true,,1579,852,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,3326,0,0
+1785411857259,7105,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Assign_Leave(Scenario1) 1-23,text,true,,3360,850,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,7105,0,0
+1785411860110,8152,/web/index.php/auth/login-7,200,OK,Assign_Leave(Scenario1) 1-25,text,true,,2345,706,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,8152,0,291
+1785411855748,8152,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Assign_Leave(Scenario1) 1-25,,true,,2345,706,4,4,null,8152,4364,291
+1785411863026,5625,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,Assign_Leave(Scenario1) 1-22,text,true,,1079,1000,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,5625,0,0
+1785411854251,10289,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",Assign_Leave(Scenario1) 1-22,,true,,4114,1852,4,4,null,10289,4114,0
+1785411868653,0,Debug Sampler,200,OK,Assign_Leave(Scenario1) 1-22,text,true,,834,0,4,4,null,0,0,0
+1785411866799,2081,/web/index.php/leave/viewLeaveList-181,200,OK,Assign_Leave(Scenario1) 1-23,text,true,,3360,850,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,2081,0,0
+1785411851890,12511,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-23,,true,,8299,2552,3,3,null,5407,4480,0
+1785411867377,4490,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-24,text,true,,2812,867,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,4490,0,0
+1785411852167,14783,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-24,,true,,7276,2992,3,3,null,13091,4919,0
+1785411871637,5130,/web/index.php/leave/assignLeave-192,200,OK,Assign_Leave(Scenario1) 1-23,text,true,,3036,852,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,5130,0,0
+1785411869761,12100,/web/index.php/auth/validate-35,200,OK,Assign_Leave(Scenario1) 1-25,text,true,,4462,2130,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,6308,0,0
+1785411869761,6308,/web/index.php/auth/validate-35-0,302,Found,Assign_Leave(Scenario1) 1-25,text,true,,1652,1163,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,6308,0,0
+1785411876071,5790,/web/index.php/auth/validate-35-1,200,OK,Assign_Leave(Scenario1) 1-25,text,true,,2810,967,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,5790,0,0
+1785411876512,6336,/web/index.php/leave/viewLeaveModule-180,200,OK,Assign_Leave(Scenario1) 1-24,text,true,,4938,1702,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,2847,0,0
+1785411876512,2847,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-24,text,true,,1579,852,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,2847,0,0
+1785411879359,3489,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Assign_Leave(Scenario1) 1-24,text,true,,3359,850,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,3489,0,0
+1785411880258,5526,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,Assign_Leave(Scenario1) 1-23,text,true,,1079,1000,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,5526,0,0
+1785411868880,10656,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",Assign_Leave(Scenario1) 1-23,,true,,4115,1852,3,3,null,10656,6249,0
+1785411885786,0,Debug Sampler,200,OK,Assign_Leave(Scenario1) 1-23,text,true,,871,0,3,3,null,0,0,0
+1785411882127,7119,/web/index.php/dashboard/index-35,200,OK,Assign_Leave(Scenario1) 1-25,text,true,,2810,867,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,7119,0,0
+1785411868263,19219,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-25,,true,,7272,2997,2,2,null,13427,1763,0
+1785411885318,4057,/web/index.php/leave/viewLeaveList-181,200,OK,Assign_Leave(Scenario1) 1-24,text,true,,3359,850,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,4057,0,0
+1785411871869,10393,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Assign_Leave(Scenario1) 1-24,,true,,8297,2552,2,2,null,6904,7113,0
+1785411890250,4785,/web/index.php/leave/assignLeave-192,200,OK,Assign_Leave(Scenario1) 1-24,text,true,,3034,852,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,4785,0,0
+1785411893776,4626,/web/index.php/leave/viewLeaveModule-180,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Assign_Leave(Scenario1) 1-25,text,false,,5715,852,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,3397,0,0
+1785411893776,3397,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Assign_Leave(Scenario1) 1-25,text,true,,1579,852,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,3397,0,0
+1785411897174,1228,/web/index.php/leave/viewLeaveModule-180-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Assign_Leave(Scenario1) 1-25,text,false,,4136,0,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,0,0,0
+1785411898064,338,/web/index.php/api/v2/leave/employees/leave-requests-208,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Assign_Leave(Scenario1) 1-24,text,false,,3640,0,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,0,0,0
+1785411889374,5123,Assign_Leave,,"Number of samples in transaction : 3, number of failing samples : 1",Assign_Leave(Scenario1) 1-24,,false,,6674,852,2,2,null,4785,3908,0

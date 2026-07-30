@@ -1,0 +1,375 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1785429558335,12626,/web/index.php/auth/login-7,200,OK,Edit_Entitlement(Sceanrio 2) 1-1,text,true,,2281,706,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,12609,0,9953
+1785429553755,12626,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-1,,true,,2281,706,3,3,null,12609,4608,9953
+1785429572172,4372,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-1,text,true,,3772,2114,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1709,0,0
+1785429572172,1709,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-1,text,true,,1534,1152,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,1709,0,0
+1785429573886,2658,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-1,text,true,,2238,962,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,2658,0,0
+1785429571852,6024,/web/index.php/auth/login-7,200,OK,Edit_Entitlement(Sceanrio 2) 1-2,text,true,,2277,706,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,6023,0,4975
+1785429567552,6024,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-2,,true,,2277,706,3,3,null,6023,4302,4975
+1785429579261,4555,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-2,text,true,,3787,2111,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,2507,0,0
+1785429579261,2507,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-2,text,true,,1534,1149,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,2507,0,0
+1785429581771,2045,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-2,text,true,,2253,962,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,2044,0,0
+1785429572265,12137,/web/index.php/auth/login-7,200,OK,Edit_Entitlement(Sceanrio 2) 1-3,text,true,,2274,706,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,12137,0,9815
+1785429568450,12137,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-3,,true,,2274,706,5,5,null,12137,3819,9815
+1785429580680,4159,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-1,text,true,,3722,1729,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,2573,0,0
+1785429580680,2573,/web/index.php/dashboard/index-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-1,text,true,,1534,867,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2573,0,0
+1785429583255,1584,/web/index.php/dashboard/index-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-1,text,true,,2188,862,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1584,0,0
+1785429570990,8531,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-1,,true,,7494,3843,5,5,null,4282,5319,0
+1785429583539,6615,/web/index.php/auth/login-7,200,OK,Edit_Entitlement(Sceanrio 2) 1-4,text,true,,2296,706,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,6615,0,5098
+1785429579244,6615,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-4,,true,,2296,706,5,5,null,6615,4299,5098
+1785429587413,3673,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement(Sceanrio 2) 1-1,text,true,,3736,1693,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,2194,0,0
+1785429587413,2194,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-1,text,true,,1534,852,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,2194,0,0
+1785429589609,1477,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-1,text,true,,2202,841,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1477,0,0
+1785429585603,6304,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-3,text,true,,4481,2111,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,3641,0,0
+1785429585603,3641,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-3,text,true,,1652,1144,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,3641,0,0
+1785429589246,2661,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-3,text,true,,2829,967,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2660,0,0
+1785429585729,6586,/web/index.php/auth/login-7,200,OK,Edit_Entitlement(Sceanrio 2) 1-5,text,true,,2279,706,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,6585,0,5159
+1785429583481,6586,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-5,,true,,2279,706,5,5,null,6585,2251,5159
+1785429590809,3151,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-2,text,true,,3733,1729,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,904,0,0
+1785429590809,904,/web/index.php/dashboard/index-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-2,text,true,,1534,867,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,904,0,0
+1785429591715,2245,/web/index.php/dashboard/index-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-2,text,true,,2199,862,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,2245,0,0
+1785429577879,7706,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-2,,true,,7520,3840,5,5,null,3411,8376,0
+1785429591422,4478,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-4,text,true,,4480,2140,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2326,0,0
+1785429591422,2326,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-4,text,true,,1652,1173,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,2326,0,0
+1785429593750,2150,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-4,text,true,,2828,967,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2149,0,0
+1785429593280,3335,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement(Sceanrio 2) 1-1,text,true,,3728,1691,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,2108,0,0
+1785429593280,2108,/web/index.php/leave/viewLeaveList-181-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-1,text,true,,1534,850,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,2108,0,0
+1785429595390,1225,/web/index.php/leave/viewLeaveList-181-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-1,text,true,,2194,841,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1224,0,0
+1785429584841,7008,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-1,,true,,7464,3384,6,6,null,4302,4770,0
+1785429593464,4891,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-5,text,true,,4482,2115,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2752,0,0
+1785429593464,2752,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-5,text,true,,1652,1148,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,2752,0,0
+1785429596216,2139,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-5,text,true,,2830,967,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2139,0,0
+1785429597485,2053,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-3,text,true,,2829,867,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2052,0,0
+1785429584408,8357,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-3,,true,,7310,2978,6,6,null,5693,6776,0
+1785429597554,2608,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement(Sceanrio 2) 1-2,text,true,,3739,1693,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1212,0,0
+1785429597554,1212,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-2,text,true,,1534,852,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,1212,0,0
+1785429598768,1394,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-2,text,true,,2205,841,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1394,0,0
+1785429598123,2645,/web/index.php/leave/viewLeaveEntitlements-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-1,text,true,,3724,1707,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1572,0,0
+1785429598123,1572,/web/index.php/leave/viewLeaveEntitlements-1-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-1,text,true,,1534,862,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveEntitlements,1572,0,0
+1785429599697,1071,/web/index.php/leave/viewLeaveEntitlements-1-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-1,text,true,,2190,845,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1070,0,0
+1785429600147,1895,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-4,text,true,,2828,867,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1895,0,0
+1785429590158,6373,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-4,,true,,7308,3007,7,7,null,4221,5513,0
+1785429603725,1799,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-5,text,true,,2830,867,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1798,0,0
+1785429592318,6690,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-5,,true,,7312,2982,8,8,null,4550,6519,0
+1785429602991,3044,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement(Sceanrio 2) 1-2,text,true,,3731,1691,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1406,0,0
+1785429602991,1406,/web/index.php/leave/viewLeaveList-181-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-2,text,true,,1534,850,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1406,0,0
+1785429604400,1635,/web/index.php/leave/viewLeaveList-181-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-2,text,true,,2197,841,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1635,0,0
+1785429593962,5652,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-2,,true,,7470,3384,8,8,null,2618,6423,0
+1785429599090,6946,/web/index.php/auth/login-7,200,OK,Edit_Entitlement(Sceanrio 2) 1-6,text,true,,2282,706,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,6945,0,5313
+1785429596176,6946,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-6,,true,,2282,706,8,8,null,6945,2916,5313
+1785429602887,3252,/web/index.php/leave/editLeaveEntitlement/136-8,200,OK,Edit_Entitlement(Sceanrio 2) 1-1,text,true,,3718,1726,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1848,0,0
+1785429602887,1848,/web/index.php/leave/editLeaveEntitlement/136-8-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-1,text,true,,1534,873,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/leave/editLeaveEntitlement/137,1848,0,0
+1785429604737,1402,/web/index.php/leave/editLeaveEntitlement/136-8-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-1,text,true,,2184,853,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1402,0,0
+1785429603083,3259,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement(Sceanrio 2) 1-3,text,true,,4959,1702,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,2030,0,0
+1785429603083,2030,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-3,text,true,,1579,852,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,2030,0,0
+1785429605114,1228,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-3,text,true,,3380,850,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1228,0,0
+1785429604474,2486,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement(Sceanrio 2) 1-4,text,true,,4956,1702,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1561,0,0
+1785429604474,1561,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-4,text,true,,1579,852,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,1561,0,0
+1785429606036,924,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-4,text,true,,3377,850,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,924,0,0
+1785429607563,587,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement(Sceanrio 2) 1-3,text,true,,3380,850,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,587,0,0
+1785429599541,3846,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-3,,true,,8339,2552,8,8,null,2617,4765,0
+1785429607383,2010,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-6,text,true,,3778,2117,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,671,0,0
+1785429607383,671,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-6,text,true,,1534,1155,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,671,0,0
+1785429608056,1337,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-6,text,true,,2244,962,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1337,0,0
+1785429608172,1224,/web/index.php/api/v2/leave/leave-entitlements/136-21,401,Unauthorized,Edit_Entitlement(Sceanrio 2) 1-1,text,false,,344,892,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-entitlements/137,1224,0,0
+1785429596618,7121,Edit_Entitlement,,"Number of samples in transaction : 3, number of failing samples : 1",Edit_Entitlement(Sceanrio 2) 1-1,,false,,7786,4325,8,8,null,4644,5659,0
+1785429609435,6,Debug Sampler,200,OK,Edit_Entitlement(Sceanrio 2) 1-1,text,true,,734,0,8,8,null,0,0,0
+1785429609181,746,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement(Sceanrio 2) 1-4,text,true,,3377,850,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,746,0,0
+1785429602044,3232,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-4,,true,,8333,2552,7,7,null,2307,4652,0
+1785429608445,1592,/web/index.php/leave/viewLeaveEntitlements-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-2,text,true,,3719,1707,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,943,0,0
+1785429608445,943,/web/index.php/leave/viewLeaveEntitlements-1-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-2,text,true,,1534,862,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveEntitlements,943,0,0
+1785429609389,648,/web/index.php/leave/viewLeaveEntitlements-1-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-2,text,true,,2185,845,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,648,0,0
+1785429608800,1541,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement(Sceanrio 2) 1-5,text,true,,4957,1702,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,921,0,0
+1785429608800,921,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-5,text,true,,1579,852,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,921,0,0
+1785429609722,619,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-5,text,true,,3378,850,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,618,0,0
+1785429609779,562,/web/index.php/leave/viewLeaveEntitlements-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-3,text,true,,3159,862,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveEntitlements,561,0,0
+1785429609514,955,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-6,text,true,,3717,1729,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,529,0,0
+1785429609514,530,/web/index.php/dashboard/index-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-6,text,true,,1534,867,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,529,0,0
+1785429610045,424,/web/index.php/dashboard/index-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-6,text,true,,2183,862,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,423,0,0
+1785429606038,2965,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-6,,true,,7495,3846,8,8,null,1200,1468,0
+1785429610159,1201,/web/index.php/leave/editLeaveEntitlement/136-8,200,OK,Edit_Entitlement(Sceanrio 2) 1-2,text,true,,3723,1726,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,478,0,0
+1785429610159,478,/web/index.php/leave/editLeaveEntitlement/136-8-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-2,text,true,,1534,873,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/leave/editLeaveEntitlement/138,478,0,0
+1785429610639,721,/web/index.php/leave/editLeaveEntitlement/136-8-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-2,text,true,,2189,853,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,721,0,0
+1785429611403,977,/web/index.php/leave/viewLeaveEntitlements-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-4,text,true,,3156,862,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveEntitlements,977,0,0
+1785429612257,1154,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement(Sceanrio 2) 1-5,text,true,,3378,850,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1153,0,0
+1785429605526,2695,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-5,,true,,8335,2552,9,9,null,2074,5192,0
+1785429612372,1151,/web/index.php/leave/editLeaveEntitlement/136-8,200,OK,Edit_Entitlement(Sceanrio 2) 1-3,text,true,,3450,873,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/leave/editLeaveEntitlement/139,1150,0,0
+1785429603542,10289,/web/index.php/auth/login-7,200,OK,Edit_Entitlement(Sceanrio 2) 1-7,text,true,,2273,706,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,10289,0,9667
+1785429601845,10289,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-7,,true,,2273,706,9,9,null,10289,1698,9667
+1785429613534,590,/web/index.php/api/v2/leave/leave-entitlements/136-21,401,Unauthorized,Edit_Entitlement(Sceanrio 2) 1-2,text,false,,344,892,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-entitlements/138,590,0,0
+1785429606037,3383,Edit_Entitlement,,"Number of samples in transaction : 3, number of failing samples : 1",Edit_Entitlement(Sceanrio 2) 1-2,,false,,7786,4325,9,9,null,2011,4705,0
+1785429614126,1,Debug Sampler,200,OK,Edit_Entitlement(Sceanrio 2) 1-2,text,true,,725,0,9,9,null,0,0,0
+1785429613261,1126,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement(Sceanrio 2) 1-6,text,true,,3731,1693,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,665,0,0
+1785429613261,665,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-6,text,true,,1534,852,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,665,0,0
+1785429613928,459,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-6,text,true,,2197,841,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,459,0,0
+1785429614722,736,/web/index.php/leave/editLeaveEntitlement/136-8,200,OK,Edit_Entitlement(Sceanrio 2) 1-4,text,true,,3446,873,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/leave/editLeaveEntitlement/140,735,0,0
+1785429615599,472,/web/index.php/api/v2/leave/leave-entitlements/136-21,200,OK,Edit_Entitlement(Sceanrio 2) 1-3,text,true,,1353,892,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-entitlements/139,472,0,0
+1785429608152,2185,Edit_Entitlement,200,"Number of samples in transaction : 3, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-3,,true,,7962,2627,8,8,null,2183,5734,0
+1785429616072,1,Debug Sampler,200,OK,Edit_Entitlement(Sceanrio 2) 1-3,text,true,,708,0,8,8,null,0,0,0
+1785429615249,1540,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-7,text,true,,4481,2110,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,991,0,0
+1785429615249,991,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-7,text,true,,1652,1143,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,991,0,0
+1785429616243,546,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-7,text,true,,2829,967,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,546,0,0
+1785429616864,489,/web/index.php/leave/viewLeaveEntitlements-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-5,text,true,,3158,862,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveEntitlements,489,0,0
+1785429607622,10087,/web/index.php/auth/login-7,200,OK,Edit_Entitlement(Sceanrio 2) 1-8,text,true,,2282,706,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,10087,0,9579
+1785429603480,10087,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-8,,true,,2282,706,7,7,null,10087,4144,9579
+1785429617063,1326,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement(Sceanrio 2) 1-6,text,true,,3719,1691,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,522,0,0
+1785429617063,522,/web/index.php/leave/viewLeaveList-181-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-6,text,true,,1534,850,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,522,0,0
+1785429617586,803,/web/index.php/leave/viewLeaveList-181-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-6,text,true,,2185,841,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,803,0,0
+1785429610471,2452,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-6,,true,,7450,3384,7,7,null,1187,5467,0
+1785429617570,828,/web/index.php/api/v2/leave/leave-entitlements/136-21,200,OK,Edit_Entitlement(Sceanrio 2) 1-4,text,true,,1353,892,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-entitlements/140,828,0,0
+1785429609929,2541,Edit_Entitlement,200,"Number of samples in transaction : 3, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-4,,true,,7955,2627,7,7,null,2540,5928,0
+1785429618399,0,Debug Sampler,200,OK,Edit_Entitlement(Sceanrio 2) 1-4,text,true,,796,0,7,7,null,0,0,0
+1785429613703,6364,/web/index.php/auth/login-7,200,OK,Edit_Entitlement(Sceanrio 2) 1-9,text,true,,2275,706,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,6363,0,5516
+1785429610346,6364,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-9,,true,,2275,706,6,6,null,6363,3359,5516
+1785429620126,1682,/web/index.php/leave/editLeaveEntitlement/136-8,200,OK,Edit_Entitlement(Sceanrio 2) 1-5,text,true,,3450,873,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/leave/editLeaveEntitlement/141,1682,0,0
+1785429618817,2991,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-8,text,true,,4481,2121,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1001,0,0
+1785429618817,1001,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-8,text,true,,1652,1154,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,1001,0,0
+1785429619820,1988,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-8,text,true,,2829,967,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1987,0,0
+1785429615954,5855,/web/index.php/auth/login-7,200,OK,Edit_Entitlement(Sceanrio 2) 1-10,text,true,,2275,706,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,5855,0,4119
+1785429612495,5855,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-10,,true,,2275,706,7,7,null,5855,3462,4119
+1785429621183,1135,/web/index.php/leave/viewLeaveEntitlements-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-6,text,true,,3720,1707,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,623,0,0
+1785429621183,623,/web/index.php/leave/viewLeaveEntitlements-1-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-6,text,true,,1534,862,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveEntitlements,623,0,0
+1785429621810,508,/web/index.php/leave/viewLeaveEntitlements-1-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-6,text,true,,2186,845,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,507,0,0
+1785429621529,890,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-9,text,true,,3769,2106,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,438,0,0
+1785429621529,438,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-9,text,true,,1534,1144,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,438,0,0
+1785429621969,450,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-9,text,true,,2235,962,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,450,0,0
+1785429621951,485,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-7,text,true,,2829,867,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,485,0,0
+1785429613833,2025,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-7,,true,,7310,2977,7,7,null,1476,6580,0
+1785429622860,1669,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-10,text,true,,4483,2113,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,829,0,0
+1785429622860,829,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-10,text,true,,1652,1146,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,829,0,0
+1785429623692,837,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-10,text,true,,2831,967,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,836,0,0
+1785429624266,715,/web/index.php/api/v2/leave/leave-entitlements/136-21,200,OK,Edit_Entitlement(Sceanrio 2) 1-5,text,true,,1355,892,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-entitlements/141,715,0,0
+1785429613413,2886,Edit_Entitlement,200,"Number of samples in transaction : 3, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-5,,true,,7963,2627,7,7,null,2886,8682,0
+1785429624983,1,Debug Sampler,200,OK,Edit_Entitlement(Sceanrio 2) 1-5,text,true,,721,0,7,7,null,0,0,0
+1785429624854,742,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-8,text,true,,2829,867,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,741,0,0
+1785429617712,3733,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-8,,true,,7310,2988,6,6,null,1742,4152,0
+1785429624493,1319,/web/index.php/leave/editLeaveEntitlement/136-8,200,OK,Edit_Entitlement(Sceanrio 2) 1-6,text,true,,3712,1726,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,794,0,0
+1785429624493,794,/web/index.php/leave/editLeaveEntitlement/136-8-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-6,text,true,,1534,873,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/leave/editLeaveEntitlement/142,794,0,0
+1785429625289,523,/web/index.php/leave/editLeaveEntitlement/136-8-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-6,text,true,,2178,853,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,523,0,0
+1785429625973,1365,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement(Sceanrio 2) 1-7,text,true,,4956,1702,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,647,0,0
+1785429625973,648,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-7,text,true,,1579,852,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,647,0,0
+1785429626622,716,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-7,text,true,,3377,850,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,715,0,0
+1785429626837,1012,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-9,text,true,,3717,1729,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,499,0,0
+1785429626837,499,/web/index.php/dashboard/index-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-9,text,true,,1534,867,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,499,0,0
+1785429627338,511,/web/index.php/dashboard/index-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-9,text,true,,2183,862,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,511,0,0
+1785429620070,1902,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-9,,true,,7486,3835,6,6,null,937,5878,0
+1785429627555,784,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-10,text,true,,2831,867,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,783,0,0
+1785429621813,2453,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-10,,true,,7314,2980,6,6,null,1612,4073,0
+1785429627902,526,/web/index.php/api/v2/leave/leave-entitlements/136-21,401,Unauthorized,Edit_Entitlement(Sceanrio 2) 1-6,text,false,,344,892,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-entitlements/142,526,0,0
+1785429618391,2980,Edit_Entitlement,,"Number of samples in transaction : 3, number of failing samples : 1",Edit_Entitlement(Sceanrio 2) 1-6,,false,,7776,4325,6,6,null,1943,7058,0
+1785429628429,1,Debug Sampler,200,OK,Edit_Entitlement(Sceanrio 2) 1-6,text,true,,743,0,6,6,null,0,0,0
+1785429630426,1400,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement(Sceanrio 2) 1-8,text,true,,4957,1702,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,697,0,0
+1785429630426,698,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-8,text,true,,1579,852,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,697,0,0
+1785429631125,701,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-8,text,true,,3378,850,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,701,0,0
+1785429630865,1131,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement(Sceanrio 2) 1-10,text,true,,4957,1702,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,669,0,0
+1785429630865,669,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-10,text,true,,1579,852,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,669,0,0
+1785429631536,460,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-10,text,true,,3378,850,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,460,0,0
+1785429631358,893,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement(Sceanrio 2) 1-9,text,true,,3737,1693,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,434,0,0
+1785429631358,434,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-9,text,true,,1534,852,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,434,0,0
+1785429631793,458,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-9,text,true,,2203,841,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,458,0,0
+1785429631780,472,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement(Sceanrio 2) 1-7,text,true,,3377,850,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,471,0,0
+1785429622438,1837,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-7,,true,,8333,2552,5,5,null,1118,7979,0
+1785429633499,492,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement(Sceanrio 2) 1-10,text,true,,3378,850,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,492,0,0
+1785429628341,1623,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-10,,true,,8335,2552,5,5,null,1161,4029,0
+1785429633906,481,/web/index.php/leave/viewLeaveEntitlements-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-7,text,true,,3159,862,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveEntitlements,480,0,0
+1785429635215,467,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement(Sceanrio 2) 1-8,text,true,,3378,850,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,467,0,0
+1785429625598,1867,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-8,,true,,8335,2552,5,5,null,1164,8218,0
+1785429635356,492,/web/index.php/leave/editLeaveEntitlement/136-8,200,OK,Edit_Entitlement(Sceanrio 2) 1-7,text,true,,3450,873,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/editLeaveEntitlement/143,491,0,0
+1785429635454,581,/web/index.php/leave/viewLeaveEntitlements-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-10,text,true,,3159,862,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveEntitlements,581,0,0
+1785429625501,10534,/web/index.php/auth/login-7,200,OK,Edit_Entitlement(Sceanrio 2) 1-11,text,true,,2274,706,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,10534,0,9875
+1785429621081,10534,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-11,,true,,2274,706,5,5,null,10534,4421,9875
+1785429636020,1379,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement(Sceanrio 2) 1-9,text,true,,3735,1691,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,531,0,0
+1785429636020,531,/web/index.php/leave/viewLeaveList-181-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-9,text,true,,1534,850,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,531,0,0
+1785429636552,847,/web/index.php/leave/viewLeaveList-181-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-9,text,true,,2201,841,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,846,0,0
+1785429627852,2272,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-9,,true,,7472,3384,5,5,null,965,7276,0
+1785429637325,690,/web/index.php/leave/editLeaveEntitlement/136-8,200,OK,Edit_Entitlement(Sceanrio 2) 1-10,text,true,,3449,873,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/editLeaveEntitlement/144,689,0,0
+1785429637737,658,/web/index.php/leave/viewLeaveEntitlements-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-8,text,true,,3158,862,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveEntitlements,658,0,0
+1785429637097,1298,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-11,text,true,,3772,2105,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,582,0,0
+1785429637097,582,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-11,text,true,,1534,1143,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,582,0,0
+1785429637680,715,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-11,text,true,,2238,962,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,715,0,0
+1785429637869,628,/web/index.php/api/v2/leave/leave-entitlements/136-21,200,OK,Edit_Entitlement(Sceanrio 2) 1-7,text,true,,1355,892,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-entitlements/143,628,0,0
+1785429632254,1601,Edit_Entitlement,200,"Number of samples in transaction : 3, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-7,,true,,7964,2627,5,5,null,1599,4641,0
+1785429638498,0,Debug Sampler,200,OK,Edit_Entitlement(Sceanrio 2) 1-7,text,true,,706,0,5,5,null,0,0,0
+1785429639781,864,/web/index.php/leave/editLeaveEntitlement/136-8,200,OK,Edit_Entitlement(Sceanrio 2) 1-8,text,true,,3447,873,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/leave/editLeaveEntitlement/145,864,0,0
+1785429640104,849,/web/index.php/api/v2/leave/leave-entitlements/136-21,200,OK,Edit_Entitlement(Sceanrio 2) 1-10,text,true,,1353,892,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-entitlements/144,849,0,0
+1785429633994,2120,Edit_Entitlement,200,"Number of samples in transaction : 3, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-10,,true,,7961,2627,4,4,null,2119,4840,0
+1785429640953,1,Debug Sampler,200,OK,Edit_Entitlement(Sceanrio 2) 1-10,text,true,,716,0,4,4,null,0,0,0
+1785429640295,2419,/web/index.php/leave/viewLeaveEntitlements-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-9,text,true,,3721,1707,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,864,0,0
+1785429640295,864,/web/index.php/leave/viewLeaveEntitlements-1-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-9,text,true,,1534,862,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveEntitlements,864,0,0
+1785429641160,1554,/web/index.php/leave/viewLeaveEntitlements-1-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-9,text,true,,2187,845,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1554,0,0
+1785429642690,1234,/web/index.php/api/v2/leave/leave-entitlements/136-21,200,OK,Edit_Entitlement(Sceanrio 2) 1-8,text,true,,1353,892,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-entitlements/145,1234,0,0
+1785429635683,2756,Edit_Entitlement,200,"Number of samples in transaction : 3, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-8,,true,,7958,2627,3,3,null,2756,5487,0
+1785429643926,1,Debug Sampler,200,OK,Edit_Entitlement(Sceanrio 2) 1-8,text,true,,739,0,3,3,null,0,0,0
+1785429643212,1429,/web/index.php/leave/editLeaveEntitlement/136-8,200,OK,Edit_Entitlement(Sceanrio 2) 1-9,text,true,,3722,1726,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,916,0,0
+1785429643212,916,/web/index.php/leave/editLeaveEntitlement/136-8-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-9,text,true,,1534,873,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/leave/editLeaveEntitlement/146,916,0,0
+1785429644129,512,/web/index.php/leave/editLeaveEntitlement/136-8-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-9,text,true,,2188,853,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,512,0,0
+1785429643740,1208,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-11,text,true,,3716,1729,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,696,0,0
+1785429643740,696,/web/index.php/dashboard/index-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-11,text,true,,1534,867,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,696,0,0
+1785429644437,511,/web/index.php/dashboard/index-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-11,text,true,,2182,862,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,511,0,0
+1785429636038,2506,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-11,,true,,7488,3834,2,2,null,1278,6405,0
+1785429646905,705,/web/index.php/api/v2/leave/leave-entitlements/136-21,401,Unauthorized,Edit_Entitlement(Sceanrio 2) 1-9,text,false,,344,892,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-entitlements/146,705,0,0
+1785429637400,4553,Edit_Entitlement,,"Number of samples in transaction : 3, number of failing samples : 1",Edit_Entitlement(Sceanrio 2) 1-9,,false,,7787,4325,2,2,null,2485,5658,0
+1785429647611,0,Debug Sampler,200,OK,Edit_Entitlement(Sceanrio 2) 1-9,text,true,,710,0,2,2,null,0,0,0
+1785429648025,1839,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement(Sceanrio 2) 1-11,text,true,,3717,1693,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1020,0,0
+1785429648025,1020,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-11,text,true,,1534,852,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,1020,0,0
+1785429649047,817,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-11,text,true,,2183,841,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,817,0,0
+1785429651194,1332,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement(Sceanrio 2) 1-11,text,true,,3717,1691,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,462,0,0
+1785429651194,462,/web/index.php/leave/viewLeaveList-181-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-11,text,true,,1534,850,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,462,0,0
+1785429651657,869,/web/index.php/leave/viewLeaveList-181-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-11,text,true,,2183,841,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,869,0,0
+1785429644949,3171,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-11,,true,,7434,3384,1,1,null,1482,4407,0
+1785429655203,4572,/web/index.php/leave/viewLeaveEntitlements-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-11,text,true,,3729,1707,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1920,0,0
+1785429655203,1920,/web/index.php/leave/viewLeaveEntitlements-1-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-11,text,true,,1534,862,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveEntitlements,1920,0,0
+1785429657125,2650,/web/index.php/leave/viewLeaveEntitlements-1-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-11,text,true,,2195,845,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,2650,0,0
+1785429656627,3595,/web/index.php/auth/login-7,200,OK,Edit_Entitlement(Sceanrio 2) 1-12,text,true,,2290,706,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,3595,0,3029
+1785429652799,3595,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-12,,true,,2290,706,3,3,null,3595,3833,3029
+1785429656611,3648,/web/index.php/auth/login-7,200,OK,Edit_Entitlement(Sceanrio 2) 1-13,text,true,,2300,706,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,3647,0,3045
+1785429653392,3648,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-13,,true,,2300,706,3,3,null,3647,3221,3045
+1785429660883,2192,/web/index.php/leave/editLeaveEntitlement/136-8,200,OK,Edit_Entitlement(Sceanrio 2) 1-11,text,true,,3739,1726,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1064,0,0
+1785429660883,1064,/web/index.php/leave/editLeaveEntitlement/136-8-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-11,text,true,,1534,873,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/leave/editLeaveEntitlement/137,1064,0,0
+1785429661948,1127,/web/index.php/leave/editLeaveEntitlement/136-8-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-11,text,true,,2205,853,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1127,0,0
+1785429661468,2010,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-12,text,true,,3780,2123,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1341,0,0
+1785429661468,1341,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-12,text,true,,1534,1161,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,1341,0,0
+1785429662810,668,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-12,text,true,,2246,962,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,667,0,0
+1785429661670,2417,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-13,text,true,,4481,2140,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1690,0,0
+1785429661670,1691,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-13,text,true,,1652,1173,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,1690,0,0
+1785429663362,725,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-13,text,true,,2829,967,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,724,0,0
+1785429665372,739,/web/index.php/api/v2/leave/leave-entitlements/136-21,401,Unauthorized,Edit_Entitlement(Sceanrio 2) 1-11,text,false,,344,892,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-entitlements/137,739,0,0
+1785429652527,7503,Edit_Entitlement,,"Number of samples in transaction : 3, number of failing samples : 1",Edit_Entitlement(Sceanrio 2) 1-11,,false,,7812,4325,4,4,null,3723,6082,0
+1785429666112,1,Debug Sampler,200,OK,Edit_Entitlement(Sceanrio 2) 1-11,text,true,,707,0,4,4,null,0,0,0
+1785429668747,1182,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-12,text,true,,3733,1729,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,590,0,0
+1785429668747,590,/web/index.php/dashboard/index-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-12,text,true,,1534,867,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,590,0,0
+1785429669338,591,/web/index.php/dashboard/index-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-12,text,true,,2199,862,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,591,0,0
+1785429660227,3192,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-12,,true,,7513,3852,5,5,null,1931,6513,0
+1785429669502,631,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-13,text,true,,2829,867,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,631,0,0
+1785429660261,3048,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-13,,true,,7310,3007,5,5,null,2321,6826,0
+1785429671479,1265,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement(Sceanrio 2) 1-13,text,true,,4959,1702,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,735,0,0
+1785429671479,735,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-13,text,true,,1579,852,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,735,0,0
+1785429672215,529,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-13,text,true,,3380,850,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,528,0,0
+1785429671863,1274,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement(Sceanrio 2) 1-12,text,true,,3731,1693,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,613,0,0
+1785429671863,613,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-12,text,true,,1534,852,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,613,0,0
+1785429672477,660,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-12,text,true,,2197,841,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,660,0,0
+1785429664224,10628,/web/index.php/auth/login-7,200,OK,Edit_Entitlement(Sceanrio 2) 1-14,text,true,,2275,706,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,10628,0,9819
+1785429660861,10628,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-14,,true,,2275,706,5,5,null,10628,3367,9819
+1785429675403,1191,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement(Sceanrio 2) 1-13,text,true,,3380,850,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1190,0,0
+1785429670135,2456,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-13,,true,,8339,2552,6,6,null,1925,4002,0
+1785429675837,1471,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement(Sceanrio 2) 1-12,text,true,,3738,1691,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,818,0,0
+1785429675837,818,/web/index.php/leave/viewLeaveList-181-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-12,text,true,,1534,850,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,818,0,0
+1785429676657,651,/web/index.php/leave/viewLeaveList-181-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-12,text,true,,2204,841,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,651,0,0
+1785429669931,2745,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-12,,true,,7469,3384,6,6,null,1431,4632,0
+1785429675898,1477,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-14,text,true,,4480,2113,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,991,0,0
+1785429675898,991,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-14,text,true,,1652,1146,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,991,0,0
+1785429676891,484,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-14,text,true,,2828,967,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,484,0,0
+1785429677987,1065,/web/index.php/auth/login-7,200,OK,Edit_Entitlement(Sceanrio 2) 1-17,text,true,,2285,706,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1065,0,578
+1785429675440,1065,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-17,,true,,2285,706,6,6,null,1065,2549,578
+1785429679573,710,/web/index.php/leave/viewLeaveEntitlements-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-13,text,true,,3159,862,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveEntitlements,710,0,0
+1785429679572,1139,/web/index.php/leave/viewLeaveEntitlements-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-12,text,true,,3737,1707,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,585,0,0
+1785429679572,585,/web/index.php/leave/viewLeaveEntitlements-1-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-12,text,true,,1534,862,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveEntitlements,585,0,0
+1785429680158,553,/web/index.php/leave/viewLeaveEntitlements-1-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-12,text,true,,2203,845,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,553,0,0
+1785429680922,736,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-14,text,true,,2828,867,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,735,0,0
+1785429674856,2213,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-14,,true,,7308,2980,6,6,null,1726,4591,0
+1785429680143,1532,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-17,text,true,,4482,2126,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,798,0,0
+1785429680143,798,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-17,text,true,,1652,1159,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,798,0,0
+1785429680942,733,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-17,text,true,,2830,967,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,732,0,0
+1785429671802,10769,/web/index.php/auth/login-7,200,OK,Edit_Entitlement(Sceanrio 2) 1-15,text,true,,2277,706,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,10769,0,9893
+1785429668790,10769,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-15,,true,,2277,706,6,6,null,10769,3013,9893
+1785429671772,10970,/web/index.php/auth/login-7,200,OK,Edit_Entitlement(Sceanrio 2) 1-16,text,true,,2275,706,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,10970,0,10171
+1785429669594,10970,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-16,,true,,2275,706,6,6,null,10970,2180,10171
+1785429682281,916,/web/index.php/leave/editLeaveEntitlement/136-8,200,OK,Edit_Entitlement(Sceanrio 2) 1-12,text,true,,3727,1726,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,476,0,0
+1785429682281,476,/web/index.php/leave/editLeaveEntitlement/136-8-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-12,text,true,,1534,873,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/leave/editLeaveEntitlement/139,476,0,0
+1785429682758,439,/web/index.php/leave/editLeaveEntitlement/136-8-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-12,text,true,,2193,853,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,439,0,0
+1785429683639,1061,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-15,text,true,,3784,2106,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,419,0,0
+1785429683639,419,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-15,text,true,,1534,1144,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,419,0,0
+1785429684060,640,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-15,text,true,,2250,962,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,640,0,0
+1785429683765,1017,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement(Sceanrio 2) 1-14,text,true,,4956,1702,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,403,0,0
+1785429683765,404,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-14,text,true,,1579,852,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,403,0,0
+1785429684170,612,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-14,text,true,,3377,850,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,611,0,0
+1785429684187,648,/web/index.php/leave/editLeaveEntitlement/136-8,200,OK,Edit_Entitlement(Sceanrio 2) 1-13,text,true,,3450,873,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/leave/editLeaveEntitlement/138,648,0,0
+1785429683842,1688,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-16,text,true,,4481,2111,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1044,0,0
+1785429683842,1044,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-16,text,true,,1652,1144,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,1044,0,0
+1785429684887,643,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-16,text,true,,2829,967,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,642,0,0
+1785429685668,626,/web/index.php/api/v2/leave/leave-entitlements/136-21,401,Unauthorized,Edit_Entitlement(Sceanrio 2) 1-12,text,false,,344,892,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-entitlements/139,626,0,0
+1785429677310,2681,Edit_Entitlement,,"Number of samples in transaction : 3, number of failing samples : 1",Edit_Entitlement(Sceanrio 2) 1-12,,false,,7808,4325,6,6,null,1687,6304,0
+1785429686295,1,Debug Sampler,200,OK,Edit_Entitlement(Sceanrio 2) 1-12,text,true,,762,0,6,6,null,0,0,0
+1785429685465,861,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-17,text,true,,2830,867,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,860,0,0
+1785429679053,2393,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-17,,true,,7312,2993,5,5,null,1658,4879,0
+1785429687160,580,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement(Sceanrio 2) 1-14,text,true,,3377,850,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,579,0,0
+1785429681659,1597,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-14,,true,,8333,2552,5,5,null,982,4484,0
+1785429687144,620,/web/index.php/api/v2/leave/leave-entitlements/136-21,200,OK,Edit_Entitlement(Sceanrio 2) 1-13,text,true,,1353,892,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-entitlements/138,620,0,0
+1785429676595,1978,Edit_Entitlement,200,"Number of samples in transaction : 3, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-13,,true,,7962,2627,5,5,null,1978,9192,0
+1785429687765,1,Debug Sampler,200,OK,Edit_Entitlement(Sceanrio 2) 1-13,text,true,,797,0,5,5,null,0,0,0
+1785429688832,529,/web/index.php/leave/viewLeaveEntitlements-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-14,text,true,,3156,862,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveEntitlements,529,0,0
+1785429689965,551,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-16,text,true,,2829,867,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,551,0,0
+1785429682744,2239,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-16,,true,,7310,2978,4,4,null,1595,5536,0
+1785429689142,1482,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement(Sceanrio 2) 1-17,text,true,,4957,1702,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,624,0,0
+1785429689142,624,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-17,text,true,,1579,852,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,624,0,0
+1785429689768,856,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-17,text,true,,3378,850,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,856,0,0
+1785429690716,620,/web/index.php/leave/editLeaveEntitlement/136-8,200,OK,Edit_Entitlement(Sceanrio 2) 1-14,text,true,,3446,873,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/leave/editLeaveEntitlement/140,619,0,0
+1785429690151,1201,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-15,text,true,,3729,1729,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,673,0,0
+1785429690151,673,/web/index.php/dashboard/index-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-15,text,true,,1534,867,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,673,0,0
+1785429690825,527,/web/index.php/dashboard/index-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-15,text,true,,2195,862,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,527,0,0
+1785429682572,2262,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-15,,true,,7513,3835,4,4,null,1092,6519,0
+1785429692590,589,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement(Sceanrio 2) 1-17,text,true,,3378,850,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,589,0,0
+1785429686327,2071,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-17,,true,,8335,2552,4,4,null,1213,4783,0
+1785429693635,448,/web/index.php/api/v2/leave/leave-entitlements/136-21,200,OK,Edit_Entitlement(Sceanrio 2) 1-14,text,true,,1353,892,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-entitlements/140,448,0,0
+1785429687741,1598,Edit_Entitlement,200,"Number of samples in transaction : 3, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-14,,true,,7955,2627,4,4,null,1596,4746,0
+1785429694084,0,Debug Sampler,200,OK,Edit_Entitlement(Sceanrio 2) 1-14,text,true,,716,0,4,4,null,0,0,0
+1785429693712,959,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement(Sceanrio 2) 1-15,text,true,,3735,1693,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,492,0,0
+1785429693712,492,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-15,text,true,,1534,852,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,492,0,0
+1785429694205,466,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-15,text,true,,2201,841,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,466,0,0
+1785429694769,1138,/web/index.php/leave/viewLeaveEntitlements-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-17,text,true,,3158,862,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveEntitlements,1138,0,0
+1785429694972,3168,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement(Sceanrio 2) 1-16,text,true,,4956,1702,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1075,0,0
+1785429694972,1075,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-16,text,true,,1579,852,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,1075,0,0
+1785429696048,2092,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-16,text,true,,3377,850,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,2092,0,0
+1785429696495,2208,/web/index.php/leave/editLeaveEntitlement/136-8,200,OK,Edit_Entitlement(Sceanrio 2) 1-17,text,true,,3450,873,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/leave/editLeaveEntitlement/141,2208,0,0
+1785429698830,3490,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement(Sceanrio 2) 1-15,text,true,,3727,1691,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1258,0,0
+1785429698830,1258,/web/index.php/leave/viewLeaveList-181-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-15,text,true,,1534,850,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1258,0,0
+1785429700089,2231,/web/index.php/leave/viewLeaveList-181-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-15,text,true,,2193,841,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,2230,0,0
+1785429691355,4449,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-15,,true,,7462,3384,3,3,null,1750,6516,0
+1785429701088,1801,/web/index.php/api/v2/leave/leave-entitlements/136-21,200,OK,Edit_Entitlement(Sceanrio 2) 1-17,text,true,,1355,892,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-entitlements/141,1801,0,0
+1785429693180,5147,Edit_Entitlement,200,"Number of samples in transaction : 3, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-17,,true,,7963,2627,3,3,null,5147,4562,0
+1785429702890,0,Debug Sampler,200,OK,Edit_Entitlement(Sceanrio 2) 1-17,text,true,,755,0,3,3,null,0,0,0
+1785429701800,1440,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement(Sceanrio 2) 1-16,text,true,,3377,850,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1439,0,0
+1785429690520,4608,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-16,,true,,8333,2552,2,2,null,2514,8111,0
+1785429705371,1019,/web/index.php/leave/viewLeaveEntitlements-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-16,text,true,,3159,862,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveEntitlements,1019,0,0
+1785429705138,1580,/web/index.php/leave/viewLeaveEntitlements-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-15,text,true,,3733,1707,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,534,0,0
+1785429705138,534,/web/index.php/leave/viewLeaveEntitlements-1-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-15,text,true,,1534,862,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveEntitlements,534,0,0
+1785429705673,1045,/web/index.php/leave/viewLeaveEntitlements-1-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-15,text,true,,2199,845,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1045,0,0
+1785429708838,526,/web/index.php/leave/editLeaveEntitlement/136-8,200,OK,Edit_Entitlement(Sceanrio 2) 1-16,text,true,,3450,873,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/leave/editLeaveEntitlement/143,526,0,0
+1785429709824,1082,/web/index.php/leave/editLeaveEntitlement/136-8,200,OK,Edit_Entitlement(Sceanrio 2) 1-15,text,true,,3717,1726,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,573,0,0
+1785429709824,573,/web/index.php/leave/editLeaveEntitlement/136-8-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-15,text,true,,1534,873,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/leave/editLeaveEntitlement/142,573,0,0
+1785429710399,507,/web/index.php/leave/editLeaveEntitlement/136-8-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-15,text,true,,2183,853,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,506,0,0
+1785429711606,438,/web/index.php/api/v2/leave/leave-entitlements/136-21,200,OK,Edit_Entitlement(Sceanrio 2) 1-16,text,true,,1355,892,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-entitlements/143,437,0,0
+1785429703240,1983,Edit_Entitlement,200,"Number of samples in transaction : 3, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-16,,true,,7964,2627,3,3,null,1982,6822,0
+1785429712047,1,Debug Sampler,200,OK,Edit_Entitlement(Sceanrio 2) 1-16,text,true,,710,0,3,3,null,0,0,0
+1785429713148,540,/web/index.php/api/v2/leave/leave-entitlements/136-21,401,Unauthorized,Edit_Entitlement(Sceanrio 2) 1-15,text,false,,344,892,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-entitlements/142,540,0,0
+1785429702321,3202,Edit_Entitlement,,"Number of samples in transaction : 3, number of failing samples : 1",Edit_Entitlement(Sceanrio 2) 1-15,,false,,7794,4325,2,2,null,1647,8166,0
+1785429713688,1,Debug Sampler,200,OK,Edit_Entitlement(Sceanrio 2) 1-15,text,true,,711,0,2,2,null,0,0,0
+1785429711655,10403,/web/index.php/auth/login-7,200,OK,Edit_Entitlement(Sceanrio 2) 1-18,text,true,,2289,706,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,10402,0,9790
+1785429707865,10403,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-18,,true,,2289,706,2,2,null,10402,3796,9790
+1785429723448,1520,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-18,text,true,,4481,2131,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,964,0,0
+1785429723448,965,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-18,text,true,,1652,1164,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,964,0,0
+1785429724413,555,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-18,text,true,,2829,967,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,555,0,0
+1785429721468,10568,/web/index.php/auth/login-7,200,OK,Edit_Entitlement(Sceanrio 2) 1-19,text,true,,2288,706,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,10568,0,9913
+1785429717864,10568,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-19,,true,,2288,706,2,2,null,10568,3606,9913
+1785429731936,668,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-18,text,true,,2829,867,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,668,0,0
+1785429722064,2188,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-18,,true,,7310,2998,2,2,null,1632,8354,0
+1785429733431,1631,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-19,text,true,,3776,2125,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,507,0,0
+1785429733431,507,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-19,text,true,,1534,1163,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,507,0,0
+1785429733939,1123,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-19,text,true,,2242,962,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1123,0,0
+1785429736609,1320,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement(Sceanrio 2) 1-18,text,true,,4957,1702,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,605,0,0
+1785429736609,605,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-18,text,true,,1579,852,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,605,0,0
+1785429737215,714,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-18,text,true,,3378,850,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,714,0,0
+1785429739611,1539,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement(Sceanrio 2) 1-19,text,true,,3727,1729,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,653,0,0
+1785429739611,653,/web/index.php/dashboard/index-35-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-19,text,true,,1534,867,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,653,0,0
+1785429740265,885,/web/index.php/dashboard/index-35-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-19,text,true,,2193,862,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,885,0,0
+1785429732037,3170,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-19,,true,,7503,3854,2,2,null,1160,5944,0
+1785429740841,570,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement(Sceanrio 2) 1-18,text,true,,3378,850,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,570,0,0
+1785429732606,1890,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement(Sceanrio 2) 1-18,,true,,8335,2552,2,2,null,1175,6917,0
+1785429743130,1031,/web/index.php/leave/viewLeaveEntitlements-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-18,text,true,,3158,862,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveEntitlements,1031,0,0
+1785429744146,1383,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement(Sceanrio 2) 1-19,text,true,,3727,1693,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,417,0,0
+1785429744146,417,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-19,text,true,,1534,852,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,417,0,0
+1785429744564,965,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-19,text,true,,2193,841,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,965,0,0
+1785429746324,1232,/web/index.php/leave/editLeaveEntitlement/136-8,200,OK,Edit_Entitlement(Sceanrio 2) 1-18,text,true,,3447,873,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/leave/editLeaveEntitlement/144,1232,0,0
+1785429747989,1103,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement(Sceanrio 2) 1-19,text,true,,3735,1691,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,420,0,0
+1785429747989,420,/web/index.php/leave/viewLeaveList-181-0,302,Found,Edit_Entitlement(Sceanrio 2) 1-19,text,true,,1534,850,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,420,0,0
+1785429748411,681,/web/index.php/leave/viewLeaveList-181-1,200,OK,Edit_Entitlement(Sceanrio 2) 1-19,text,true,,2201,841,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,

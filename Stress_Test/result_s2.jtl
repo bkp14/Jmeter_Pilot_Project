@@ -1,0 +1,133 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1785423386633,4574,/web/index.php/auth/login-7,200,OK,Edit_Entitlement 1-10,text,true,,2288,706,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,4555,0,2949
+1785423383686,4574,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement 1-10,,true,,2288,706,3,3,null,4555,2984,2949
+1785423388907,4808,/web/index.php/auth/login-7,200,OK,Edit_Entitlement 1-9,text,true,,2279,706,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,4807,0,3502
+1785423386678,4808,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement 1-9,,true,,2279,706,4,4,null,4807,2233,3502
+1785423392673,6162,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement 1-10,text,true,,4463,2131,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,3397,0,0
+1785423392673,3398,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement 1-10,text,true,,1652,1164,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,3397,0,0
+1785423396077,2758,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement 1-10,text,true,,2811,967,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2757,0,0
+1785423394867,5196,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement 1-9,text,true,,4465,2123,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2942,0,0
+1785423394867,2942,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement 1-9,text,true,,1652,1156,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,2942,0,0
+1785423397813,2250,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement 1-9,text,true,,2813,967,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2250,0,0
+1785423392143,8432,/web/index.php/auth/login-7,200,OK,Edit_Entitlement 1-8,text,true,,2274,706,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,8431,0,7210
+1785423389685,8432,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement 1-8,,true,,2274,706,6,6,null,8431,2462,7210
+1785423396539,7109,/web/index.php/auth/login-7,200,OK,Edit_Entitlement 1-7,text,true,,2271,706,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,7109,0,4762
+1785423392687,7109,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement 1-7,,true,,2271,706,7,7,null,7109,3854,4762
+1785423401167,2892,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement 1-9,text,true,,2813,867,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2891,0,0
+1785423393719,8088,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement 1-9,,true,,7278,2990,7,7,null,5833,2253,0
+1785423402020,2345,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement 1-10,text,true,,2811,867,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2345,0,0
+1785423391245,8507,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement 1-10,,true,,7274,2998,7,7,null,5742,4613,0
+1785423401885,4531,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement 1-8,text,true,,4464,2114,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,3092,0,0
+1785423401885,3093,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement 1-8,text,true,,1652,1147,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,3092,0,0
+1785423404980,1436,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement 1-8,text,true,,2812,967,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1436,0,0
+1785423405007,3964,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement 1-9,text,true,,4938,1702,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1404,0,0
+1785423405007,1404,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement 1-9,text,true,,1579,852,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,1404,0,0
+1785423406412,2559,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement 1-9,text,true,,3359,850,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,2559,0,0
+1785423405078,4200,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement 1-7,text,true,,4464,2111,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2357,0,0
+1785423405078,2357,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement 1-7,text,true,,1652,1144,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,2357,0,0
+1785423407437,1841,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement 1-7,text,true,,2812,967,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1841,0,0
+1785423399921,9359,/web/index.php/auth/login-7,200,OK,Edit_Entitlement 1-6,text,true,,2275,706,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,9359,0,7524
+1785423395678,9359,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement 1-6,,true,,2275,706,9,9,null,9359,4245,7524
+1785423409060,1549,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement 1-8,text,true,,2812,867,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1549,0,0
+1785423400580,6080,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement 1-8,,true,,7276,2981,9,9,null,4641,3951,0
+1785423407193,4033,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement 1-10,text,true,,4938,1702,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,2101,0,0
+1785423407193,2101,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement 1-10,text,true,,1579,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,2101,0,0
+1785423409295,1931,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement 1-10,text,true,,3359,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1931,0,0
+1785423405566,6443,/web/index.php/auth/login-7,200,OK,Edit_Entitlement 1-4,text,true,,2271,706,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,6443,0,4541
+1785423401677,6443,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement 1-4,,true,,2271,706,10,10,null,6443,3892,4541
+1785423403665,8480,/web/index.php/auth/login-7,200,OK,Edit_Entitlement 1-5,text,true,,2275,706,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,8480,0,7153
+1785423398677,8480,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement 1-5,,true,,2275,706,10,10,null,8480,4990,7153
+1785423411604,1809,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement 1-7,text,true,,2812,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1809,0,0
+1785423403651,6009,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement 1-7,,true,,7276,2978,10,10,null,4166,3754,0
+1785423411994,1586,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement 1-9,text,true,,3359,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1586,0,0
+1785423404062,5550,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement 1-9,,true,,8297,2552,10,10,null,2990,3969,0
+1785423412878,1324,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement 1-10,text,true,,3359,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1324,0,0
+1785423404366,5357,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement 1-10,,true,,8297,2552,10,10,null,3425,4480,0
+1785423410548,4260,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement 1-6,text,true,,4464,2118,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2723,0,0
+1785423410548,2723,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement 1-6,text,true,,1652,1151,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,2723,0,0
+1785423413274,1534,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement 1-6,text,true,,2812,967,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1534,0,0
+1785423409439,5471,/web/index.php/auth/login-7,200,OK,Edit_Entitlement 1-2,text,true,,2279,706,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,5471,0,4411
+1785423407675,5471,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement 1-2,,true,,2279,706,10,10,null,5471,1767,4411
+1785423407245,9405,/web/index.php/auth/login-7,200,OK,Edit_Entitlement 1-3,text,true,,2288,706,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,9405,0,7157
+1785423404676,9405,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement 1-3,,true,,2288,706,10,10,null,9405,2573,7157
+1785423413398,4892,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement 1-8,text,true,,4937,1702,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1307,0,0
+1785423413398,1308,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement 1-8,text,true,,1579,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,1307,0,0
+1785423414707,3583,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement 1-8,text,true,,3358,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,3583,0,0
+1785423415562,3037,/web/index.php/leave/viewLeaveEntitlements-1,200,OK,Edit_Entitlement 1-10,text,true,,3137,862,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveEntitlements,3036,0,0
+1785423413252,5448,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement 1-4,text,true,,4465,2112,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2068,0,0
+1785423413252,2068,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement 1-4,text,true,,1652,1145,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,2068,0,0
+1785423415321,3379,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement 1-4,text,true,,2813,967,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,3379,0,0
+1785423413219,5788,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement 1-5,text,true,,4465,2116,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2305,0,0
+1785423413219,2305,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement 1-5,text,true,,1652,1149,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,2305,0,0
+1785423415526,3481,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement 1-5,text,true,,2813,967,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,3481,0,0
+1785423415656,3351,/web/index.php/leave/viewLeaveEntitlements-1,200,OK,Edit_Entitlement 1-9,text,true,,3142,862,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveEntitlements,3351,0,0
+1785423417400,1914,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement 1-6,text,true,,2812,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1914,0,0
+1785423409282,6174,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement 1-6,,true,,7276,2985,10,10,null,4637,3860,0
+1785423417033,3304,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement 1-7,text,true,,4940,1702,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1871,0,0
+1785423417033,1871,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement 1-7,text,true,,1579,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,1871,0,0
+1785423418905,1432,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement 1-7,text,true,,3361,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1431,0,0
+1785423419602,1864,/web/index.php/leave/editLeaveEntitlement/136-8,200,OK,Edit_Entitlement 1-9,text,true,,3429,873,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/editLeaveEntitlement/138,1863,0,0
+1785423416402,5075,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement 1-2,text,true,,4463,2123,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,3629,0,0
+1785423416402,3629,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement 1-2,text,true,,1652,1156,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,3629,0,0
+1785423420032,1445,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement 1-2,text,true,,2811,967,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1445,0,0
+1785423418037,3835,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement 1-3,text,true,,4467,2133,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2607,0,0
+1785423418037,2607,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement 1-3,text,true,,1652,1166,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,2607,0,0
+1785423420646,1226,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement 1-3,text,true,,2815,967,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1226,0,0
+1785423413828,8353,/web/index.php/auth/login-7,200,OK,Edit_Entitlement 1-1,text,true,,2278,706,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,8353,0,7026
+1785423410675,8353,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement 1-1,,true,,2278,706,10,10,null,8353,3153,7026
+1785423421103,1170,/web/index.php/leave/editLeaveEntitlement/136-8,200,OK,Edit_Entitlement 1-10,text,true,,3425,873,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/editLeaveEntitlement/139,1170,0,0
+1785423420104,2894,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement 1-6,text,true,,4938,1702,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1361,0,0
+1785423420104,1361,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement 1-6,text,true,,1579,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,1361,0,0
+1785423421468,1530,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement 1-6,text,true,,3359,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1530,0,0
+1785423422245,1162,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement 1-4,text,true,,2813,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1162,0,0
+1785423412012,6610,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement 1-4,,true,,7278,2979,10,10,null,3230,4788,0
+1785423422915,1109,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement 1-8,text,true,,3358,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1108,0,0
+1785423410611,6001,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement 1-8,,true,,8295,2552,10,10,null,2415,7414,0
+1785423423566,948,/web/index.php/api/v2/leave/leave-entitlements/136-21,200,OK,Edit_Entitlement 1-9,text,true,,1352,892,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-entitlements/138,947,0,0
+1785423413581,6163,Edit_Entitlement,200,"Number of samples in transaction : 3, number of failing samples : 0",Edit_Entitlement 1-9,,true,,7923,2627,10,10,null,6161,4771,0
+1785423424549,8,Debug Sampler,200,OK,Edit_Entitlement 1-9,text,true,,764,0,10,10,null,0,0,0
+1785423423841,1043,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement 1-2,text,true,,2811,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1043,0,0
+1785423414914,6118,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement 1-2,,true,,7274,2990,10,10,null,4672,3855,0
+1785423424484,1485,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement 1-5,text,true,,2813,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1484,0,0
+1785423412148,7273,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement 1-5,,true,,7278,2983,10,10,null,3789,6550,0
+1785423424501,1776,/web/index.php/api/v2/leave/leave-entitlements/136-21,200,OK,Edit_Entitlement 1-10,text,true,,1352,892,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-entitlements/139,1775,0,0
+1785423414203,5983,Edit_Entitlement,200,"Number of samples in transaction : 3, number of failing samples : 0",Edit_Entitlement 1-10,,true,,7914,2627,10,10,null,5981,6092,0
+1785423424546,1732,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement 1-7,text,true,,3361,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1731,0,0
+1785423413414,5036,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement 1-7,,true,,8301,2552,10,10,null,3602,7830,0
+1785423426279,1,Debug Sampler,200,OK,Edit_Entitlement 1-10,text,true,,789,0,10,10,null,0,0,0
+1785423423434,3662,/web/index.php/auth/validate-35,200,OK,Edit_Entitlement 1-1,text,true,,4466,2121,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1572,0,0
+1785423423434,1572,/web/index.php/auth/validate-35-0,302,Found,Edit_Entitlement 1-1,text,true,,1652,1154,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,1572,0,0
+1785423425009,2087,/web/index.php/auth/validate-35-1,200,OK,Edit_Entitlement 1-1,text,true,,2814,967,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2087,0,0
+1785423425918,1485,/web/index.php/leave/viewLeaveEntitlements-1,200,OK,Edit_Entitlement 1-8,text,true,,3138,862,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveEntitlements,1485,0,0
+1785423426268,1340,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement 1-6,text,true,,3359,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1339,0,0
+1785423419317,4234,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement 1-6,,true,,8297,2552,10,10,null,2700,4057,0
+1785423425675,3209,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement 1-4,text,true,,4939,1702,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1521,0,0
+1785423425675,1521,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement 1-4,text,true,,1579,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,1521,0,0
+1785423427198,1686,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement 1-4,text,true,,3360,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1686,0,0
+1785423427446,1520,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement 1-3,text,true,,2815,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1520,0,0
+1785423416653,5355,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement 1-3,,true,,7282,3000,10,10,null,4127,6958,0
+1785423427635,1551,/web/index.php/leave/viewLeaveEntitlements-1,200,OK,Edit_Entitlement 1-7,text,true,,3139,862,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveEntitlements,1550,0,0
+1785423428150,1506,/web/index.php/leave/viewLeaveEntitlements-1,200,OK,Edit_Entitlement 1-6,text,true,,3139,862,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveEntitlements,1506,0,0
+1785423429421,580,/web/index.php/leave/editLeaveEntitlement/136-8,200,OK,Edit_Entitlement 1-8,text,true,,3425,873,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/editLeaveEntitlement/140,580,0,0
+1785423428017,2356,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement 1-2,text,true,,4937,1702,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1538,0,0
+1785423428017,1538,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement 1-2,text,true,,1579,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,1538,0,0
+1785423429555,818,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement 1-2,text,true,,3358,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,818,0,0
+1785423428834,1744,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement 1-5,text,true,,4940,1702,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,821,0,0
+1785423428834,822,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement 1-5,text,true,,1579,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,821,0,0
+1785423429657,921,/web/index.php/leave/viewLeaveModule-180-1,200,OK,Edit_Entitlement 1-5,text,true,,3361,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,921,0,0
+1785423431182,1443,/web/index.php/dashboard/index-35,200,OK,Edit_Entitlement 1-1,text,true,,2814,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1443,0,0
+1785423422182,5105,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement 1-1,,true,,7280,2988,10,10,null,3015,5340,0
+1785423431473,1592,/web/index.php/leave/viewLeaveList-181,200,OK,Edit_Entitlement 1-4,text,true,,3360,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1592,0,0
+1785423423409,4801,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",Edit_Entitlement 1-4,,true,,8299,2552,10,10,null,3113,4857,0
+1785423431310,2135,/web/index.php/leave/editLeaveEntitlement/136-8,200,OK,Edit_Entitlement 1-7,text,true,,3429,873,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/editLeaveEntitlement/141,2134,0,0
+1785423432497,1729,/web/index.php/api/v2/leave/leave-entitlements/136-21,200,OK,Edit_Entitlement 1-8,text,true,,1352,892,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-entitlements/140,1729,0,0
+1785423424026,3794,Edit_Entitlement,200,"Number of samples in transaction : 3, number of failing samples : 0",Edit_Entitlement 1-8,,true,,7915,2627,10,10,null,3794,6407,0
+1785423432872,1355,/web/index.php/leave/editLeaveEntitlement/136-8,200,OK,Edit_Entitlement 1-6,text,true,,3426,873,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/editLeaveEntitlement/142,1354,0,0
+1785423434228,0,Debug Sampler,200,OK,Edit_Entitlement 1-8,text,true,,737,0,10,10,null,0,0,0
+1785423427932,7457,/web/index.php/auth/login-7,200,OK,Edit_Entitlement 1-9,text,true,,4372,1509,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,5716,0,4187
+1785423427932,5717,/web/index.php/auth/login-7-0,302,Found,Edit_Entitlement 1-9,text,true,,1559,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,5716,0,4187
+1785423433648,1741,/web/index.php/auth/login-7-1,200,OK,Edit_Entitlement 1-9,text,true,,2813,757,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1741,0,0
+1785423424561,7457,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Edit_Entitlement 1-9,,true,,4372,1509,10,10,null,5716,3374,4187
+1785423432214,3180,/web/index.php/leave/viewLeaveModule-180,200,OK,Edit_Entitlement 1-3,text,true,,4941,1702,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1639,0,0
+1785423432214,1639,/web/index.php/leave/viewLeaveModule-180-0,302,Found,Edit_Entitlement 1-3,text,true,,1579,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,1639,0,0
+1785423433854,1540,/web/index.php/leave/v
