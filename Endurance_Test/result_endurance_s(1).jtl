@@ -1,0 +1,553 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1785461066823,2529,/web/index.php/auth/login-7,200,OK,AssignLeave 1-10,text,true,,2292,706,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,2527,0,1926
+1785461064040,2529,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-10,,true,,2292,706,1,1,null,2527,2803,1926
+1785461070508,1665,/web/index.php/auth/validate-35,200,OK,AssignLeave 1-10,text,true,,4463,2140,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,868,0,0
+1785461070508,868,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-10,text,true,,1652,1173,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,868,0,0
+1785461071382,791,/web/index.php/auth/validate-35-1,200,OK,AssignLeave 1-10,text,true,,2811,967,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,791,0,0
+1785461073773,1386,/web/index.php/auth/login-7,200,OK,AssignLeave 1-9,text,true,,2284,706,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1386,0,690
+1785461069989,1386,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-9,,true,,2284,706,2,2,null,1386,3788,690
+1785461076615,592,/web/index.php/dashboard/index-35,200,OK,AssignLeave 1-10,text,true,,2811,867,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,592,0,0
+1785461069374,2257,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-10,,true,,7274,3007,3,3,null,1460,5579,0
+1785461076366,1252,/web/index.php/auth/validate-35,200,OK,AssignLeave 1-9,text,true,,4459,2125,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,745,0,0
+1785461076366,745,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-9,text,true,,1652,1158,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,745,0,0
+1785461077114,504,/web/index.php/auth/validate-35-1,200,OK,AssignLeave 1-9,text,true,,2807,967,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,504,0,0
+1785461076801,1436,/web/index.php/auth/login-7,200,OK,AssignLeave 1-8,text,true,,2284,706,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1436,0,661
+1785461075989,1436,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-8,,true,,2284,706,3,3,null,1436,814,661
+1785461079344,1623,/web/index.php/auth/validate-35,200,OK,AssignLeave 1-8,text,true,,4459,2128,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1104,0,0
+1785461079344,1104,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-8,text,true,,1652,1161,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,1104,0,0
+1785461080453,514,/web/index.php/auth/validate-35-1,200,OK,AssignLeave 1-8,text,true,,2807,967,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,513,0,0
+1785461080075,969,/web/index.php/leave/viewLeaveModule-180,200,OK,AssignLeave 1-10,text,true,,4940,1702,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,413,0,0
+1785461080075,413,/web/index.php/leave/viewLeaveModule-180-0,302,Found,AssignLeave 1-10,text,true,,1579,852,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,413,0,0
+1785461080489,555,/web/index.php/leave/viewLeaveModule-180-1,200,OK,AssignLeave 1-10,text,true,,3361,850,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,554,0,0
+1785461081131,895,/web/index.php/dashboard/index-35,200,OK,AssignLeave 1-9,text,true,,2807,867,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,895,0,0
+1785461075162,2147,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-9,,true,,7266,2992,4,4,null,1640,4718,0
+1785461083418,535,/web/index.php/leave/viewLeaveList-181,200,OK,AssignLeave 1-10,text,true,,3361,850,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,535,0,0
+1785461077209,1504,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-10,,true,,8301,2552,4,4,null,948,5241,0
+1785461084637,559,/web/index.php/leave/assignLeave-192,200,OK,AssignLeave 1-10,text,true,,3034,852,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,559,0,0
+1785461085382,637,/web/index.php/dashboard/index-35,200,OK,AssignLeave 1-8,text,true,,2807,867,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,637,0,0
+1785461078241,2260,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-8,,true,,7266,2995,4,4,null,1741,5520,0
+1785461084963,1118,/web/index.php/leave/viewLeaveModule-180,200,OK,AssignLeave 1-9,text,true,,4934,1702,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,641,0,0
+1785461084963,641,/web/index.php/leave/viewLeaveModule-180-0,302,Found,AssignLeave 1-9,text,true,,1579,852,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,641,0,0
+1785461085605,476,/web/index.php/leave/viewLeaveModule-180-1,200,OK,AssignLeave 1-9,text,true,,3355,850,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,476,0,0
+1785461087112,1361,/web/index.php/auth/login-7,200,OK,AssignLeave 1-7,text,true,,2283,706,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1361,0,750
+1785461082003,1361,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-7,,true,,2283,706,5,5,null,1361,5111,750
+1785461089101,1028,/web/index.php/leave/viewLeaveList-181,200,OK,AssignLeave 1-9,text,true,,3355,850,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1027,0,0
+1785461088666,1462,/web/index.php/leave/viewLeaveModule-180,200,OK,AssignLeave 1-8,text,true,,4934,1702,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,523,0,0
+1785461088666,523,/web/index.php/leave/viewLeaveModule-180-0,302,Found,AssignLeave 1-8,text,true,,1579,852,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,523,0,0
+1785461089191,937,/web/index.php/leave/viewLeaveModule-180-1,200,OK,AssignLeave 1-8,text,true,,3355,850,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,937,0,0
+1785461082029,2146,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-9,,true,,8289,2552,5,5,null,1668,5957,0
+1785461090035,32845,/web/index.php/auth/login-7,200,OK,AssignLeave 1-6,text,true,,2292,706,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,32844,0,695
+1785461087996,32845,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-6,,true,,2292,706,10,10,null,32844,2043,695
+1785461089492,33471,/web/index.php/auth/validate-35,200,OK,AssignLeave 1-7,text,true,,4462,2131,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1177,0,0
+1785461089492,1177,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-7,text,true,,1652,1164,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,1177,0,0
+1785461090672,32291,/web/index.php/auth/validate-35-1,200,OK,AssignLeave 1-7,text,true,,2810,967,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,32291,0,0
+1785461090158,32721,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,AssignLeave 1-10,text,true,,1079,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,32721,0,0
+1785461083955,33280,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",AssignLeave 1-10,,true,,4113,1852,10,10,null,33280,5871,0
+1785461123118,5,Debug Sampler,200,OK,AssignLeave 1-10,text,true,,891,0,10,10,null,0,0,0
+1785461091902,32001,/web/index.php/leave/viewLeaveList-181,200,OK,AssignLeave 1-8,text,true,,3355,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,32001,0,0
+1785461086021,33463,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-8,,true,,8289,2552,10,10,null,32524,4422,0
+1785461092273,32760,/web/index.php/leave/assignLeave-192,200,OK,AssignLeave 1-9,text,true,,3028,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,32759,0,0
+1785461098444,32528,/web/index.php/auth/login-7,200,OK,AssignLeave 1-5,text,true,,2286,706,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,32527,0,801
+1785461093991,32528,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-5,,true,,2286,706,10,10,null,32527,4458,801
+1785461103269,32821,/web/index.php/auth/login-7,200,OK,AssignLeave 1-4,text,true,,2286,706,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,32821,0,874
+1785461099991,32821,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-4,,true,,2286,706,10,10,null,32821,3282,874
+1785461109783,33374,/web/index.php/auth/login-7,200,OK,AssignLeave 1-3,text,true,,2284,706,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,33373,0,717
+1785461106000,33374,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-3,,true,,2284,706,10,10,null,33373,3785,717
+1785461115522,32344,/web/index.php/auth/login-7,200,OK,AssignLeave 1-2,text,true,,2276,706,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,32343,0,705
+1785461111995,32344,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-2,,true,,2276,706,10,10,null,32343,3530,705
+1785461121709,33530,/web/index.php/auth/login-7,200,OK,AssignLeave 1-1,text,true,,2275,706,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,33529,0,867
+1785461117993,33530,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-1,,true,,2275,706,10,10,null,33529,3719,867
+1785461156692,1394,/web/index.php/auth/validate-35,200,OK,AssignLeave 1-1,text,true,,4462,2116,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,734,0,0
+1785461156692,734,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-1,text,true,,1652,1149,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,734,0,0
+1785461157428,658,/web/index.php/auth/validate-35-1,200,OK,AssignLeave 1-1,text,true,,2810,967,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,658,0,0
+1785461124265,34047,/web/index.php/auth/validate-35,200,OK,AssignLeave 1-6,text,true,,4459,2136,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,32715,0,0
+1785461124265,32715,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-6,text,true,,1652,1169,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,32715,0,0
+1785461156982,1330,/web/index.php/auth/validate-35-1,200,OK,AssignLeave 1-6,text,true,,2807,967,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1330,0,513
+1785461126946,32058,/web/index.php/leave/assignLeave-192,200,OK,AssignLeave 1-8,text,true,,3028,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,32057,0,0
+1785461127149,31854,/web/index.php/dashboard/index-35,200,OK,AssignLeave 1-7,text,true,,2810,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31853,0,0
+1785461088475,65325,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-7,,true,,7272,2998,10,10,null,33030,5205,0
+1785461126351,33155,/web/index.php/auth/login-7,200,OK,AssignLeave 1-10,text,true,,4370,1509,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,32644,0,612
+1785461126351,32644,/web/index.php/auth/login-7-0,302,Found,AssignLeave 1-10,text,true,,1559,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,32644,0,612
+1785461158996,510,/web/index.php/auth/login-7-1,200,OK,AssignLeave 1-10,text,true,,2811,757,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,509,0,0
+1785461123126,33155,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-10,,true,,4370,1509,10,10,null,32644,3226,612
+1785461128348,31703,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,AssignLeave 1-9,text,true,,1079,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,31703,0,0
+1785461090132,64463,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",AssignLeave 1-9,,true,,4107,1852,10,10,null,64462,5464,0
+1785461160060,1,Debug Sampler,200,OK,AssignLeave 1-9,text,true,,845,0,10,10,null,0,0,0
+1785461159277,1696,/web/index.php/dashboard/index-35,200,OK,AssignLeave 1-6,text,true,,2807,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1696,0,0
+1785461122883,35743,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-6,,true,,7266,3003,10,10,null,34411,2349,0
+1785461163588,1379,/web/index.php/dashboard/index-35,200,OK,AssignLeave 1-1,text,true,,2810,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1379,0,0
+1785461155242,2773,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-1,,true,,7272,2983,10,10,null,2113,6954,0
+1785461162266,33631,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,AssignLeave 1-8,text,true,,1079,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,33631,0,762
+1785461123907,65689,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",AssignLeave 1-8,,true,,4107,1852,10,10,null,65688,6310,762
+1785461195906,1,Debug Sampler,200,OK,AssignLeave 1-8,text,true,,854,0,10,10,null,0,0,0
+1785461160868,35099,/web/index.php/auth/validate-35,200,OK,AssignLeave 1-10,text,true,,5904,2982,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1416,0,0
+1785461160868,1416,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-10,text,true,,1534,1053,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,1416,0,0
+1785461162286,1186,/web/index.php/auth/validate-35-1,302,Found,AssignLeave 1-10,text,true,,1559,962,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1186,0,0
+1785461163474,32494,/web/index.php/auth/validate-35-2,200,OK,AssignLeave 1-10,text,true,,2811,967,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,32494,0,0
+1785461132326,64593,/web/index.php/auth/validate-35,200,OK,AssignLeave 1-5,text,true,,4462,2133,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31602,0,0
+1785461132326,31602,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-5,text,true,,1652,1166,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,31602,0,0
+1785461163931,32988,/web/index.php/auth/validate-35-1,200,OK,AssignLeave 1-5,text,true,,2810,967,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,32987,0,714
+1785461162411,34584,/web/index.php/leave/viewLeaveModule-180,200,OK,AssignLeave 1-7,text,true,,4937,1702,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,2353,0,615
+1785461162411,2353,/web/index.php/leave/viewLeaveModule-180-0,302,Found,AssignLeave 1-7,text,true,,1579,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,2353,0,615
+1785461164767,32228,/web/index.php/leave/viewLeaveModule-180-1,200,OK,AssignLeave 1-7,text,true,,3358,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,32228,0,0
+1785461137163,62827,/web/index.php/auth/validate-35,200,OK,AssignLeave 1-4,text,true,,4463,2131,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,30977,0,0
+1785461137163,30977,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-4,text,true,,1652,1164,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,30977,0,0
+1785461168143,31847,/web/index.php/auth/validate-35-1,200,OK,AssignLeave 1-4,text,true,,2811,967,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31847,0,618
+1785461144185,62704,/web/index.php/auth/validate-35,200,OK,AssignLeave 1-3,text,true,,4461,2128,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31023,0,0
+1785461144185,31023,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-3,text,true,,1652,1161,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,31023,0,0
+1785461175209,31680,/web/index.php/auth/validate-35-1,200,OK,AssignLeave 1-3,text,true,,2809,967,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31680,0,1029
+1785461210928,599,/web/index.php/dashboard/index-35,200,OK,AssignLeave 1-3,text,true,,2809,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,599,0,0
+1785461143159,63303,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-3,,true,,7270,2995,10,10,null,31622,5066,0
+1785461148967,63208,/web/index.php/auth/validate-35,200,OK,AssignLeave 1-2,text,true,,4462,2119,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,30953,0,0
+1785461148967,30953,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-2,text,true,,1652,1152,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,30953,0,0
+1785461179920,32255,/web/index.php/auth/validate-35-1,200,OK,AssignLeave 1-2,text,true,,2810,967,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,32255,0,515
+1785461216988,1332,/web/index.php/leave/viewLeaveModule-180,200,OK,AssignLeave 1-3,text,true,,4934,1702,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,717,0,0
+1785461216988,717,/web/index.php/leave/viewLeaveModule-180-0,302,Found,AssignLeave 1-3,text,true,,1579,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,717,0,0
+1785461217706,614,/web/index.php/leave/viewLeaveModule-180-1,200,OK,AssignLeave 1-3,text,true,,3355,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,614,0,0
+1785461219377,652,/web/index.php/dashboard/index-35,200,OK,AssignLeave 1-2,text,true,,2810,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,652,0,0
+1785461147870,63860,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-2,,true,,7272,2986,10,10,null,31605,8303,0
+1785461221725,794,/web/index.php/leave/viewLeaveList-181,200,OK,AssignLeave 1-3,text,true,,3355,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,794,0,0
+1785461211529,2126,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-3,,true,,8289,2552,10,10,null,1511,8865,0
+1785461223915,1472,/web/index.php/leave/viewLeaveModule-180,200,OK,AssignLeave 1-2,text,true,,4936,1702,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,951,0,0
+1785461223915,951,/web/index.php/leave/viewLeaveModule-180-0,302,Found,AssignLeave 1-2,text,true,,1579,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,951,0,0
+1785461224867,520,/web/index.php/leave/viewLeaveModule-180-1,200,OK,AssignLeave 1-2,text,true,,3357,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,519,0,0
+1785461224937,508,/web/index.php/leave/assignLeave-192,200,OK,AssignLeave 1-3,text,true,,3029,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,508,0,0
+1785461164559,62567,/web/index.php/leave/viewLeaveModule-180,200,OK,AssignLeave 1-6,text,true,,4934,1702,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,31401,0,0
+1785461164559,31402,/web/index.php/leave/viewLeaveModule-180-0,302,Found,AssignLeave 1-6,text,true,,1579,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,31401,0,0
+1785461195961,31165,/web/index.php/leave/viewLeaveModule-180-1,200,OK,AssignLeave 1-6,text,true,,3355,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,31164,0,0
+1785461163461,63665,/web/index.php/auth/login-7,200,OK,AssignLeave 1-9,text,true,,4366,1509,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,32507,0,794
+1785461163461,32507,/web/index.php/auth/login-7-0,302,Found,AssignLeave 1-9,text,true,,1559,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,32507,0,794
+1785461195969,31157,/web/index.php/auth/login-7-1,200,OK,AssignLeave 1-9,text,true,,2807,757,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31156,0,0
+1785461160062,63665,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-9,,true,,4366,1509,10,10,null,32507,3401,794
+1785461228570,1651,/web/index.php/api/v2/leave/employees/leave-requests-208,400,Bad Request,AssignLeave 1-3,text,false,,361,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,1651,0,0
+1785461229328,1075,/web/index.php/leave/viewLeaveList-181,200,OK,AssignLeave 1-2,text,true,,3357,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,1075,0,0
+1785461220034,2547,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-2,,true,,8293,2552,10,10,null,2026,7824,0
+1785461168036,63151,/web/index.php/leave/viewLeaveModule-180,200,OK,AssignLeave 1-1,text,true,,4938,1702,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,31033,0,0
+1785461168036,31034,/web/index.php/leave/viewLeaveModule-180-0,302,Found,AssignLeave 1-1,text,true,,1579,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,31033,0,0
+1785461199070,32117,/web/index.php/leave/viewLeaveModule-180-1,200,OK,AssignLeave 1-1,text,true,,3359,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,32117,0,720
+1785461201904,31162,/web/index.php/leave/viewLeaveList-181,200,OK,AssignLeave 1-7,text,true,,3358,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,31162,0,0
+1785461159006,65746,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-7,,true,,8295,2552,10,10,null,33515,8316,615
+1785461202320,30847,/web/index.php/dashboard/index-35,200,OK,AssignLeave 1-5,text,true,,2810,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,30847,0,0
+1785461130978,95440,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-5,,true,,7272,3000,10,10,null,62449,6750,0
+1785461198477,34690,/web/index.php/auth/login-7,200,OK,AssignLeave 1-8,text,true,,4366,1509,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31825,0,700
+1785461198477,31825,/web/index.php/auth/login-7-0,302,Found,AssignLeave 1-8,text,true,,1559,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,31825,0,700
+1785461230303,2864,/web/index.php/auth/login-7-1,200,OK,AssignLeave 1-8,text,true,,2807,757,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2864,0,0
+1785461201425,31746,/web/index.php/dashboard/index-35,200,OK,AssignLeave 1-10,text,true,,2811,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31745,0,615
+1785461159508,66845,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-10,,true,,8715,3849,10,10,null,33161,6819,615
+1785461195909,34690,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-8,,true,,4366,1509,10,10,null,31825,2573,700
+1785461228242,5929,/web/index.php/auth/validate-35,200,OK,AssignLeave 1-9,text,true,,5900,2982,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2046,0,527
+1785461228242,2047,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-9,text,true,,1534,1053,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,2046,0,527
+1785461230289,1955,/web/index.php/auth/validate-35-1,302,Found,AssignLeave 1-9,text,true,,1559,962,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1955,0,0
+1785461232245,1926,/web/index.php/auth/validate-35-2,200,OK,AssignLeave 1-9,text,true,,2807,967,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1926,0,0
+1785461233919,1605,/web/index.php/leave/assignLeave-192,200,OK,AssignLeave 1-2,text,true,,3030,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,1605,0,0
+1785461205160,31038,/web/index.php/dashboard/index-35,200,OK,AssignLeave 1-4,text,true,,2811,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31038,0,0
+1785461136093,93865,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-4,,true,,7274,2998,10,10,null,62015,6240,0
+1785461231811,36481,/web/index.php/leave/viewLeaveList-181,200,OK,AssignLeave 1-6,text,true,,3355,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,36481,0,542
+1785461160975,99048,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-6,,true,,8289,2552,10,10,null,67882,8271,542
+1785461234139,34937,/web/index.php/leave/viewLeaveList-181,200,OK,AssignLeave 1-1,text,true,,3359,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,34937,0,0
+1785461164969,98088,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-1,,true,,8297,2552,10,10,null,65970,6020,0
+1785461233629,35447,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,AssignLeave 1-3,text,true,,1079,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,35447,0,0
+1785461222522,37606,Assign_Leave,,"Number of samples in transaction : 4, number of failing samples : 1",AssignLeave 1-3,,false,,4469,2852,10,10,null,37606,8951,0
+1785461269079,0,Debug Sampler,200,OK,AssignLeave 1-3,text,true,,854,0,10,10,null,0,0,0
+1785461235412,34927,/web/index.php/leave/assignLeave-192,200,OK,AssignLeave 1-7,text,true,,3032,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,34927,0,728
+1785461239575,31382,/web/index.php/dashboard/index-35,200,OK,AssignLeave 1-9,text,true,,2807,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31381,0,0
+1785461227129,37311,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-9,,true,,8707,3849,10,10,null,33427,6518,527
+1785461238746,33480,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,AssignLeave 1-2,text,true,,1079,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,33479,0,0
+1785461230404,35085,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",AssignLeave 1-2,,true,,4109,1852,10,10,null,35084,6738,0
+1785461272229,0,Debug Sampler,200,OK,AssignLeave 1-2,text,true,,827,0,10,10,null,0,0,0
+1785461268989,31151,/web/index.php/leave/assignLeave-192,200,OK,AssignLeave 1-6,text,true,,3028,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,31151,0,0
+1785461235430,65812,/web/index.php/leave/viewLeaveModule-180,200,OK,AssignLeave 1-10,text,true,,4940,1702,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,33726,0,0
+1785461235430,33726,/web/index.php/leave/viewLeaveModule-180-0,302,Found,AssignLeave 1-10,text,true,,1579,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,33726,0,0
+1785461269157,32085,/web/index.php/leave/viewLeaveModule-180-1,200,OK,AssignLeave 1-10,text,true,,3361,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,32084,0,986
+1785461238246,63737,/web/index.php/leave/viewLeaveModule-180,200,OK,AssignLeave 1-5,text,true,,4938,1702,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,32709,0,518
+1785461238246,32709,/web/index.php/leave/viewLeaveModule-180-0,302,Found,AssignLeave 1-5,text,true,,1579,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,32709,0,518
+1785461270957,31026,/web/index.php/leave/viewLeaveModule-180-1,200,OK,AssignLeave 1-5,text,true,,3359,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,31025,0,0
+1785461270702,32479,/web/index.php/leave/assignLeave-192,200,OK,AssignLeave 1-1,text,true,,3032,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,32478,0,667
+1785461238799,64382,/web/index.php/leave/viewLeaveModule-180,200,OK,AssignLeave 1-4,text,true,,4937,1702,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,33427,0,482
+1785461238799,33427,/web/index.php/leave/viewLeaveModule-180-0,302,Found,AssignLeave 1-4,text,true,,1579,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,33427,0,482
+1785461272227,30954,/web/index.php/leave/viewLeaveModule-180-1,200,OK,AssignLeave 1-4,text,true,,3358,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,30953,0,0
+1785461273601,31351,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,AssignLeave 1-7,text,true,,1079,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,31351,0,0
+1785461233069,66278,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",AssignLeave 1-7,,true,,4111,1852,10,10,null,66278,5608,728
+1785461304956,0,Debug Sampler,200,OK,AssignLeave 1-7,text,true,,863,0,10,10,null,0,0,0
+1785461234322,96823,/web/index.php/auth/validate-35,200,OK,AssignLeave 1-8,text,true,,5900,2982,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,34072,0,0
+1785461234322,34072,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-8,text,true,,1534,1053,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,34072,0,0
+1785461268395,31642,/web/index.php/auth/validate-35-1,302,Found,AssignLeave 1-8,text,true,,1559,962,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,31642,0,683
+1785461300039,31106,/web/index.php/auth/validate-35-2,200,OK,AssignLeave 1-8,text,true,,2807,967,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31106,0,0
+1785461303216,31841,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,AssignLeave 1-6,text,true,,1079,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,31841,0,716
+1785461268295,62992,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",AssignLeave 1-6,,true,,4107,1852,10,10,null,62992,3773,716
+1785461335060,0,Debug Sampler,200,OK,AssignLeave 1-6,text,true,,878,0,10,10,null,0,0,0
+1785461304228,30913,/web/index.php/leave/viewLeaveList-181,200,OK,AssignLeave 1-10,text,true,,3361,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,30913,0,0
+1785461233173,96725,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-10,,true,,8301,2552,10,10,null,64639,5243,0
+1785461273167,62814,/web/index.php/auth/login-7,200,OK,AssignLeave 1-3,text,true,,4368,1509,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31784,0,560
+1785461273167,31784,/web/index.php/auth/login-7-0,302,Found,AssignLeave 1-3,text,true,,1559,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,31784,0,560
+1785461304953,31028,/web/index.php/auth/login-7-1,200,OK,AssignLeave 1-3,text,true,,2809,757,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31028,0,0
+1785461269081,62814,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-3,,true,,4368,1509,10,10,null,31784,4088,560
+1785461303808,32377,/web/index.php/leave/viewLeaveList-181,200,OK,AssignLeave 1-5,text,true,,3359,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,32376,0,534
+1785461233169,96114,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-5,,true,,8297,2552,10,10,null,65085,6903,1052
+1785461274070,63120,/web/index.php/leave/viewLeaveModule-180,200,OK,AssignLeave 1-9,text,true,,4934,1702,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,30882,0,0
+1785461274070,30882,/web/index.php/leave/viewLeaveModule-180-0,302,Found,AssignLeave 1-9,text,true,,1579,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,30882,0,0
+1785461304953,32237,/web/index.php/leave/viewLeaveModule-180-1,200,OK,AssignLeave 1-9,text,true,,3355,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,32237,0,720
+1785461306455,31490,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,AssignLeave 1-1,text,true,,1079,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,31490,0,0
+1785461269077,63969,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",AssignLeave 1-1,,true,,4111,1852,10,10,null,63968,4902,667
+1785461337949,0,Debug Sampler,200,OK,AssignLeave 1-1,text,true,,818,0,10,10,null,0,0,0
+1785461275444,62687,/web/index.php/auth/login-7,200,OK,AssignLeave 1-2,text,true,,4369,1509,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31708,0,596
+1785461275444,31708,/web/index.php/auth/login-7-0,302,Found,AssignLeave 1-2,text,true,,1559,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,31708,0,596
+1785461307153,30978,/web/index.php/auth/login-7-1,200,OK,AssignLeave 1-2,text,true,,2810,757,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,30978,0,0
+1785461272230,62687,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-2,,true,,4369,1509,10,10,null,31708,3216,596
+1785461306798,32215,/web/index.php/leave/viewLeaveList-181,200,OK,AssignLeave 1-4,text,true,,3358,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,32215,0,1024
+1785461236199,96597,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-4,,true,,8295,2552,10,10,null,65642,6218,1506
+1785461336516,31509,/web/index.php/leave/assignLeave-192,200,OK,AssignLeave 1-5,text,true,,3032,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,31509,0,0
+1785461338009,31970,/web/index.php/leave/assignLeave-192,200,OK,AssignLeave 1-10,text,true,,3034,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,31969,0,536
+1785461308625,62364,/web/index.php/auth/login-7,200,OK,AssignLeave 1-7,text,true,,4369,1509,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31424,0,529
+1785461308625,31424,/web/index.php/auth/login-7-0,302,Found,AssignLeave 1-7,text,true,,1559,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,31424,0,529
+1785461340051,30938,/web/index.php/auth/login-7-1,200,OK,AssignLeave 1-7,text,true,,2810,757,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,30938,0,0
+1785461304957,62364,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-7,,true,,4369,1509,10,10,null,31424,3675,529
+1785461340029,31075,/web/index.php/leave/viewLeaveList-181,200,OK,AssignLeave 1-9,text,true,,3355,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,31075,0,0
+1785461270958,94195,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-9,,true,,8289,2552,10,10,null,61957,5953,0
+1785461342886,31119,/web/index.php/leave/assignLeave-192,200,OK,AssignLeave 1-4,text,true,,3033,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,31119,0,0
+1785461342249,31768,/web/index.php/dashboard/index-35,200,OK,AssignLeave 1-8,text,true,,2807,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31767,0,492
+1785461233173,128591,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-8,,true,,8707,3849,10,10,null,65839,12253,492
+1785461376424,412,/web/index.php/leave/viewLeaveModule-180,500,Internal Server Error,AssignLeave 1-8,text,false,,255,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,412,0,0
+1785461377329,874,/web/index.php/api/v2/leave/employees/leave-requests-208,500,Internal Server Error,AssignLeave 1-4,text,false,,255,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,874,0,477
+1785461339013,31993,Assign_Leave,,"Number of samples in transaction : 3, number of failing samples : 1",AssignLeave 1-4,,false,,3288,1852,10,10,null,31993,7201,477
+1785461378208,0,Debug Sampler,200,OK,AssignLeave 1-4,text,true,,864,0,10,10,null,0,0,0
+1785461379824,614,/web/index.php/leave/viewLeaveList-181,500,Internal Server Error,AssignLeave 1-8,text,false,,255,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,614,0,0
+1785461374018,1026,Leave,,"Number of samples in transaction : 2, number of failing samples : 2",AssignLeave 1-8,,false,,510,1702,10,10,null,1026,5395,0
+1785461381238,412,/web/index.php/leave/assignLeave-192,500,Internal Server Error,AssignLeave 1-8,text,false,,255,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,412,0,0
+1785461380666,1223,/web/index.php/auth/login-7,500,Internal Server Error,AssignLeave 1-4,text,false,Response was null,255,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1223,0,496
+1785461378210,1223,Launch,,"Number of samples in transaction : 1, number of failing samples : 1",AssignLeave 1-4,,false,,255,752,10,10,null,1223,2467,496
+1785461383138,434,/web/index.php/auth/validate-35,500,Internal Server Error,AssignLeave 1-4,text,false,Test failed: code expected to contain /200/,255,1053,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,434,0,0
+1785461385024,1035,/web/index.php/api/v2/leave/employees/leave-requests-208,500,Internal Server Error,AssignLeave 1-8,text,false,,255,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,1035,0,0
+1785461380439,1447,Assign_Leave,,"Number of samples in transaction : 3, number of failing samples : 2",AssignLeave 1-8,,false,,510,1852,10,10,null,1447,4174,0
+1785461386061,1,Debug Sampler,200,OK,AssignLeave 1-8,text,true,,453,0,10,10,null,0,0,0
+1785461388337,376,/web/index.php/dashboard/index-35,500,Internal Server Error,AssignLeave 1-4,text,false,Test failed: code expected to contain /200/,255,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,376,0,0
+1785461381901,810,Login,,"Number of samples in transaction : 2, number of failing samples : 2",AssignLeave 1-4,,false,,510,1920,10,10,null,810,6002,0
+1785461387797,1101,/web/index.php/auth/login-7,500,Internal Server Error,AssignLeave 1-8,text,false,Response was null,255,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1101,0,619
+1785461386062,1101,Launch,,"Number of samples in transaction : 1, number of failing samples : 1",AssignLeave 1-8,,false,,255,752,10,10,null,1101,1737,619
+1785461388983,421,/web/index.php/leave/viewLeaveModule-180,500,Internal Server Error,AssignLeave 1-4,text,false,,255,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,421,0,0
+1785461390246,367,/web/index.php/auth/validate-35,500,Internal Server Error,AssignLeave 1-8,text,false,Test failed: code expected to contain /200/,255,1053,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,367,0,0
+1785461337920,63130,/web/index.php/auth/login-7,200,OK,AssignLeave 1-6,text,true,,4366,1509,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,32058,0,727
+1785461337920,32058,/web/index.php/auth/login-7-0,302,Found,AssignLeave 1-6,text,true,,1559,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,32058,0,727
+1785461369978,31072,/web/index.php/auth/login-7-1,200,OK,AssignLeave 1-6,text,true,,2807,757,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31072,0,0
+1785461335061,63130,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-6,,true,,4366,1509,10,10,null,32058,2868,727
+1785461337158,64358,/web/index.php/auth/validate-35,500,Internal Server Error,AssignLeave 1-3,text,false,Test failed: code expected to contain /200/,3348,2982,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31794,0,792
+1785461337158,31794,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-3,text,true,,1534,1053,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,31794,0,792
+1785461368953,31031,/web/index.php/auth/validate-35-1,302,Found,AssignLeave 1-3,text,true,,1559,962,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,31030,0,0
+1785461399986,1530,/web/index.php/auth/validate-35-2,500,Internal Server Error,AssignLeave 1-3,text,false,,255,967,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1530,0,926
+1785461371286,31706,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,AssignLeave 1-5,text,true,,1079,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,31706,0,857
+1785461336187,63215,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",AssignLeave 1-5,,true,,4111,1852,10,10,null,63215,3613,857
+1785461403015,1,Debug Sampler,200,OK,AssignLeave 1-5,text,true,,869,0,10,10,null,0,0,0
+1785461373392,30560,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,AssignLeave 1-10,text,true,,1079,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,30559,0,0
+1785461335143,62530,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",AssignLeave 1-10,,true,,4113,1852,10,10,null,62528,6287,536
+1785461341599,62359,/web/index.php/auth/login-7,200,OK,AssignLeave 1-1,text,true,,4369,1509,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31607,0,543
+1785461341599,31608,/web/index.php/auth/login-7-0,302,Found,AssignLeave 1-1,text,true,,1559,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,31607,0,543
+1785461373207,30751,/web/index.php/auth/login-7-1,200,OK,AssignLeave 1-1,text,true,,2810,757,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,30751,0,0
+1785461337951,62359,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-1,,true,,4369,1509,10,10,null,31607,3651,543
+1785461403960,1,Debug Sampler,200,OK,AssignLeave 1-10,text,true,,453,0,10,10,null,0,0,0
+1785461373811,32277,/web/index.php/leave/assignLeave-192,200,OK,AssignLeave 1-9,text,true,,3028,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,32276,0,529
+1785461407321,1167,/web/index.php/auth/login-7,500,Internal Server Error,AssignLeave 1-10,text,false,Response was null,255,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1167,0,655
+1785461403962,1167,Launch,,"Number of samples in transaction : 1, number of failing samples : 1",AssignLeave 1-10,,false,,255,752,10,10,null,1167,3360,655
+1785461407882,1238,/web/index.php/auth/login-7,500,Internal Server Error,AssignLeave 1-5,text,false,Response was null,255,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1238,0,504
+1785461403028,1238,Launch,,"Number of samples in transaction : 1, number of failing samples : 1",AssignLeave 1-5,,false,,255,752,10,10,null,1238,4854,504
+1785461409107,500,/web/index.php/api/v2/leave/employees/leave-requests-208,500,Internal Server Error,AssignLeave 1-9,text,false,,255,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,500,0,0
+1785461371105,32777,Assign_Leave,,"Number of samples in transaction : 3, number of failing samples : 1",AssignLeave 1-9,,false,,3283,1852,10,10,null,32776,5727,529
+1785461409611,0,Debug Sampler,200,OK,AssignLeave 1-9,text,true,,453,0,10,10,null,0,0,0
+1785461409699,627,/web/index.php/auth/validate-35,500,Internal Server Error,AssignLeave 1-10,text,false,Test failed: code expected to contain /200/,255,1053,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,627,0,0
+1785461410463,478,/web/index.php/auth/validate-35,500,Internal Server Error,AssignLeave 1-5,text,false,Test failed: code expected to contain /200/,255,1053,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,478,0,0
+1785461412194,1510,/web/index.php/auth/login-7,500,Internal Server Error,AssignLeave 1-9,text,false,Response was null,255,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1510,0,799
+1785461409613,1510,Launch,,"Number of samples in transaction : 1, number of failing samples : 1",AssignLeave 1-9,,false,,255,752,10,10,null,1510,2582,799
+1785461415118,428,/web/index.php/auth/validate-35,500,Internal Server Error,AssignLeave 1-9,text,false,Test failed: code expected to contain /200/,255,1053,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,428,0,0
+1785461415195,372,/web/index.php/dashboard/index-35,500,Internal Server Error,AssignLeave 1-10,text,false,Test failed: code expected to contain /200/,255,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,372,0,0
+1785461408490,999,Login,,"Number of samples in transaction : 2, number of failing samples : 2",AssignLeave 1-10,,false,,510,1920,10,10,null,999,6080,0
+1785461417191,506,/web/index.php/dashboard/index-35,500,Internal Server Error,AssignLeave 1-5,text,false,Test failed: code expected to contain /200/,255,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,506,0,0
+1785461409121,984,Login,,"Number of samples in transaction : 2, number of failing samples : 2",AssignLeave 1-5,,false,,510,1920,10,10,null,984,7594,0
+1785461418815,417,/web/index.php/leave/viewLeaveModule-180,500,Internal Server Error,AssignLeave 1-10,text,false,,255,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,417,0,0
+1785461420261,418,/web/index.php/dashboard/index-35,500,Internal Server Error,AssignLeave 1-9,text,false,Test failed: code expected to contain /200/,255,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,418,0,0
+1785461413704,846,Login,,"Number of samples in transaction : 2, number of failing samples : 2",AssignLeave 1-9,,false,,510,1920,10,10,null,846,6129,0
+1785461420820,370,/web/index.php/leave/viewLeaveModule-180,500,Internal Server Error,AssignLeave 1-5,text,false,,255,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,370,0,0
+1785461423191,380,/web/index.php/leave/viewLeaveList-181,500,Internal Server Error,AssignLeave 1-5,text,false,,255,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,380,0,0
+1785461417698,750,Leave,,"Number of samples in transaction : 2, number of failing samples : 2",AssignLeave 1-5,,false,,510,1702,10,10,null,750,5123,0
+1785461423551,454,/web/index.php/leave/viewLeaveList-181,500,Internal Server Error,AssignLeave 1-10,text,false,,255,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,454,0,0
+1785461415568,871,Leave,,"Number of samples in transaction : 2, number of failing samples : 2",AssignLeave 1-10,,false,,510,1702,10,10,null,871,7565,0
+1785461392804,31295,/web/index.php/leave/viewLeaveList-181,200,OK,AssignLeave 1-4,text,true,,3358,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,31294,0,0
+1785461388714,31716,Leave,,"Number of samples in transaction : 2, number of failing samples : 1",AssignLeave 1-4,,false,,3613,1702,10,10,null,31715,3673,0
+1785461394940,31113,/web/index.php/dashboard/index-35,200,OK,AssignLeave 1-8,text,true,,2807,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31112,0,0
+1785461388899,31480,Login,,"Number of samples in transaction : 2, number of failing samples : 1",AssignLeave 1-8,,false,,3062,1920,10,10,null,31479,5675,0
+1785461339514,94459,/web/index.php/auth/validate-35,200,OK,AssignLeave 1-2,text,true,,5903,2982,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31476,0,538
+1785461339514,31476,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-2,text,true,,1534,1053,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,31476,0,538
+1785461370991,31039,/web/index.php/auth/validate-35-1,302,Found,AssignLeave 1-2,text,true,,1559,962,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,31039,0,0
+1785461402032,31941,/web/index.php/auth/validate-35-2,200,OK,AssignLeave 1-2,text,true,,2810,967,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31940,0,515
+1785461405655,31513,/web/index.php/dashboard/index-35,200,OK,AssignLeave 1-3,text,true,,2809,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31512,0,0
+1785461335984,95871,Login,,"Number of samples in transaction : 2, number of failing samples : 1",AssignLeave 1-3,,false,,6157,3849,10,10,null,63306,5314,792
+1785461443639,479,/web/index.php/dashboard/index-35,500,Internal Server Error,AssignLeave 1-2,text,false,Test failed: code expected to contain /200/,255,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,479,0,0
+1785461338133,94938,Login,,"Number of samples in transaction : 2, number of failing samples : 1",AssignLeave 1-2,,false,,6158,3849,10,10,null,31955,11049,538
+1785461446411,471,/web/index.php/leave/viewLeaveModule-180,500,Internal Server Error,AssignLeave 1-2,text,false,,255,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,471,0,0
+1785461450079,696,/web/index.php/leave/viewLeaveList-181,500,Internal Server Error,AssignLeave 1-2,text,false,,255,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,696,0,0
+1785461444120,1167,Leave,,"Number of samples in transaction : 2, number of failing samples : 2",AssignLeave 1-2,,false,,510,1702,10,10,null,1167,5487,0
+1785461453962,466,/web/index.php/leave/assignLeave-192,200,OK,AssignLeave 1-2,text,true,,3030,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,466,0,0
+1785461424075,31512,/web/index.php/leave/viewLeaveModule-180,200,OK,AssignLeave 1-9,text,true,,4934,1702,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,31000,0,0
+1785461424075,31000,/web/index.php/leave/viewLeaveModule-180-0,302,Found,AssignLeave 1-9,text,true,,1579,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,31000,0,0
+1785461455077,510,/web/index.php/leave/viewLeaveModule-180-1,200,OK,AssignLeave 1-9,text,true,,3355,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,509,0,0
+1785461425211,30786,/web/index.php/leave/assignLeave-192,200,OK,AssignLeave 1-4,text,true,,3033,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,30786,0,0
+1785461426609,31382,/web/index.php/leave/assignLeave-192,200,OK,AssignLeave 1-10,text,true,,3034,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,31382,0,0
+1785461426857,31136,/web/index.php/leave/assignLeave-192,200,OK,AssignLeave 1-5,text,true,,3032,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,31136,0,0
+1785461372185,95160,/web/index.php/auth/validate-35,200,OK,AssignLeave 1-7,text,true,,5903,2982,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31768,0,648
+1785461372185,31769,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-7,text,true,,1534,1053,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,31768,0,648
+1785461403961,31017,/web/index.php/auth/validate-35-1,302,Found,AssignLeave 1-7,text,true,,1559,962,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,31017,0,0
+1785461434978,32366,/web/index.php/auth/validate-35-2,200,OK,AssignLeave 1-7,text,true,,2810,967,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,32366,0,629
+1785461470296,2596,/web/index.php/dashboard/index-35,500,Internal Server Error,AssignLeave 1-7,text,false,Test failed: code expected to contain /200/,255,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,2596,0,0
+1785461404982,67910,/web/index.php/auth/validate-35,500,Internal Server Error,AssignLeave 1-1,text,false,Test failed: code expected to contain /200/,3348,2982,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,32084,0,531
+1785461404982,32085,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-1,text,true,,1534,1053,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,32084,0,531
+1785461437067,31011,/web/index.php/auth/validate-35-1,302,Found,AssignLeave 1-1,text,true,,1559,962,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,31011,0,0
+1785461468079,4814,/web/index.php/auth/validate-35-2,500,Internal Server Error,AssignLeave 1-1,text,false,,255,967,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,4814,0,2164
+1785461370995,97756,Login,,"Number of samples in transaction : 2, number of failing samples : 1",AssignLeave 1-7,,false,,6158,3849,10,10,null,34364,4143,648
+1785461439668,33658,/web/index.php/leave/viewLeaveModule-180,500,Internal Server Error,AssignLeave 1-3,text,false,,1834,1702,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,31382,0,0
+1785461439668,31382,/web/index.php/leave/viewLeaveModule-180-0,302,Found,AssignLeave 1-3,text,true,,1579,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,31382,0,0
+1785461471051,2275,/web/index.php/leave/viewLeaveModule-180-1,500,Internal Server Error,AssignLeave 1-3,text,false,,255,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,2275,0,1439
+1785461474559,688,/web/index.php/dashboard/index-35,500,Internal Server Error,AssignLeave 1-1,text,false,Test failed: code expected to contain /200/,255,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,688,0,0
+1785461403961,68598,Login,,"Number of samples in transaction : 2, number of failing samples : 2",AssignLeave 1-1,,false,,3603,3849,10,10,null,32772,2689,531
+1785461475755,859,/web/index.php/leave/viewLeaveList-181,500,Internal Server Error,AssignLeave 1-3,text,false,,255,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,859,0,0
+1785461437168,34517,Leave,,"Number of samples in transaction : 2, number of failing samples : 2",AssignLeave 1-3,,false,,2089,2552,10,10,null,32241,4929,0
+1785461475989,800,/web/index.php/leave/viewLeaveModule-180,500,Internal Server Error,AssignLeave 1-7,text,false,,255,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,800,0,0
+1785461477347,1486,/web/index.php/leave/assignLeave-192,500,Internal Server Error,AssignLeave 1-3,text,false,,255,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,1486,0,0
+1785461479474,894,/web/index.php/leave/viewLeaveModule-180,500,Internal Server Error,AssignLeave 1-1,text,false,,255,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,894,0,0
+1785461480846,837,/web/index.php/leave/viewLeaveList-181,500,Internal Server Error,AssignLeave 1-7,text,false,,255,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,837,0,0
+1785461472894,1637,Leave,,"Number of samples in transaction : 2, number of failing samples : 2",AssignLeave 1-7,,false,,510,1702,10,10,null,1637,7152,0
+1785461481657,438,/web/index.php/leave/viewLeaveList-181,500,Internal Server Error,AssignLeave 1-1,text,false,,255,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,438,0,0
+1785461475248,1332,Leave,,"Number of samples in transaction : 2, number of failing samples : 2",AssignLeave 1-1,,false,,510,1702,10,10,null,1332,5515,0
+1785461482078,546,/web/index.php/api/v2/leave/employees/leave-requests-208,500,Internal Server Error,AssignLeave 1-3,text,false,,255,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,546,0,0
+1785461476615,2032,Assign_Leave,,"Number of samples in transaction : 3, number of failing samples : 2",AssignLeave 1-3,,false,,510,1852,10,10,null,2032,3980,0
+1785461482628,1,Debug Sampler,200,OK,AssignLeave 1-3,text,true,,453,0,10,10,null,0,0,0
+1785461482435,494,/web/index.php/leave/assignLeave-192,500,Internal Server Error,AssignLeave 1-7,text,false,,255,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,494,0,0
+1785461483401,448,/web/index.php/leave/assignLeave-192,500,Internal Server Error,AssignLeave 1-1,text,false,,255,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,448,0,0
+1785461484836,1480,/web/index.php/auth/login-7,500,Internal Server Error,AssignLeave 1-3,text,false,Response was null,255,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1480,0,735
+1785461482630,1480,Launch,,"Number of samples in transaction : 1, number of failing samples : 1",AssignLeave 1-3,,false,,255,752,10,10,null,1480,2207,735
+1785461486377,753,/web/index.php/api/v2/leave/employees/leave-requests-208,500,Internal Server Error,AssignLeave 1-7,text,false,,255,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,753,0,0
+1785461481684,1247,Assign_Leave,,"Number of samples in transaction : 3, number of failing samples : 2",AssignLeave 1-7,,false,,510,1852,10,10,null,1247,4212,0
+1785461487144,0,Debug Sampler,200,OK,AssignLeave 1-7,text,true,,453,0,10,10,null,0,0,0
+1785461486995,955,/web/index.php/api/v2/leave/employees/leave-requests-208,500,Internal Server Error,AssignLeave 1-1,text,false,,255,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,955,0,0
+1785461482096,1403,Assign_Leave,,"Number of samples in transaction : 3, number of failing samples : 2",AssignLeave 1-1,,false,,510,1852,10,10,null,1403,4453,0
+1785461487964,0,Debug Sampler,200,OK,AssignLeave 1-1,text,true,,453,0,10,10,null,0,0,0
+1785461487431,916,/web/index.php/auth/validate-35,500,Internal Server Error,AssignLeave 1-3,text,false,Test failed: code expected to contain /200/,255,1053,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,916,0,0
+1785461457590,31440,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,AssignLeave 1-2,text,true,,1079,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,31440,0,0
+1785461450775,31906,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",AssignLeave 1-2,,true,,4109,1852,10,10,null,31906,6352,0
+1785461489033,0,Debug Sampler,200,OK,AssignLeave 1-2,text,true,,452,0,10,10,null,0,0,0
+1785461458245,31767,/web/index.php/leave/viewLeaveList-181,200,OK,AssignLeave 1-9,text,true,,3355,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,31767,0,0
+1785461420680,63279,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-9,,true,,8289,2552,10,10,null,62767,6057,0
+1785461428121,63892,/web/index.php/leave/viewLeaveModule-180,200,OK,AssignLeave 1-8,text,true,,4934,1702,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,31151,0,0
+1785461428121,31153,/web/index.php/leave/viewLeaveModule-180-0,302,Found,AssignLeave 1-8,text,true,,1579,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,31151,0,0
+1785461459276,32737,/web/index.php/leave/viewLeaveModule-180-1,200,OK,AssignLeave 1-8,text,true,,3355,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,32736,0,1553
+1785461459293,32719,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,AssignLeave 1-4,text,true,,1079,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,32719,0,1536
+1785461424103,63505,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",AssignLeave 1-4,,true,,4112,1852,10,10,null,63505,4405,1536
+1785461492015,0,Debug Sampler,200,OK,AssignLeave 1-4,text,true,,452,0,10,10,null,0,0,0
+1785461461056,31954,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,AssignLeave 1-10,text,true,,1079,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,31954,0,0
+1785461424005,63336,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",AssignLeave 1-10,,true,,4113,1852,10,10,null,63336,5671,0
+1785461493015,0,Debug Sampler,200,OK,AssignLeave 1-10,text,true,,453,0,10,10,null,0,0,0
+1785461461305,31708,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,AssignLeave 1-5,text,true,,1079,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,31708,0,0
+1785461423571,62844,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",AssignLeave 1-5,,true,,4111,1852,10,10,null,62844,6602,0
+1785461493018,1,Debug Sampler,200,OK,AssignLeave 1-5,text,true,,452,0,10,10,null,0,0,0
+1785461402428,94813,/web/index.php/auth/validate-35,200,OK,AssignLeave 1-6,text,true,,5900,2982,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31602,0,590
+1785461402428,31602,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-6,text,true,,1534,1053,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,31602,0,590
+1785461434031,31163,/web/index.php/auth/validate-35-1,302,Found,AssignLeave 1-6,text,true,,1559,962,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,31162,0,0
+1785461465196,32046,/web/index.php/auth/validate-35-2,200,OK,AssignLeave 1-6,text,true,,2807,967,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,32045,0,537
+1785461497341,12928,/web/index.php/auth/login-7,500,Internal Server Error,AssignLeave 1-10,text,false,Response was null,255,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,12928,0,4812
+1785461493017,12928,Launch,,"Number of samples in transaction : 1, number of failing samples : 1",AssignLeave 1-10,,false,,255,752,10,10,null,12928,4326,4812
+1785461511400,614,/web/index.php/auth/validate-35,500,Internal Server Error,AssignLeave 1-10,text,false,Test failed: code expected to contain /200/,255,1053,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,614,0,0
+1785461492814,31279,/web/index.php/dashboard/index-35,200,OK,AssignLeave 1-3,text,true,,2809,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31279,0,0
+1785461486317,32195,Login,,"Number of samples in transaction : 2, number of failing samples : 1",AssignLeave 1-3,,false,,3064,1920,10,10,null,32195,5583,0
+1785461491970,33545,/web/index.php/leave/assignLeave-192,200,OK,AssignLeave 1-9,text,true,,3028,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,33456,0,1733
+1785461496207,31880,/web/index.php/leave/viewLeaveList-181,200,OK,AssignLeave 1-8,text,true,,3355,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,31880,0,0
+1785461426054,95772,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-8,,true,,8289,2552,10,10,null,63031,6262,0
+1785461499999,33111,/web/index.php/dashboard/index-35,200,OK,AssignLeave 1-6,text,true,,2807,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,33111,0,0
+1785461401058,127924,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-6,,true,,8707,3849,10,10,null,64713,4128,590
+1785461536393,1033,/web/index.php/leave/viewLeaveModule-180,500,Internal Server Error,AssignLeave 1-6,text,false,,255,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,1033,0,507
+1785461539733,2588,/web/index.php/leave/viewLeaveList-181,500,Internal Server Error,AssignLeave 1-6,text,false,,255,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,2588,0,0
+1785461533112,3621,Leave,,"Number of samples in transaction : 2, number of failing samples : 2",AssignLeave 1-6,,false,,510,1702,10,10,null,3621,5590,507
+1785461544023,1677,/web/index.php/leave/assignLeave-192,500,Internal Server Error,AssignLeave 1-6,text,false,,255,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,1677,0,0
+1785461519659,32704,/web/index.php/dashboard/index-35,200,OK,AssignLeave 1-10,text,true,,2811,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,32704,0,0
+1785461510270,33318,Login,,"Number of samples in transaction : 2, number of failing samples : 1",AssignLeave 1-10,,false,,3066,1920,10,10,null,33318,8778,0
+1785461492549,66569,/web/index.php/auth/login-7,200,OK,AssignLeave 1-1,text,true,,4369,1509,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,33387,0,1553
+1785461492549,33388,/web/index.php/auth/login-7-0,302,Found,AssignLeave 1-1,text,true,,1559,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,33387,0,1553
+1785461525938,33180,/web/index.php/auth/login-7-1,200,OK,AssignLeave 1-1,text,true,,2810,757,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,33180,0,0
+1785461487965,66569,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-1,,true,,4369,1509,10,10,null,33387,4585,1553
+1785461491241,68897,/web/index.php/auth/login-7,200,OK,AssignLeave 1-7,text,true,,4369,1509,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,33878,0,2861
+1785461491241,33878,/web/index.php/auth/login-7-0,302,Found,AssignLeave 1-7,text,true,,1559,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,33878,0,2861
+1785461525123,35015,/web/index.php/auth/login-7-1,200,OK,AssignLeave 1-7,text,true,,2810,757,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,35015,0,0
+1785461487145,68897,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-7,,true,,4369,1509,10,10,null,33878,4098,2861
+1785461528759,33329,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,AssignLeave 1-9,text,true,,1079,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,33327,0,0
+1785461490016,66874,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",AssignLeave 1-9,,true,,4107,1852,10,10,null,66783,5208,1733
+1785461562097,0,Debug Sampler,200,OK,AssignLeave 1-9,text,true,,452,0,10,10,null,0,0,0
+1785461492770,73310,/web/index.php/auth/login-7,200,OK,AssignLeave 1-2,text,true,,4369,1509,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,32348,0,1435
+1785461492770,32348,/web/index.php/auth/login-7-0,302,Found,AssignLeave 1-2,text,true,,1559,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,32348,0,1435
+1785461525120,40960,/web/index.php/auth/login-7-1,200,OK,AssignLeave 1-2,text,true,,2810,757,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,40959,0,0
+1785461489034,73310,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-2,,true,,4369,1509,10,10,null,32348,3737,1435
+1785461495175,71108,/web/index.php/auth/login-7,200,OK,AssignLeave 1-5,text,true,,4369,1509,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,37934,0,5266
+1785461495175,37935,/web/index.php/auth/login-7-0,302,Found,AssignLeave 1-5,text,true,,1559,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,37934,0,5266
+1785461533113,33170,/web/index.php/auth/login-7-1,200,OK,AssignLeave 1-5,text,true,,2810,757,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,33170,0,0
+1785461495691,70593,/web/index.php/auth/login-7,200,OK,AssignLeave 1-4,text,true,,4370,1509,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,37417,0,4749
+1785461495691,37417,/web/index.php/auth/login-7-0,302,Found,AssignLeave 1-4,text,true,,1559,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,37417,0,4749
+1785461533111,33173,/web/index.php/auth/login-7-1,200,OK,AssignLeave 1-4,text,true,,2811,757,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,33173,0,0
+1785461493028,71108,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-5,,true,,4369,1509,10,10,null,37934,2149,5266
+1785461492017,70593,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-4,,true,,4370,1509,10,10,null,37417,3675,4749
+1785461529255,37046,/web/index.php/leave/assignLeave-192,200,OK,AssignLeave 1-8,text,true,,3028,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,37046,0,3646
+1785461569480,1594,/web/index.php/api/v2/leave/employees/leave-requests-208,500,Internal Server Error,AssignLeave 1-8,text,false,,255,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,1594,0,0
+1785461528089,38640,Assign_Leave,,"Number of samples in transaction : 3, number of failing samples : 1",AssignLeave 1-8,,false,,3283,1852,10,10,null,38640,4349,3646
+1785461571077,0,Debug Sampler,200,OK,AssignLeave 1-8,text,true,,453,0,10,10,null,0,0,0
+1785461567366,4345,/web/index.php/auth/validate-35,500,Internal Server Error,AssignLeave 1-2,text,false,Test failed: code expected to contain /200/,255,1053,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,4345,0,1684
+1785461567459,4252,/web/index.php/auth/validate-35,500,Internal Server Error,AssignLeave 1-5,text,false,Test failed: code expected to contain /200/,255,1053,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,4252,0,1592
+1785461567536,4237,/web/index.php/auth/validate-35,500,Internal Server Error,AssignLeave 1-4,text,false,Test failed: code expected to contain /200/,255,1053,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,4237,0,1531
+1785461572796,1269,/web/index.php/auth/login-7,500,Internal Server Error,AssignLeave 1-8,text,false,Response was null,255,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1269,0,658
+1785461571078,1269,Launch,,"Number of samples in transaction : 1, number of failing samples : 1",AssignLeave 1-8,,false,,255,752,10,10,null,1269,1718,658
+1785461575445,385,/web/index.php/dashboard/index-35,500,Internal Server Error,AssignLeave 1-5,text,false,Test failed: code expected to contain /200/,255,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,385,0,0
+1785461566284,4637,Login,,"Number of samples in transaction : 2, number of failing samples : 2",AssignLeave 1-5,,false,,510,1920,10,10,null,4637,4910,1592
+1785461575522,372,/web/index.php/auth/validate-35,500,Internal Server Error,AssignLeave 1-8,text,false,Test failed: code expected to contain /200/,255,1053,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,372,0,0
+1785461575816,502,/web/index.php/dashboard/index-35,500,Internal Server Error,AssignLeave 1-4,text,false,Test failed: code expected to contain /200/,255,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,502,0,0
+1785461566284,4739,Login,,"Number of samples in transaction : 2, number of failing samples : 2",AssignLeave 1-4,,false,,510,1920,10,10,null,4739,5295,1531
+1785461578469,408,/web/index.php/dashboard/index-35,500,Internal Server Error,AssignLeave 1-8,text,false,Test failed: code expected to contain /200/,255,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,408,0,0
+1785461574065,780,Login,,"Number of samples in transaction : 2, number of failing samples : 2",AssignLeave 1-8,,false,,510,1920,10,10,null,780,4033,0
+1785461579385,478,/web/index.php/dashboard/index-35,500,Internal Server Error,AssignLeave 1-2,text,false,Test failed: code expected to contain /200/,255,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,478,0,0
+1785461566080,4823,Login,,"Number of samples in transaction : 2, number of failing samples : 2",AssignLeave 1-2,,false,,510,1920,10,10,null,4823,8959,1684
+1785461579851,460,/web/index.php/leave/viewLeaveModule-180,500,Internal Server Error,AssignLeave 1-5,text,false,,255,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,460,0,0
+1785461580487,428,/web/index.php/leave/viewLeaveModule-180,500,Internal Server Error,AssignLeave 1-4,text,false,,255,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,428,0,0
+1785461580905,432,/web/index.php/leave/viewLeaveModule-180,500,Internal Server Error,AssignLeave 1-8,text,false,,255,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,432,0,0
+1785461549050,33314,/web/index.php/api/v2/leave/employees/leave-requests-208,400,Bad Request,AssignLeave 1-6,text,false,,361,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,33314,0,0
+1785461526799,67647,/web/index.php/leave/viewLeaveModule-180,200,OK,AssignLeave 1-3,text,true,,4934,1702,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,32829,0,0
+1785461526799,32829,/web/index.php/leave/viewLeaveModule-180-0,302,Found,AssignLeave 1-3,text,true,,1579,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,32829,0,0
+1785461559629,34817,/web/index.php/leave/viewLeaveModule-180-1,200,OK,AssignLeave 1-3,text,true,,3355,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,34817,0,2466
+1785461584507,31649,/web/index.php/leave/viewLeaveList-181,200,OK,AssignLeave 1-8,text,true,,3355,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,31649,0,0
+1785461578879,32081,Leave,,"Number of samples in transaction : 2, number of failing samples : 1",AssignLeave 1-8,,false,,3610,1702,10,10,null,32081,5198,0
+1785461584879,31349,/web/index.php/leave/viewLeaveList-181,200,OK,AssignLeave 1-5,text,true,,3359,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,31348,0,0
+1785461575831,31809,Leave,,"Number of samples in transaction : 2, number of failing samples : 1",AssignLeave 1-5,,false,,3614,1702,10,10,null,31808,8588,0
+1785461585812,31265,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,AssignLeave 1-6,text,true,,1079,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,31265,0,0
+1785461542322,66256,Assign_Leave,,"Number of samples in transaction : 4, number of failing samples : 2",AssignLeave 1-6,,false,,1695,2852,10,10,null,66256,8502,0
+1785461586141,30939,/web/index.php/leave/viewLeaveList-181,200,OK,AssignLeave 1-4,text,true,,3358,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,30938,0,0
+1785461576318,31367,Leave,,"Number of samples in transaction : 2, number of failing samples : 1",AssignLeave 1-4,,false,,3613,1702,10,10,null,31366,9395,0
+1785461617081,0,Debug Sampler,200,OK,AssignLeave 1-6,text,true,,452,0,10,10,null,0,0,0
+1785461555793,63270,/web/index.php/leave/viewLeaveModule-180,200,OK,AssignLeave 1-10,text,true,,4940,1702,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,31278,0,0
+1785461555793,31278,/web/index.php/leave/viewLeaveModule-180-0,302,Found,AssignLeave 1-10,text,true,,1579,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,31278,0,0
+1785461587071,31992,/web/index.php/leave/viewLeaveModule-180-1,200,OK,AssignLeave 1-10,text,true,,3361,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,31991,0,621
+1785461565216,62920,/web/index.php/auth/login-7,200,OK,AssignLeave 1-9,text,true,,4366,1509,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31890,0,672
+1785461565216,31892,/web/index.php/auth/login-7-0,302,Found,AssignLeave 1-9,text,true,,1559,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,31890,0,672
+1785461597109,31027,/web/index.php/auth/login-7-1,200,OK,AssignLeave 1-9,text,true,,2807,757,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31026,0,0
+1785461562100,62920,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-9,,true,,4366,1509,10,10,null,31890,3118,672
+1785461597570,31560,/web/index.php/leave/viewLeaveList-181,200,OK,AssignLeave 1-3,text,true,,3355,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,31560,0,0
+1785461524095,99207,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-3,,true,,8289,2552,10,10,null,64389,5830,0
+1785461631474,2193,/web/index.php/leave/assignLeave-192,500,Internal Server Error,AssignLeave 1-3,text,false,,255,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,2193,0,1478
+1785461584771,62308,/web/index.php/leave/viewLeaveModule-180,200,OK,AssignLeave 1-2,text,true,,4936,1702,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,31383,0,0
+1785461584771,31383,/web/index.php/leave/viewLeaveModule-180-0,302,Found,AssignLeave 1-2,text,true,,1579,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,31383,0,0
+1785461616156,30923,/web/index.php/leave/viewLeaveModule-180-1,200,OK,AssignLeave 1-2,text,true,,3357,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,30922,0,0
+1785461616908,31204,/web/index.php/leave/assignLeave-192,200,OK,AssignLeave 1-5,text,true,,3032,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,31204,0,0
+1785461617592,31538,/web/index.php/leave/assignLeave-192,200,OK,AssignLeave 1-8,text,true,,3028,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,31538,0,0
+1785461619999,31138,/web/index.php/leave/assignLeave-192,200,OK,AssignLeave 1-4,text,true,,3033,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,31138,0,0
+1785461622997,31352,/web/index.php/leave/viewLeaveList-181,200,OK,AssignLeave 1-10,text,true,,3361,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,31352,0,0
+1785461552367,94622,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-10,,true,,8301,2552,10,10,null,62630,7361,0
+1785461561201,96119,/web/index.php/auth/validate-35,200,OK,AssignLeave 1-7,text,true,,5903,2982,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,32935,0,946
+1785461561201,32935,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-7,text,true,,1534,1053,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,32935,0,946
+1785461594137,31026,/web/index.php/auth/validate-35-1,302,Found,AssignLeave 1-7,text,true,,1559,962,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,31026,0,0
+1785461625165,32156,/web/index.php/auth/validate-35-2,200,OK,AssignLeave 1-7,text,true,,2810,967,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,32155,0,719
+1785461560131,97189,/web/index.php/auth/validate-35,200,OK,AssignLeave 1-1,text,true,,5903,2982,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,34312,0,1967
+1785461560131,34312,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-1,text,true,,1534,1053,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,34312,0,1967
+1785461594446,31028,/web/index.php/auth/validate-35-1,302,Found,AssignLeave 1-1,text,true,,1559,962,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,31028,0,0
+1785461625477,31844,/web/index.php/auth/validate-35-2,200,OK,AssignLeave 1-1,text,true,,2810,967,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31844,0,511
+1785461659846,1057,/web/index.php/dashboard/index-35,500,Internal Server Error,AssignLeave 1-1,text,false,Test failed: code expected to contain /200/,255,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1057,0,0
+1785461559118,98246,Login,,"Number of samples in transaction : 2, number of failing samples : 1",AssignLeave 1-1,,false,,6158,3849,10,10,null,35369,3540,1967
+1785461664224,1802,/web/index.php/leave/viewLeaveModule-180,500,Internal Server Error,AssignLeave 1-1,text,false,,255,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,1802,0,0
+1785461636906,32195,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,AssignLeave 1-3,text,true,,1079,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,32195,0,0
+1785461629132,34388,Assign_Leave,,"Number of samples in transaction : 3, number of failing samples : 1",AssignLeave 1-3,,false,,1334,1852,10,10,null,34388,5583,1478
+1785461669103,1,Debug Sampler,200,OK,AssignLeave 1-3,text,true,,452,0,10,10,null,0,0,0
+1785461668871,431,/web/index.php/leave/viewLeaveList-181,500,Internal Server Error,AssignLeave 1-1,text,false,,255,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,431,0,0
+1785461660904,2233,Leave,,"Number of samples in transaction : 2, number of failing samples : 2",AssignLeave 1-1,,false,,510,1702,10,10,null,2233,6165,0
+1785461671879,1518,/web/index.php/leave/assignLeave-192,500,Internal Server Error,AssignLeave 1-1,text,false,,255,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,1518,0,0
+1785461672206,3547,/web/index.php/auth/login-7,500,Internal Server Error,AssignLeave 1-3,text,false,Response was null,255,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,3547,0,2830
+1785461669106,3547,Launch,,"Number of samples in transaction : 1, number of failing samples : 1",AssignLeave 1-3,,false,,255,752,10,10,null,3547,3101,2830
+1785461676425,482,/web/index.php/api/v2/leave/employees/leave-requests-208,500,Internal Server Error,AssignLeave 1-1,text,false,,255,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,482,0,0
+1785461669303,2000,Assign_Leave,,"Number of samples in transaction : 3, number of failing samples : 2",AssignLeave 1-1,,false,,510,1852,10,10,null,2000,5610,0
+1785461676912,1,Debug Sampler,200,OK,AssignLeave 1-1,text,true,,453,0,10,10,null,0,0,0
+1785461651377,34718,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,AssignLeave 1-5,text,true,,1079,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,34718,0,1749
+1785461652278,33817,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,AssignLeave 1-8,text,true,,1079,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,33817,0,1052
+1785461616157,65355,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",AssignLeave 1-8,,true,,4107,1852,10,10,null,65355,4587,1052
+1785461616228,65922,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",AssignLeave 1-5,,true,,4111,1852,10,10,null,65922,3950,1749
+1785461686100,0,Debug Sampler,200,OK,AssignLeave 1-8,text,true,,452,0,10,10,null,0,0,0
+1785461686100,0,Debug Sampler,200,OK,AssignLeave 1-5,text,true,,452,0,10,10,null,0,0,0
+1785461651223,35910,/web/index.php/leave/viewLeaveList-181,200,OK,AssignLeave 1-2,text,true,,3357,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,35910,0,1798
+1785461579863,98218,Leave,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-2,,true,,8293,2552,10,10,null,67293,9054,1798
+1785461621545,65587,/web/index.php/auth/login-7,200,OK,AssignLeave 1-6,text,true,,4366,1509,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,32601,0,1679
+1785461621545,32601,/web/index.php/auth/login-7-0,302,Found,AssignLeave 1-6,text,true,,1559,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,32601,0,1679
+1785461654147,32985,/web/index.php/auth/login-7-1,200,OK,AssignLeave 1-6,text,true,,2807,757,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,32984,0,0
+1785461617083,65587,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-6,,true,,4366,1509,10,10,null,32601,4467,1679
+1785461654466,35613,/web/index.php/api/v2/leave/employees/leave-requests-208,400,Bad Request,AssignLeave 1-4,text,false,,361,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,35613,0,3035
+1785461655951,35164,/web/index.php/leave/assignLeave-192,200,OK,AssignLeave 1-10,text,true,,3034,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,35164,0,2808
+1785461694359,441,/web/index.php/api/v2/leave/employees/leave-requests-208,500,Internal Server Error,AssignLeave 1-10,text,false,,255,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,441,0,0
+1785461654350,35605,Assign_Leave,,"Number of samples in transaction : 3, number of failing samples : 1",AssignLeave 1-10,,false,,3289,1852,10,10,null,35605,4847,2808
+1785461694803,0,Debug Sampler,200,OK,AssignLeave 1-10,text,true,,454,0,10,10,null,0,0,0
+1785461664285,33086,/web/index.php/dashboard/index-35,200,OK,AssignLeave 1-7,text,true,,2810,867,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,33086,0,0
+1785461560139,129205,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-7,,true,,8713,3849,10,10,null,66021,8027,946
+1785461700109,1243,/web/index.php/leave/viewLeaveModule-180,500,Internal Server Error,AssignLeave 1-7,text,false,,255,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,1243,0,530
+1785461704238,492,/web/index.php/leave/viewLeaveList-181,500,Internal Server Error,AssignLeave 1-7,text,false,,255,850,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,492,0,0
+1785461697372,1735,Leave,,"Number of samples in transaction : 2, number of failing samples : 2",AssignLeave 1-7,,false,,510,1702,10,10,null,1735,5624,530
+1785461706453,460,/web/index.php/leave/assignLeave-192,500,Internal Server Error,AssignLeave 1-7,text,false,,255,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,460,0,0
+1785461689580,31740,/web/index.php/leave/assignLeave-192,200,OK,AssignLeave 1-2,text,true,,3030,852,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,31740,0,0
+1785461688728,33923,/web/index.php/auth/login-7,500,Internal Server Error,AssignLeave 1-8,text,false,Response was null,1814,1509,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,33413,0,1156
+1785461688728,33413,/web/index.php/auth/login-7-0,302,Found,AssignLeave 1-8,text,true,,1559,752,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,33413,0,1156
+1785461722144,507,/web/index.php/auth/login-7-1,500,Internal Server Error,AssignLeave 1-8,text,false,,255,757,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,507,0,0
+1785461686103,33923,Launch,,"Number of samples in transaction : 1, number of failing samples : 1",AssignLeave 1-8,,false,,1814,1509,10,10,null,33413,2624,1156
+1785461693325,30862,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,AssignLeave 1-4,text,true,,1079,1000,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,30861,0,0
+1785461617081,97613,Assign_Leave,,"Number of samples in transaction : 4, number of failing samples : 1",AssignLeave 1-4,,false,,4473,2852,10,10,null,97612,9500,3035
+1785461724195,0,Debug Sampler,200,OK,AssignLeave 1-4,text,true,,452,0,10,10,null,0,0,0
+1785461629262,95839,/web/index.php/auth/validate-35,200,OK,AssignLeave 1-9,text,true,,5900,2982,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,32030,0,517
+1785461629262,32030,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-9,text,true,,1534,1053,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,32030,0,517
+1785461661293,31866,/web/index.php/auth/validate-35-1,302,Found,AssignLeave 1-9,text,true,,1559,962,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,31866,0,0
+1785461693161,31940,/web/index.php/auth/validate-35-2,200,OK,AssignLeave 1-9,text,true,,2807,967,10,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31940,0,511
+1785461628139,95839,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AssignLeave 1-9,,true,,5900,2982,10,10,null,32030,1125,517
+1785461726166,1298,/web/index.php/auth/login-7,500,Internal Server Error,AssignLeave 1-4,text,false,Response was null,255,752,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1298,0,688
+1785461724196,1298,Launch,,"Number of samples in transaction : 1, number of failing samples : 1",AssignLeave 1-4,,false,,255,752,9,9,null,1298,1971,688
+1785461728601,605,/web/index.php/auth/validate-35,500,Internal Server Error,AssignLeave 1-4,text,false,Test failed: code expected to contain /200/,255,1053,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,605,0,0
+1785461698208,32328,/web/index.php/auth/login-7,500,Internal Server Error,AssignLeave 1-10,text,false,Response was null,1814,1509,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31923,0,588
+1785461698208,31923,/web/index.php/auth/login-7-0,302,Found,AssignLeave 1-10,text,true,,1559,752,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,31923,0,588
+1785461730131,405,/web/index.php/auth/login-7-1,500,Internal Server Error,AssignLeave 1-10,text,false,,255,757,9,9,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,405,0,0
+1785461694804,32328,Launch,,"Number of samples in transaction : 1, number of failing samples : 1",AssignLeave 1-10,,false,,1814,1509,9,9,null,31923,3408,588
+1785461732815,485,/web/index.php/dashboard/index-35,500,Internal Server Error,AssignLeave 1-4,text,false,Test failed: code expected to contain /200/,255,867,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,485,0,0
+1785461727465,1090,Login,,"Number of samples in transaction : 2, number of failing samples : 2",AssignLeave 1-4,,false,,510,1920,8,8,null,1090,4746,0
+1785461734579,464,/web/index.php/leave/viewLeaveModule-180,500,Internal Server Error,AssignLeave 1-4,text,false,,255,852,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,464,0,0
+1785461735578,489,/web/index.php/leave/viewLeaveList-181,500,Internal Server Error,AssignLeave 1-4,text,false,,255,850,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList,489,0,0
+1785461733300,953,Leave,,"Number of samples in transaction : 2, number of failing samples : 2",AssignLeave 1-4,,false,,510,1702,8,8,null,953,1814,0
+1785461737195,407,/web/index.php/leave/assignLeave-192,500,Internal Server Error,AssignLeave 1-4,text,false,,255,852,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave,407,0,0
+1785461710171,30918,/web/index.php/api/v2/leave/employees/leave-requests-208,400,Bad Request,AssignLeave 1-7,text,false,,361,1000,8,8,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,30918,0,0
+1785461680088,63044,/web/index.php/auth/login-7,200,OK,AssignLeave 1-1,text,true,,4369,1509,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,32016,0,588
+1785461680088,32016,/web/index.php/auth/login-7-0,302,Found,AssignLeave 1-1,text,true,,1559,752,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,32016,0,588
+1785461712105,31027,/web/index.php/auth/login-7-1,200,OK,AssignLeave 1-1,text,true,,2810,757,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31027,0,0
+1785461676914,63044,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-1,,true,,4369,1509,7,7,null,32016,3177,588
+1785461687777,64433,/web/index.php/auth/login-7,200,OK,AssignLeave 1-5,text,true,,4369,1509,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,33441,0,2106
+1785461687777,33441,/web/index.php/auth/login-7-0,302,Found,AssignLeave 1-5,text,true,,1559,752,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,33441,0,2106
+1785461721220,30990,/web/index.php/auth/login-7-1,200,OK,AssignLeave 1-5,text,true,,2810,757,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,30989,0,0
+1785461686103,64433,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",AssignLeave 1-5,,true,,4369,1509,7,7,null,33441,1678,2106
+1785461724466,31673,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,AssignLeave 1-2,text,true,,1079,1000,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,31673,0,543
+1785461687136,63413,Assign_Leave,200,"Number of samples in transaction : 3, number of failing samples : 0",AssignLeave 1-2,,true,,4109,1852,7,7,null,63413,5592,543
+1785461756141,1,Debug Sampler,200,OK,AssignLeave 1-2,text,true,,452,0,7,7,null,0,0,0
+1785461759766,6223,/web/index.php/auth/login-7,500,Internal Server Error,AssignLeave 1-2,text,false,Response was null,255,752,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,6223,0,3952
+1785461756144,6223,Launch,,"Number of samples in transaction : 1, number of failing samples : 1",AssignLeave 1-2,,false,,255,752,7,7,null,6223,3625,3952
+1785461767207,667,/web/index.php/auth/validate-35,500,Internal Server Error,AssignLeave 1-2,text,false,Test failed: code expected to contain /200/,255,1053,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,667,0,0
+1785461769923,448,/web/index.php/dashboard/index-35,500,Internal Server Error,AssignLeave 1-2,text,false,Test failed: code expected to contain /200/,255,867,7,7,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,448,0,0
+1785461765993,1115,Login,,"Number of samples in transaction : 2, number of failing samples : 2",AssignLeave 1-2,,false,,510,1920,7,7,null,1115,3264,0
+1785461740768,31344,/web/index.php/api/v2/leave/employees/leave-requests-208,200,OK,AssignLeave 1-4,text,true,,1079,1000,6,6,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/employees/leave-requests,31344,0,0
+1785461736068,31751,Assign_Leave,,"Number of samples in transaction : 3, number of failing samples : 1",AssignLeave 1-4,,false,,1334,1852,6,6,null,31751,4296,0
+1785461677188,95131,/web/index.php/auth/validate-35,200,OK,AssignLeave 1-3,text,true,,5902,2982,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,32048,0,0
+1785461677188,32048,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-3,text,true,,1534,1053,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,32048,0,0
+1785461709239,30924,/web/index.php/auth/validate-35-1,302,Found,AssignLeave 1-3,text,true,,1559,962,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,30924,0,0
+1785461740164,32155,/web/index.php/auth/validate-35-2,200,OK,AssignLeave 1-3,text,true,,2809,967,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,32154,0,720
+1785461688228,95970,/web/index.php/auth/validate-35,200,OK,AssignLeave 1-6,text,true,,5900,2982,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,32989,0,1556
+1785461688228,32991,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-6,text,true,,1534,1053,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,32989,0,1556
+1785461721221,30984,/web/index.php/auth/validate-35-1,302,Found,AssignLeave 1-6,text,true,,1559,962,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,30983,0,0
+1785461752205,31992,/web/index.php/auth/validate-35-2,200,OK,AssignLeave 1-6,text,true,,2807,967,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31992,0,452
+1785461723844,95374,/web/index.php/auth/validate-35,200,OK,AssignLeave 1-8,text,true,,5900,2982,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31275,0,0
+1785461723844,31275,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-8,text,true,,1534,1053,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,31275,0,0
+1785461755119,33072,/web/index.php/auth/validate-35-1,302,Found,AssignLeave 1-8,text,true,,1559,962,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,33072,0,713
+1785461788192,31026,/web/index.php/auth/validate-35-2,200,OK,AssignLeave 1-8,text,true,,2807,967,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31025,0,0
+1785461744510,94681,/web/index.php/auth/validate-35,200,OK,AssignLeave 1-1,text,true,,5903,2982,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31598,0,570
+1785461744510,31598,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-1,text,true,,1534,1053,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,31598,0,570
+1785461776109,31139,/web/index.php/auth/validate-35-1,302,Found,AssignLeave 1-1,text,true,,1559,962,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,31139,0,0
+1785461807248,31943,/web/index.php/auth/validate-35-2,200,OK,AssignLeave 1-1,text,true,,2810,967,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31943,0,503
+1785461753395,94867,/web/index.php/auth/validate-35,200,OK,AssignLeave 1-5,text,true,,5903,2982,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31825,0,491
+1785461753395,31825,/web/index.php/auth/validate-35-0,302,Found,AssignLeave 1-5,text,true,,1534,1053,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,31825,0,491
+1785461785221,31130,/web/index.php/auth/validate-35-1,302,Found,AssignLeave 1-5,text,true,,1559,962,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,31130,0,0
+1785461816353,31910,/web/index.php/auth/validate-35-2,200,OK,AssignLeave 1-5,text,true,,2810,967,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,31909,0,513
